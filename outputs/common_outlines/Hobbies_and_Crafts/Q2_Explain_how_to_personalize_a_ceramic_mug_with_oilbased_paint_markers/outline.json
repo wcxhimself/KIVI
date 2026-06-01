@@ -1,0 +1,85 @@
+{
+    "video_goal": "Personalize a ceramic mug by prepping the surface, drawing with oil-based paint markers, and curing the design in an oven.",
+    "required_subjects_and_props": "Plain white ceramic mug, oil-based paint markers, rubbing alcohol, cotton pads, cotton swabs, scrap paper, kitchen oven.",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hand wipes the exterior surface of a plain white ceramic mug using a cotton pad soaked in rubbing alcohol."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hand rubs a dry microfiber cloth over the wet areas of the mug until the surface is completely matte and dry."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.5,
+            "camera_angle": "Medium close-up",
+            "visual_action": "Hand vigorously shakes a capped oil-based paint marker up and down."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Hand presses the tip of the oil-based marker repeatedly onto a piece of scrap paper until colored paint flows down into the white nib."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 5.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The marker tip draws a thick, opaque line directly onto the curved exterior of the ceramic mug."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hand switches to a fine-tip oil-based marker and draws small dots and accent lines around the initial design."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A cotton swab dipped in rubbing alcohol carefully wipes away a small, wet paint smudge on the mug's surface."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Medium shot",
+            "visual_action": "Hand places the fully painted mug onto a wooden table and pulls away, leaving it to air dry."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Inside-oven view",
+            "visual_action": "Hand places the painted ceramic mug directly onto the center metal rack inside a cold, unheated kitchen oven."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hand turns the oven temperature dial to the 350 degrees setting."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hand presses the digital buttons on the oven interface to set a bake timer for 30 minutes."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium close-up",
+            "visual_action": "Hand turns the oven dial to the 'Off' position, leaving the oven door slightly ajar with the mug still resting on the rack inside."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hand lifts the fully cooled, personalized ceramic mug out of the oven and rotates it under a light to show the glossy, cured paint design."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "rectangular 16x25x1 air filter, red and white 3M Filtrete packaging, pleated white fabric",
+    "continuity_anchors": "well-lit residential hallway with neutral beige walls and soft overhead indoor lighting",
+    "segments": [
+        {
+            "prompt": "A close-up shot focuses tightly on the center of the frame as the scene begins. Two hands hold up a rectangular 16x25x1 air filter with red and white 3M Filtrete packaging, gently tilting it back and forth to catch the light on the printed size dimensions and brand logo. The background features a well-lit residential hallway with neutral beige walls and soft overhead indoor lighting.",
+            "num_frames": 97
+        }
+    ]
+}

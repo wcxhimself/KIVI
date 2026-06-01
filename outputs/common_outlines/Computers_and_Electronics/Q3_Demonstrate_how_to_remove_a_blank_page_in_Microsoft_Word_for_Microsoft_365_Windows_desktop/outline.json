@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate how to reveal hidden formatting marks and delete an unwanted blank page in Microsoft Word for Microsoft 365.",
+    "required_subjects_and_props": "Microsoft Word for Microsoft 365 (Windows desktop), computer mouse, physical keyboard",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "The screen displays a Microsoft Word document with text on the first page and an entirely blank second page."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The mouse cursor moves to the top ribbon of the Microsoft Word 365 interface and hovers over the 'Home' tab."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The cursor clicks the 'Home' tab, expanding the ribbon to show the Clipboard, Font, and Paragraph tool groups."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The cursor moves to the Paragraph group and hovers directly over the 'Show/Hide ¶' button, which looks like a paragraph mark."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "The cursor clicks the 'Show/Hide ¶' button, instantly causing blue paragraph marks (¶) and formatting dots to appear throughout the document text."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "The screen scrolls down to the blank second page, revealing a dotted line containing the words 'Page Break' and several empty blue paragraph marks (¶)."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The cursor clicks at the beginning of the 'Page Break' dotted line and drags down to highlight it along with the empty paragraph marks in gray."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up view",
+            "visual_action": "A human finger presses down on the 'Delete' key on a physical computer keyboard."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The highlighted 'Page Break' line and the gray-highlighted paragraph marks instantly disappear from the Word document."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "The view instantly shifts up as the blank page vanishes, snapping the bottom of the document directly to the end of the text on the first page."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture, zoomed in",
+            "visual_action": "The cursor moves back up to the top ribbon and clicks the 'Show/Hide ¶' button a second time."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "All the blue paragraph marks (¶) and formatting dots disappear from the screen, leaving only the clean text."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.5,
+            "camera_angle": "Screen capture, full screen",
+            "visual_action": "The screen scrolls smoothly up and down the document, visually confirming that the blank page is gone and only one page remains."
+        }
+    ]
+}

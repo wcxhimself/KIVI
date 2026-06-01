@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen",
+    "continuity_anchors": "on a flat wooden desk under bright, even overhead office lighting",
+    "video_goal": "Demonstrate how to efficiently and accurately count a retail cash drawer using the AccuBANKER AB-5000 bill counter.",
+    "total_steps": 12,
+    "single_prompt": "A close-up shows a hand flipping the rear power switch of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen, illuminating the screen with a blue backlight on a flat wooden desk under bright, even overhead office lighting. From an over-the-shoulder view, two hands lift a black plastic cash drawer filled with sorted bills and coins, placing it to the left of the machine. A close-up reveals an index finger pressing the 'MODE' button until 'MIX' appears on the display. From a high-angle view, a hand reaches into the far-right compartment of the cash drawer, lifts the metal spring clip, and pulls out a thick stack of $1 bills. At eye-level, two hands tap the edges of the $1 bill stack against the desk to align them perfectly. A close-up shows the hand placing the aligned stack into the top hopper, sliding them back to trigger the feed sensor. A macro shot captures the rubber rollers spinning rapidly, pulling the bills down into the bottom stacker. A close-up focuses on the LCD screen numbers ticking up rapidly to display a final piece count of '45' and a total value of '$45'. At eye-level, a hand grasps the neatly stacked $1 bills from the bottom stacker and pulls them out. From an over-the-shoulder view, a hand holding a pen writes '45.00' on the '$1' line of a paper tally sheet. A high-angle view shows the hand reaching back into the cash drawer, lifting the second metal clip, and pulling out a stack of $5 bills. Finally, a close-up shows the hand dropping the squared $5 bills into the top hopper, and the rollers immediately begin spinning to count the new stack.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up angle focuses on the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen resting in its starting position. A hand flips the rear power switch, causing the front LCD screen to illuminate with a bright blue backlight. The silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen sits securely on a flat wooden desk under bright, even overhead office lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view looking down at the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. Two hands lift a black plastic cash drawer filled with sorted bills and coins, placing it directly to the left of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. This setup remains on a flat wooden desk under bright, even overhead office lighting alongside the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera glides into a tight close-up on the control panel of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. An index finger presses the 'MODE' button on the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen until the word 'MIX' appears on the digital display. The illuminated display shines clearly on a flat wooden desk under bright, even overhead office lighting, highlighting the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera shifts smoothly to a high-angle view overlooking the cash drawer and the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand reaches into the far-right compartment of the cash drawer, lifting the metal spring clip, and pulls out a thick stack of $1 bills next to the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The workspace is clearly visible on a flat wooden desk under bright, even overhead office lighting, anchoring the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera lowers to an eye-level view directly in front of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. Two hands tap the long and short edges of the $1 bill stack against the flat desk surface to align all the bills perfectly before feeding them into the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The alignment happens on a flat wooden desk under bright, even overhead office lighting, right beside the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pushes in for a close-up on the top section of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand places the aligned stack of bills into the top hopper of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen, sliding them back to trigger the feed sensor. The machine waits on a flat wooden desk under bright, even overhead office lighting, showcasing the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions into an extreme macro shot of the internal mechanisms of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The rubber rollers of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen spin rapidly, pulling the bills one by one from the top hopper and feeding them down into the bottom stacker. The rapid motion occurs on a flat wooden desk under bright, even overhead office lighting, emphasizing the speed of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera pulls back slightly to a close-up of the display on the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The LCD screen numbers on the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen tick up rapidly, stopping to display a final piece count of '45' and a total value of '$45'. The glowing numbers stand out on a flat wooden desk under bright, even overhead office lighting, illuminating the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts to an eye-level view facing the bottom tray of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand grasps the neatly stacked $1 bills from the bottom stacker of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen and pulls them completely out of the machine. The retrieval takes place on a flat wooden desk under bright, even overhead office lighting, right in front of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera moves to an over-the-shoulder view looking past the user toward the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand holding a pen writes the number '45.00' on the '$1' line of a paper cash drawer tally sheet resting near the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The paperwork is completed on a flat wooden desk under bright, even overhead office lighting, adjacent to the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera rises to a high-angle view capturing both the cash drawer and the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand reaches back into the cash drawer, lifts the second metal clip, and pulls out a stack of $5 bills to be counted by the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. The drawer and bills rest on a flat wooden desk under bright, even overhead office lighting, keeping the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen in frame.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera swoops down into a close-up on the top feed of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen. A hand drops the squared $5 bills into the top hopper of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen, and the rollers immediately begin spinning to count the new stack. The counting resumes on a flat wooden desk under bright, even overhead office lighting, showcasing the efficiency of the silver and black AccuBANKER AB-5000 bill counter with a top hopper and front LCD screen.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

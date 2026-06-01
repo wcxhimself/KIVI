@@ -1,0 +1,45 @@
+# Template: segment mode — copy to configs/<name>.yaml and edit
+
+name: your-model-name              # lowercase, hyphens, e.g. my-model
+description: "A brief description" # shown in --list-models
+mode: segment                      # segment | interactive | single_prompt | api                      
+fps: 24                            # output frame rate of the model
+max_num_frames: 121                # maximum frames per generation call
+frame_snapping: "4n+1"             # 4n+1 | multiple_of_3 | none
+code_dir: "path/to/your/model/code"  # relative to project root, or absolute path
+
+model_path:                        # model weight directory; ${ENV:-fallback} supported
+  default: "${YOUR_MODEL_PATH:-models_cache/your_model_weights}"
+
+segment:
+  t2v:                             # first segment (text-to-video)
+    command: |
+      python {code_dir}/generate.py
+        --mode t2v
+        --prompt "{prompt}"
+        --output "{output_path}"
+        --seed {seed}
+        {frame_num_arg}
+  i2v:                             # subsequent segments (image-to-video)
+    command: |
+      python {code_dir}/generate.py
+        --mode i2v
+        --prompt "{prompt}"
+        --ref_image "{ref_image_path}"
+        --output "{output_path}"
+        --seed {seed}
+        {frame_num_arg}
+
+multi_gpu:                         # delete if not needed; activated when --gpu "0,1"
+  t2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --mode t2v --prompt "{prompt}" --output "{output_path}"
+        --seed {seed} {frame_num_arg}
+  i2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --mode i2v --prompt "{prompt}" --ref_image "{ref_image_path}"
+        --output "{output_path}" --seed {seed} {frame_num_arg}

@@ -1,0 +1,43 @@
+# Video Pair Evaluation Guidelines
+
+## 1 Factuality Evaluation
+
+**Role**: Fact-checker comparing Video A vs B on factual accuracy. Errors include: incorrect facts, wrong objects, false causalities, erroneous safety info, and entity-attribute mismatches with the QUESTION entity's documented characteristics.
+
+**Principles**:
+1. Entity-Spec Alignment: Depicting an attribute that contradicts the QUESTION entity's documented characteristics is a factual error.
+2. Use authoritative sources for critical/specialized facts; common sense suffices otherwise.
+3. Judge only what is visually or aurally present in the video — do not infer unshown info.
+4. Do not penalize a video simply for having fewer factual claims if it has no errors.
+
+**Decision** (forced choice: pick A or B, no tie):
+1. Fewer/less severe errors wins.
+2. If errors are comparable, more correct verifiable facts wins.
+3. If factual content is comparable, more specific, less ambiguous, less misleading wins.
+4. If both are poor, pick the relatively more reliable one.
+
+## 2 Helpfulness Evaluation
+
+**Role**: Evaluate whether a user can complete the QUESTION task relying solely on this video. Do NOT judge aesthetics or generation quality.
+
+**Principles**:
+1. Judge only content actually in the video.
+2. Do not use external knowledge to fill missing steps.
+3. Judge for this QUESTION only, not overall quality.
+4. Evaluate the method the video actually uses, not a different method.
+
+**Decision** (forced choice: pick A or B, no tie):
+
+Watch both videos and form an overall impression: which one leaves you more confident that a user could successfully complete the task? Pay equal attention to all three aspects — a truly helpful video must be **on-topic** (matches the QUESTION), **complete** (shows the essential process), and **clear** (easy to follow). Do not prioritize one over another; weigh them together and pick the video that feels more useful overall.
+
+1. If one video is clearly stronger across all three, choose it.
+2. If they have trade-offs (e.g., A is more complete but B is clearer), decide based on which deficit would be harder for the user to work around.
+3. If both are poor, pick the **relatively more usable** one.
+
+## 3 Workflow
+1. Read the QUESTION.
+2. Consult the reference video and search the QUESTION entity's documented characteristics (brand, model, features, capabilities, behaviors, etc.).
+3. Watch Video A — note factual errors, assess A's helpfulness.
+4. Watch Video B — same.
+5. Vote `fact_vote: A` or `B` with brief reasoning.
+6. Vote `helpfulness_vote: A` or `B` with brief reasoning.

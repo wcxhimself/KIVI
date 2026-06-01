@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "square white Aida cloth, wooden embroidery hoop",
+    "continuity_anchors": "resting on a well-lit, light oak crafting table under soft, diffused overhead lighting",
+    "segments": [
+        {
+            "prompt": "A close-up shot establishes the workspace as the crafting process begins. A pair of hands carefully places a square of white Aida cloth evenly over the inner ring of a wooden embroidery hoop. The setup is resting on a well-lit, light oak crafting table under soft, diffused overhead lighting.",
+            "num_frames": 96
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen",
+    "continuity_anchors": "on a flat wooden workbench under bright, even indoor lighting",
+    "video_goal": "Demonstrate how to accurately test soil pH using the Luster Leaf Rapitest 1605 digital tester.",
+    "total_steps": 12,
+    "single_prompt": "An overhead view shows hands placing a green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen, a plastic cup containing dry soil, and a bottle of distilled water onto a flat wooden workbench under bright, even indoor lighting. The camera moves to a close-up as fingers firmly rub an abrasive cleaning pad up and down the metal probe to remove oxidation. From an over-the-shoulder view, a hand pours a steady stream of distilled water into the cup until the soil is fully saturated. In a close-up, a metal spoon vigorously stirs the mixture into a thick, muddy slurry. An extreme close-up shows a thumb pressing the power button on the tester, illuminating the screen with a default number. From an eye-level close-up, a hand pushes the metal probe straight down into the center of the mud slurry. A close-up reveals the hand twisting the tester back and forth to pack the wet soil tightly against the probe. An extreme close-up focuses entirely on the digital screen as numbers rapidly fluctuate up and down, eventually slowing down to lock onto a stable reading of '6.5'. An eye-level close-up shows the hand pulling the tester straight up, extracting the muddy probe from the cup. In a close-up, a white paper towel wipes downward along the probe, removing the mud and leaving the metal shiny. Finally, an extreme close-up shows the thumb pressing the power button one last time, causing the screen to go blank.",
+    "interactive_prompts": [
+        {
+            "prompt": "An overhead view shows the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen, a plastic cup containing dry soil, and a bottle of distilled water in their starting positions. Hands place these items onto the flat work surface to prepare for the test. The setup remains on a flat wooden workbench under bright, even indoor lighting, highlighting the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up focusing on the metal shaft. Fingers firmly rub the included abrasive cleaning pad up and down the metal shaft of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen to remove oxidation. This action takes place on a flat wooden workbench under bright, even indoor lighting, keeping the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen clearly visible.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view overlooking the workspace. A hand tips the bottle of distilled water, pouring a steady stream into the cup of dry soil until fully saturated, while the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen waits nearby. The watering occurs on a flat wooden workbench under bright, even indoor lighting, with the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen resting in the frame.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up on the plastic cup. A metal spoon vigorously stirs the soil and distilled water mixture, breaking up dry lumps to create a thick, muddy slurry beside the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen. The muddy mixture sits on a flat wooden workbench under bright, even indoor lighting, ready for the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up of the cup to an extreme close-up on the front panel of the device. A thumb presses the power button on the front of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen, causing the digital display to illuminate with a default number. The glowing screen shines on a flat wooden workbench under bright, even indoor lighting, emphasizing the details of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to an eye-level close-up capturing both the device and the cup. A hand grips the plastic housing of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen and pushes the metal shaft straight down into the center of the mud slurry. The insertion happens on a flat wooden workbench under bright, even indoor lighting, anchoring the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen in the environment.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an eye-level angle to a close-up focused on where the device meets the soil. The hand twists the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen back and forth slightly in the mud to pack the wet soil tightly against the metal. This twisting motion is captured on a flat wooden workbench under bright, even indoor lighting, showcasing the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen in action.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up of the soil to an extreme close-up focusing entirely on the digital display. The numbers on the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen rapidly fluctuate up and down as it measures the pH. The changing digits are clearly visible on a flat wooden workbench under bright, even indoor lighting, highlighting the interface of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions, maintaining the extreme close-up on the illuminated display. The fluctuating numbers on the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen slow down and finally lock onto a stable reading of '6.5'. The final reading glows steadily on a flat wooden workbench under bright, even indoor lighting, completing the measurement for the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up of the screen to an eye-level close-up showing the whole device. The hand pulls the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen straight up, extracting the muddy metal shaft from the soil cup. The extraction takes place on a flat wooden workbench under bright, even indoor lighting, revealing the dirty green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an eye-level view to a tight close-up on the muddy metal shaft. A white paper towel wraps around the metal shaft of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen and wipes downward, removing all the wet mud and leaving the metal shiny. The cleaning action occurs on a flat wooden workbench under bright, even indoor lighting, restoring the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen to its original state.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up of the clean probe to an extreme close-up of the front control panel. The thumb presses the power button on the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen one last time, and the digital screen goes blank. The powered-off device rests on a flat wooden workbench under bright, even indoor lighting, concluding the demonstration of the green Luster Leaf Rapitest 1605 digital tester with a long metal probe and LCD screen.",
+            "duration_seconds": 3.0
+        }
+    ]
+}

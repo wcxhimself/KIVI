@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "white pleated 3M Filtrete 16x25x1 air filter with red and white branding",
+    "continuity_anchors": "well-lit residential hallway with a white slatted wall-mounted return air vent",
+    "video_goal": "Demonstrate the visual process of removing a dirty HVAC filter and installing a new 3M Filtrete 16x25x1 filter in a home return air vent.",
+    "total_steps": 14,
+    "single_prompt": "A close-up shows hands holding a new white pleated 3M Filtrete 16x25x1 air filter with red and white branding, tilting it to catch the light on the dimensions. The camera shifts to an over-the-shoulder view as hands rip the clear plastic wrapping off the filter and set it aside. In a medium shot, a person walks up to a white slatted wall-mounted return air vent in a well-lit residential hallway and reaches for the top edge. A close-up reveals thumbs pressing down on the two top metal sliding latches simultaneously, releasing them. The camera pulls back to a medium close-up as the metal vent grille swings downward on its bottom hinges, exposing a dark gray, dust-covered old filter inside the wall cavity. From a first-person view, fingers pinch the top cardboard frame of the dirty old filter and slowly pull it completely out of the wall duct, keeping it level. An over-the-shoulder view shows the dirty filter being slid directly into a large black plastic trash bag held open by the person's other hand. An extreme close-up focuses on an index finger tapping the printed 'Airflow' arrow on the side of the new filter's cardboard edge. From a first-person view, hands rotate the new filter so the airflow arrow points directly toward the dark opening of the wall duct. A medium close-up shows hands sliding the new 16x25x1 filter into the metal housing, guiding the bottom edge in first. A close-up captures fingers pressing the four corners of the new filter's cardboard frame to ensure it sits completely flush against the inner metal lip. In a medium close-up, hands lift the slatted metal vent grille, swinging it back up on its hinges toward the wall to cover the new filter. A close-up shows thumbs pushing the two metal latches upward until they click into the locked position. Finally, a medium shot shows a hand wiping the exterior horizontal slats of the closed return air vent with a yellow microfiber cloth to remove any residual dust.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up angle focuses on hands holding a packaged white pleated 3M Filtrete 16x25x1 air filter with red and white branding in the starting position. The hands tilt the packaged filter to catch the light on the red and white branding and the size dimensions. This action takes place in a well-lit residential hallway with a white slatted wall-mounted return air vent, highlighting the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Hands rip the clear plastic wrapping off the white pleated 3M Filtrete 16x25x1 air filter with red and white branding, pulling the plastic away and setting the clean filter aside. The environment remains a well-lit residential hallway with a white slatted wall-mounted return air vent, providing a clear backdrop for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium shot, keeping the white pleated 3M Filtrete 16x25x1 air filter with red and white branding nearby. A person walks up to the vent and reaches both hands toward the top edge, preparing to install the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The scene is set in a well-lit residential hallway with a white slatted wall-mounted return air vent, awaiting the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up on the vent latches, with the white pleated 3M Filtrete 16x25x1 air filter with red and white branding resting just out of frame. Thumbs press down on the two top metal sliding latches of the return air vent grille simultaneously, releasing them from the frame to make way for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The surrounding space is a well-lit residential hallway with a white slatted wall-mounted return air vent, ready to receive the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium close-up as the process of replacing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding continues. The metal vent grille swings downward on its bottom hinges, exposing a dark gray, dust-covered old filter sitting inside the wall cavity, soon to be replaced by the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. This unfolds in a well-lit residential hallway with a white slatted wall-mounted return air vent, contrasting the dirty filter with the pristine white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a first-person view, preparing the space for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Fingers pinch the top cardboard frame of the dirty old filter and slowly pull it completely out of the wall duct, keeping it level to avoid dropping dust before inserting the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The atmosphere is maintained in a well-lit residential hallway with a white slatted wall-mounted return air vent, clearing the way for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view, keeping the fresh white pleated 3M Filtrete 16x25x1 air filter with red and white branding in mind. The dirty filter is slid directly into a large black plastic trash bag held open by the person's other hand, ensuring a clean installation for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The background remains a well-lit residential hallway with a white slatted wall-mounted return air vent, setting the stage for the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an extreme close-up directly on the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. An index finger taps the printed 'Airflow' arrow on the side of the cardboard edge of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The lighting highlights the details in a well-lit residential hallway with a white slatted wall-mounted return air vent, emphasizing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a first-person view holding the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Hands rotate the white pleated 3M Filtrete 16x25x1 air filter with red and white branding so the airflow arrow points directly toward the dark opening of the wall duct. The environment is a well-lit residential hallway with a white slatted wall-mounted return air vent, perfectly framing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium close-up to capture the insertion of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Hands slide the white pleated 3M Filtrete 16x25x1 air filter with red and white branding into the metal housing of the return air vent, guiding the bottom edge in first. This action occurs in a well-lit residential hallway with a white slatted wall-mounted return air vent, securely housing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up on the edges of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Fingers press the four corners of the cardboard frame of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding to ensure it sits completely flush against the inner metal lip of the duct. The setting continues to be a well-lit residential hallway with a white slatted wall-mounted return air vent, perfectly accommodating the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium close-up, showing the grille moving over the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Hands lift the slatted metal vent grille, swinging it back up on its hinges toward the wall to cover the newly installed white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The scene is anchored in a well-lit residential hallway with a white slatted wall-mounted return air vent, concealing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding inside.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up of the latches securing the compartment holding the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. Thumbs push the two metal latches upward until they click into the locked position over the top edge of the grille frame, safely enclosing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The location remains a well-lit residential hallway with a white slatted wall-mounted return air vent, finalizing the installation of the white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium shot of the closed vent that now contains the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. A hand wipes the exterior horizontal slats of the closed return air vent with a yellow microfiber cloth to remove any residual dust left from installing the white pleated 3M Filtrete 16x25x1 air filter with red and white branding. The video concludes in a well-lit residential hallway with a white slatted wall-mounted return air vent, successfully operating with the new white pleated 3M Filtrete 16x25x1 air filter with red and white branding.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

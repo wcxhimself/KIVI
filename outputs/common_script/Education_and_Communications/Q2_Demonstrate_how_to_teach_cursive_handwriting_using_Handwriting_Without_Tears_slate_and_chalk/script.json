@@ -1,0 +1,54 @@
+{
+    "seed": 42,
+    "identity_marker": "rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth",
+    "continuity_anchors": "resting on a flat wooden desk under bright, even overhead classroom lighting",
+    "video_goal": "Demonstrate the Wet-Dry-Try method for teaching cursive handwriting using a Handwriting Without Tears wooden slate, sponge, and chalk.",
+    "total_steps": 11,
+    "single_prompt": "From an over-the-shoulder view, two hands place a rectangular wooden slate with distinct double horizontal lines squarely onto a flat wooden desk under bright, even overhead classroom lighting. A hand sets down a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth directly next to the wooden slate. The thumb and index finger pinch the small wet sponge cube, lifting it from the desk. The wet sponge presses onto the bottom line of the slate, glides up to the middle line, and curves back down, leaving a dark, wet trail in the shape of a cursive 'c'. The hand drops the sponge and picks up the small dry cloth, pinching it tightly. The dry cloth traces the exact path of the wet cursive 'c', erasing the moisture and leaving a dry, faint outline on the slate. The fingers pick up the small piece of white chalk, adjusting into a standard tripod grip. The chalk tip touches the bottom line of the slate and draws a smooth, upward curving stroke to the middle line. The chalk reverses direction, tracing back down the curve to the bottom line, and extends a small upward tail to complete the cursive 'c'. Without lifting the chalk, the hand sweeps the chalk tip up from the tail of the 'c' to form a cursive 'a', linking the two letters seamlessly. Finally, the hand lifts the chalk away, revealing the connected cursive letters 'ca' resting perfectly between the double lines of the wooden slate.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an over-the-shoulder view, two hands hold a rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth in their starting positions. The hands place the rectangular wooden slate with distinct double horizontal lines squarely onto the desk. The scene remains resting on a flat wooden desk under bright, even overhead classroom lighting, highlighting the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. A hand sets down the 1-inch piece of white chalk, the tiny wet sponge cube, and the small dry cloth directly next to the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The items are resting on a flat wooden desk under bright, even overhead classroom lighting, illuminating the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a steady close-up on the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. A thumb and index finger pinch the tiny wet sponge cube, lifting it up beside the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The setup continues resting on a flat wooden desk under bright, even overhead classroom lighting, casting soft shadows around the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a top-down view over the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The tiny wet sponge cube presses onto the bottom line of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth, gliding up to the middle line and curving back down to leave a dark, wet cursive 'c'. The entire workspace is resting on a flat wooden desk under bright, even overhead classroom lighting, clearly showing the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions back to a close-up of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The hand drops the tiny wet sponge cube and picks up the small dry cloth, pinching it tightly next to the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The environment remains resting on a flat wooden desk under bright, even overhead classroom lighting, focusing on the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a top-down view of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The small dry cloth traces the exact path of the wet cursive 'c', erasing the moisture to leave a dry, faint outline on the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The materials are resting on a flat wooden desk under bright, even overhead classroom lighting, emphasizing the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. Fingers pick up the 1-inch piece of white chalk, adjusting into a standard tripod grip beside the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The scene is resting on a flat wooden desk under bright, even overhead classroom lighting, highlighting the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The tip of the 1-inch piece of white chalk touches the bottom line and draws a smooth, upward curving stroke to the middle line of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The setup is resting on a flat wooden desk under bright, even overhead classroom lighting, framing the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The 1-inch piece of white chalk reverses direction, tracing back down the curve to the bottom line and extending a small upward tail to complete the cursive 'c' on the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The workspace remains resting on a flat wooden desk under bright, even overhead classroom lighting, illuminating the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a top-down view over the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. Without lifting the 1-inch piece of white chalk, the hand sweeps the tip up from the tail of the 'c' to form a cursive 'a', linking the two letters seamlessly on the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The objects are resting on a flat wooden desk under bright, even overhead classroom lighting, clearly displaying the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a final close-up of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The hand lifts the 1-inch piece of white chalk away, revealing the connected cursive letters 'ca' resting perfectly between the double lines of the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth. The completed lesson is resting on a flat wooden desk under bright, even overhead classroom lighting, showcasing the rectangular wooden slate with distinct double horizontal lines, a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

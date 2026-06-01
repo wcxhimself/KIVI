@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate how to accurately test soil pH using the Luster Leaf Rapitest 1605 digital tester.",
+    "required_subjects_and_props": "Luster Leaf Rapitest 1605 digital tester, cup of dry soil, bottle of distilled water, spoon, cleaning pad, paper towel",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "Hands place the green Luster Leaf Rapitest 1605 tester, a plastic cup containing dry soil, and a bottle of distilled water onto a flat work surface."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers firmly rub the included abrasive cleaning pad up and down the metal probe of the Rapitest 1605 to remove oxidation."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "A hand tips the bottle of distilled water, pouring a steady stream into the cup of dry soil until the soil is fully saturated."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A metal spoon vigorously stirs the soil and distilled water mixture, breaking up dry lumps to create a thick, muddy slurry."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A thumb presses the power button on the front of the Rapitest 1605, causing the digital screen to illuminate with a default number."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Eye-level close-up",
+            "visual_action": "A hand grips the green plastic housing of the tester and pushes the metal probe straight down into the center of the mud slurry."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand twists the tester back and forth slightly in the mud to pack the wet soil tightly against the metal probe."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The camera focuses entirely on the digital screen of the Rapitest 1605 as the numbers rapidly fluctuate up and down."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The fluctuating numbers on the digital screen slow down and finally lock onto a stable reading of '6.5'."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Eye-level close-up",
+            "visual_action": "The hand pulls the tester straight up, extracting the muddy metal probe from the soil cup."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A white paper towel wraps around the metal probe and wipes downward, removing all the wet mud and leaving the metal shiny."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The thumb presses the power button on the Rapitest 1605 one last time, and the digital screen goes blank."
+        }
+    ]
+}

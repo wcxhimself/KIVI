@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents",
+    "continuity_anchors": "in a brightly lit modern home gym with hardwood floors and soft natural window light",
+    "video_goal": "Demonstrate the physical and software setup process for joining a live cycling class on a Peloton Bike+.",
+    "total_steps": 12,
+    "single_prompt": "A close-up shot focuses on the top edge of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents, where a human hand reaches behind the monitor and firmly presses the physical power button. The camera maintains a close-up as the white Peloton logo brightly illuminates in the center of the black touchscreen during boot-up. Transitioning to an over-the-shoulder view, two hands grip the left and right edges of the monitor and physically swivel the rotating screen 180 degrees until it directly faces the bike saddle. In a first-person view, an index finger taps a circular user profile picture on the illuminated touchscreen interface. Pushing in for a direct screen capture angle, a finger swipes up on the glass to scroll, then taps the 'Schedule' calendar icon located on the bottom navigation bar. Shifting to a tight close-up, the finger taps a red 'Count Me In' button located next to a listed Live Cycling Class. The camera pulls back into a first-person view as a hand reaches down to the center frame of the bike and twists the circular red resistance knob clockwise. Arcing to a side angle, a hand pulls up the black lever under the handlebars, slides the handlebar assembly slightly forward, and pushes the lever back down to lock it. Dropping to a low angle close-up, a foot wearing a black cycling shoe with a red Delta cleat hovers directly over the right metal pedal, then presses down forcefully, snapping the red cleat into the pedal mechanism with a visible interlocking movement. Rising to an over-the-shoulder view, the touchscreen displays a live class waiting room with a digital countdown timer ticking down from 00:15 in the center. Finally, from a first-person view, an index finger taps the pulsing 'Join Class' button on the screen, instantly replacing the timer with a live video feed of the cycling instructor, all taking place in a brightly lit modern home gym with hardwood floors and soft natural window light.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up shot focuses on the top edge of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents, positioned ready for use. A human hand reaches behind the top edge of the monitor and firmly presses the physical power button. The setup remains in a brightly lit modern home gym with hardwood floors and soft natural window light, highlighting the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera maintains a close-up angle, shifting slightly to center on the glass display of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. The white Peloton logo brightly illuminates in the center of the black touchscreen as the system boots up. The screen glows in a brightly lit modern home gym with hardwood floors and soft natural window light, reflecting off the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view behind the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. Two human hands grip the left and right edges of the monitor and physically swivel the rotating screen 180 degrees until it directly faces the bike saddle. This adjustment takes place in a brightly lit modern home gym with hardwood floors and soft natural window light, showcasing the versatile matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera glides into a first-person view looking directly at the glowing display of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. An index finger reaches forward and taps a circular user profile picture on the illuminated touchscreen interface. The user interacts in a brightly lit modern home gym with hardwood floors and soft natural window light, standing before the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pushes in for a direct screen capture angle of the interface on the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. A finger swipes up on the glass to scroll, then taps the 'Schedule' calendar icon located on the bottom navigation bar of the UI. The digital interface shines in a brightly lit modern home gym with hardwood floors and soft natural window light, framed by the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts into a tight close-up on the digital schedule displayed on the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. The finger taps a red 'Count Me In' button located next to a listed Live Cycling Class on the schedule interface. The booking is confirmed in a brightly lit modern home gym with hardwood floors and soft natural window light, utilizing the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back into a first-person view looking down at the center frame of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. A hand reaches down to the center frame of the bike and twists the circular red resistance knob clockwise. The mechanical adjustment occurs in a brightly lit modern home gym with hardwood floors and soft natural window light, preparing the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents for the ride.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly arcs to a side angle capturing the front assembly of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. A hand pulls up the black lever under the handlebars, slides the handlebar assembly slightly forward, and pushes the lever back down to lock it securely. The bike is customized in a brightly lit modern home gym with hardwood floors and soft natural window light, perfectly fitting the rider to the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera drops down to a low angle close-up focusing on the right pedal of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. A foot wearing a black cycling shoe with a red Delta cleat hovers directly over the right metal pedal. The rider prepares to mount in a brightly lit modern home gym with hardwood floors and soft natural window light, standing beside the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera holds the low angle close-up on the pedal mechanism of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. The foot presses down forcefully, snapping the red cleat into the pedal mechanism with a visible interlocking movement. The shoe locks into place in a brightly lit modern home gym with hardwood floors and soft natural window light, securing the rider to the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera rises and transitions to an over-the-shoulder view looking past the rider at the display of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. The touchscreen displays a live class waiting room with a digital countdown timer ticking down from 00:15 in the center. The anticipation builds in a brightly lit modern home gym with hardwood floors and soft natural window light, as the rider sits on the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts to a first-person view directly facing the active screen of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents. An index finger taps the pulsing 'Join Class' button on the screen, instantly replacing the timer with a live video feed of the cycling instructor. The live class begins in a brightly lit modern home gym with hardwood floors and soft natural window light, fully utilizing the connected features of the matte black Peloton Bike+ with a large rectangular rotating touchscreen monitor and red accents.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

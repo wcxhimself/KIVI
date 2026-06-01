@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "black Nikon D850 camera body with textured grips and a matte black 85mm lens",
+    "continuity_anchors": "set against a softly lit, neutral gray studio background with warm overhead continuous lighting",
+    "video_goal": "Demonstrate the physical steps to configure a Nikon D850 camera for portrait photography, focusing on exposure and autofocus settings.",
+    "total_steps": 12,
+    "single_prompt": "A close-up side view reveals the black Nikon D850 camera body with textured grips and a matte black 85mm lens set against a softly lit, neutral gray studio background with warm overhead continuous lighting. Hands align the white dot on the base of the portrait lens with the white dot on the camera mount, twisting the lens counter-clockwise until it audibly clicks into place. The camera smoothly transitions to an extreme close-up top-down view as a finger flicks the power switch collar surrounding the shutter button on the top right of the camera body to the 'ON' position. Transitioning to an over-the-shoulder top-down view, a finger presses and holds the 'MODE' button on the top-left dial cluster while a thumb rotates the rear main command dial until the letter 'M' appears on the top LCD screen. In a close-up top-down view, an index finger rotates the front sub-command dial, rapidly changing the aperture value on the top LCD screen until it stops at 'f/1.8'. Still in a close-up top-down view, a thumb rotates the rear main command dial, changing the shutter speed value on the top LCD screen until it reads '200'. Next, a finger presses the 'ISO' button located just behind the shutter button and rotates the rear dial until the number '100' is displayed on the top LCD screen. The view smoothly transitions to a close-up front-left view as a finger presses and holds the AF-mode button located on the lower-left front of the D850 body, right next to the lens mount. Shifting back to an over-the-shoulder top-down view, while holding the AF-mode button, a thumb rotates the rear main command dial until the text 'AF-S' appears on the top LCD screen. Still holding the AF-mode button, an index finger rotates the front sub-command dial until a single small square icon for Single-point AF appears on the top LCD screen. The camera angle moves to an over-the-shoulder rear view as a finger presses the 'Lv' Live View button on the back right of the camera body, activating the large rear LCD screen to reveal a live feed of a portrait model. In a close-up rear view, a finger taps the rear touchscreen directly over the model's right eye, causing a small red focus box to instantly move to that exact spot on the screen. Finally, an index finger half-presses the shutter button, turning the red focus box on the rear LCD screen green, accompanied by a brief visual confirmation of sharp focus on the model's eye.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up side view reveals the black Nikon D850 camera body with textured grips and a matte black 85mm lens separated but ready for assembly. Hands align the white dot on the base of the portrait lens with the white dot on the mount of the black Nikon D850 camera body with textured grips and a matte black 85mm lens, twisting the lens counter-clockwise until it clicks into place. The fully assembled black Nikon D850 camera body with textured grips and a matte black 85mm lens remains set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a side view to an extreme close-up top-down view of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger flicks the power switch collar surrounding the shutter button on the top right of the black Nikon D850 camera body with textured grips and a matte black 85mm lens to the 'ON' position. The powered-on black Nikon D850 camera body with textured grips and a matte black 85mm lens sits set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to an over-the-shoulder top-down view of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger presses and holds the 'MODE' button on the top-left dial cluster while a thumb rotates the rear main command dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens until the letter 'M' appears on the top LCD screen. The top screen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens glows, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder angle to a close-up top-down view focusing on the top screen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. An index finger rotates the front sub-command dial on the black Nikon D850 camera body with textured grips and a matte black 85mm lens, causing the aperture value on the top LCD screen to change rapidly until it stops at 'f/1.8'. The newly configured black Nikon D850 camera body with textured grips and a matte black 85mm lens rests set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Maintaining the close-up top-down view, the camera focuses on the rear dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A thumb rotates the rear main command dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens, changing the shutter speed value on the top LCD screen until it reads '200'. The updated display on the black Nikon D850 camera body with textured grips and a matte black 85mm lens shines clearly, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Still in a close-up top-down view, the camera highlights the shutter area of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger presses the 'ISO' button located just behind the shutter button of the black Nikon D850 camera body with textured grips and a matte black 85mm lens, rotating the rear dial until the number '100' is displayed on the top LCD screen. The fully exposed-configured black Nikon D850 camera body with textured grips and a matte black 85mm lens remains set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down angle to a close-up front-left view of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger presses and holds the AF-mode button located on the lower-left front of the black Nikon D850 camera body with textured grips and a matte black 85mm lens, right next to the lens mount. The front profile of the black Nikon D850 camera body with textured grips and a matte black 85mm lens is clearly visible, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the front-left view to an over-the-shoulder top-down view of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. While holding the AF-mode button, a thumb rotates the rear main command dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens until the text 'AF-S' appears on the top LCD screen. The autofocus settings on the black Nikon D850 camera body with textured grips and a matte black 85mm lens update, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Maintaining the over-the-shoulder top-down view, the camera focuses on the front dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. Still holding the AF-mode button, an index finger rotates the front sub-command dial of the black Nikon D850 camera body with textured grips and a matte black 85mm lens until a single small square icon appears on the top LCD screen. The top LCD of the black Nikon D850 camera body with textured grips and a matte black 85mm lens displays the new focus mode, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down angle to an over-the-shoulder rear view of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger presses the 'Lv' button located on the back right of the black Nikon D850 camera body with textured grips and a matte black 85mm lens to activate the large rear LCD screen, revealing a live feed of a portrait model. The glowing rear screen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens illuminates the scene, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder angle to a close-up rear view focusing entirely on the LCD screen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. A finger taps the rear touchscreen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens directly over the model's right eye, causing a small red focus box to instantly move to that exact spot on the screen. The live view display on the black Nikon D850 camera body with textured grips and a matte black 85mm lens remains active, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "Maintaining the close-up rear view, the camera observes the final focus confirmation on the screen of the black Nikon D850 camera body with textured grips and a matte black 85mm lens. An index finger half-presses the shutter button on the black Nikon D850 camera body with textured grips and a matte black 85mm lens, turning the red focus box on the rear LCD screen green with a brief visual confirmation of sharp focus on the model's eye. The perfectly focused black Nikon D850 camera body with textured grips and a matte black 85mm lens is ready to shoot, set against a softly lit, neutral gray studio background with warm overhead continuous lighting.",
+            "duration_seconds": 3.5
+        }
+    ]
+}

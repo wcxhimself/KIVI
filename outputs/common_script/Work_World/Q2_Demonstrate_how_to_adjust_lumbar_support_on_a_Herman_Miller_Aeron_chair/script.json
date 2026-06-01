@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad",
+    "continuity_anchors": "in a brightly lit modern office space with white walls and soft natural daylight",
+    "video_goal": "Demonstrate how to adjust the height and depth of the lumbar support pad on a Herman Miller Aeron chair.",
+    "total_steps": 12,
+    "single_prompt": "A medium shot captures a person standing behind an empty dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad in a brightly lit modern office space with white walls and soft natural daylight. The camera focuses closely on the horizontal lumbar support pad resting on the vertical tracks directly behind the mesh. From an over-the-shoulder view, the person's hands reach out and firmly grasp both outer edges of the lumbar support pad. The hands slide the lumbar pad smoothly upward along the vertical tracks to the highest position. Next, the hands slide the lumbar pad downward to the lowest position on the tracks. In an extreme close-up, the fingers grip the textured rubber edge of the pad, preparing to remove it for depth adjustment. The hands pull the lumbar pad firmly backward, snapping it completely off the vertical tracks. From a first-person view, the hands rotate the removed lumbar pad 180 degrees to reveal the thicker, more pronounced side of the pad. The hands align the grooves on the thicker side of the pad with the vertical tracks on the chair frame. The hands push forward, snapping the lumbar pad securely back onto the tracks. The person walks around to the front of the chair and sits down on the seat pan. From a side profile view, the person leans back into the pellicle mesh, pressing their lower back against the newly adjusted lumbar pad.",
+    "interactive_prompts": [
+        {
+            "prompt": "A medium shot captures a person standing behind an empty dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The person highlights the dark, woven pellicle mesh back of the chair. This takes place in a brightly lit modern office space with white walls and soft natural daylight, perfectly illuminating the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up, focusing on the back of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The camera focuses on the horizontal lumbar support pad resting on the vertical tracks directly behind the mesh. The setting remains in a brightly lit modern office space with white walls and soft natural daylight, highlighting the details of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera shifts smoothly into an over-the-shoulder view looking down at the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The person's hands reach out and firmly grasp both outer edges of the lumbar support pad. The action unfolds in a brightly lit modern office space with white walls and soft natural daylight, casting a clear view of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera glides from an over-the-shoulder view into a tight close-up on the back of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands slide the lumbar pad smoothly upward along the vertical tracks to the highest position. The environment is still in a brightly lit modern office space with white walls and soft natural daylight, keeping the focus on the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a steady close-up on the tracks of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands slide the lumbar pad downward to the lowest position on the tracks. The scene continues in a brightly lit modern office space with white walls and soft natural daylight, providing clear visibility of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in smoothly from a close-up to an extreme close-up on the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The fingers grip the textured rubber edge of the pad, preparing to remove it for depth adjustment. The background stays in a brightly lit modern office space with white walls and soft natural daylight, emphasizing the textures of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back slightly into a close-up on the rear of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands pull the lumbar pad firmly backward, snapping it completely off the vertical tracks. The room remains in a brightly lit modern office space with white walls and soft natural daylight, surrounding the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly into a first-person view looking down at the detached piece of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands rotate the removed lumbar pad 180 degrees to reveal the thicker, more pronounced side of the pad. The lighting persists in a brightly lit modern office space with white walls and soft natural daylight, illuminating the components of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera shifts from a first-person view back to a close-up on the frame of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands align the grooves on the thicker side of the pad with the vertical tracks on the chair frame. The atmosphere is set in a brightly lit modern office space with white walls and soft natural daylight, framing the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera holds a steady close-up on the back of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The hands push forward, snapping the lumbar pad securely back onto the tracks. The environment is anchored in a brightly lit modern office space with white walls and soft natural daylight, showcasing the reassembled dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back smoothly into a medium shot capturing the entirety of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The person walks around to the front of the chair and sits down on the seat pan. The space remains in a brightly lit modern office space with white walls and soft natural daylight, providing a full view of the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides smoothly into a side profile view of the person seated in the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad. The person leans back into the pellicle mesh, pressing their lower back against the newly adjusted lumbar pad. The final shot rests in a brightly lit modern office space with white walls and soft natural daylight, perfectly framing the dark graphite Herman Miller Aeron chair with a woven pellicle mesh back and a removable horizontal lumbar support pad.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

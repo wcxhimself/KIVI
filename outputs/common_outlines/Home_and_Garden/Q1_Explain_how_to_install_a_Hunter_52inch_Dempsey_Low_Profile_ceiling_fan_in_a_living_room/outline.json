@@ -1,0 +1,85 @@
+{
+    "video_goal": "Install a Hunter 52-inch Dempsey Low Profile ceiling fan in a living room.",
+    "required_subjects_and_props": "Hunter 52-inch Dempsey Low Profile fan kit, Phillips screwdriver, power drill, wire nuts, step ladder, living room ceiling junction box, Hunter remote control.",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands open the Hunter Dempsey box on a living room floor, pulling out the low-profile motor housing and 52-inch wooden blades."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.5,
+            "camera_angle": "Low-angle shot",
+            "visual_action": "Hands use a power drill to drive two screws through the circular metal mounting bracket into the living room ceiling junction box."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands lift the heavy Hunter motor housing and hook its side slot onto the safety tab of the ceiling bracket to hold it in place."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands twist yellow wire nuts to connect the black and white wires from the ceiling to the fan's wiring harness."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.5,
+            "camera_angle": "Low-angle shot",
+            "visual_action": "Hands lift the motor housing flush against the ceiling bracket, inserting and tightening four screws into the side holes with a screwdriver."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "On a table, hands align a 52-inch wooden fan blade with a metal blade iron, driving three screws in with a Phillips screwdriver."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Low-angle close-up",
+            "visual_action": "Hands guide the assembled blade iron through the side slot of the mounted motor housing and tighten the captive screws."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Low-angle medium shot",
+            "visual_action": "Hands rotate the motor and attach the remaining three 52-inch blades, securing each with the screwdriver."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands snap the blue and white plastic wire plug connectors together, linking the motor to the light kit assembly."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Low-angle shot",
+            "visual_action": "Hands push the circular light kit pan up to the motor base and twist it clockwise to lock it into the keyhole slots."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands screw two LED bulbs into the threaded sockets of the attached light kit."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Low-angle shot",
+            "visual_action": "Hands lift the white glass globe, press it flush into the light kit housing, and twist clockwise until it locks."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 5.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "A hand presses the power button on the Hunter remote control, and the fully assembled 52-inch Dempsey fan begins to spin in the living room."
+        }
+    ]
+}

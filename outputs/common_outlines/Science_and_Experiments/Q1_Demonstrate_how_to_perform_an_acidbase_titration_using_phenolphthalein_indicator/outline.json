@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate the precise visual steps to perform an acid-base titration and identify the endpoint using phenolphthalein.",
+    "required_subjects_and_props": "Glass burette, burette stand and clamp, Erlenmeyer flask, small funnel, beaker with titrant, phenolphthalein indicator dropper bottle, white ceramic tile",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "A glass burette is clamped vertically to a metal stand, positioned directly above an Erlenmeyer flask resting on a white ceramic tile."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand holds a small glass funnel at the top of the burette and slowly pours a clear liquid from a beaker into the burette."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The camera aligns exactly at eye level with the burette's measurement markings, showing the bottom of the liquid meniscus resting perfectly on the 0.0 mL line."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand squeezes exactly three drops of clear liquid from a small dropper bottle labeled 'Phenolphthalein' into the clear liquid inside the Erlenmeyer flask."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "A hand grips the neck of the Erlenmeyer flask and gently swirls it in a circular motion to mix the liquids."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand turns the burette's stopcock valve to a vertical position, allowing a steady, thin stream of clear liquid to fall into the flask below."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 5.0,
+            "camera_angle": "Medium Close-up",
+            "visual_action": "One hand continuously swirls the Erlenmeyer flask in circles while the other hand rests firmly on the burette's stopcock."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "As the drops hit the liquid in the swirling flask, temporary flashes of bright pink appear and quickly vanish into clear liquid."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The hand on the stopcock turns the valve slightly diagonal, slowing the liquid flow from a steady stream to individual, distinct drops."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Macro shot",
+            "visual_action": "A single drop of liquid detaches from the very tip of the glass burette and falls downward."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The single drop hits the liquid in the flask, and as the hand swirls it, the entire volume of liquid turns a permanent, very faint pink color."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand immediately twists the stopcock to the fully horizontal position, completely stopping the flow of liquid."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The camera aligns at eye level with the burette again, showing the new position of the meniscus resting on a lower measurement mark."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "The faint pink Erlenmeyer flask sits motionless on the white tile directly beneath the closed burette tip."
+        }
+    ]
+}

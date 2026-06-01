@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon",
+    "continuity_anchors": "brightly lit modern kitchen with white marble countertops and warm overhead lighting",
+    "video_goal": "Demonstrate the complete process of boiling, cooling, and peeling a chicken egg.",
+    "total_steps": 14,
+    "single_prompt": "From an over-the-shoulder view, clear water pours from a glass pitcher into a small metal saucepan resting on a stovetop burner. A hand turns the stove dial clockwise to the 'High' position, and soon the water inside the saucepan reaches a rolling boil with large bubbles rapidly breaking the surface. A hand carefully places a raw brown chicken egg onto the center of a metal slotted spoon, gently lowering it to submerge the egg completely into the boiling water before pulling the empty spoon away. An index finger presses the 'Start' button on a digital kitchen timer that displays '07:00'. The brown egg vibrates and rolls slightly amidst the vigorously boiling water bubbles. Meanwhile, a hand drops a handful of ice cubes into a clear glass bowl filled with cold water to create an ice bath. The digital kitchen timer display flashes '00:00' as the countdown finishes. A hand uses the metal slotted spoon to scoop the boiled brown egg out of the bubbling water, lowering the hot egg directly into the glass bowl of ice water to rest among the ice cubes. A hand lifts the cooled egg from the ice bath and taps it firmly against a wooden cutting board to fracture the shell. Two thumbs peel away the fractured brown shell and inner membrane to reveal the smooth, white cooked egg underneath. Finally, a sharp knife slices the peeled white egg in half, separating the two halves to show a firm, bright yellow cooked yolk.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an over-the-shoulder view, the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon rest in their starting positions. Clear water pours from a glass pitcher directly into the saucepan resting on a stovetop burner. The scene is set in a brightly lit modern kitchen with white marble countertops and warm overhead lighting, highlighting the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up angle. A hand turns the stove dial clockwise to the 'High' position near the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting continues to illuminate the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a top-down view. The water inside the saucepan reaches a rolling boil, with large bubbles rapidly breaking the surface near the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting maintains a clear view of the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to a close-up angle. A hand carefully places the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon into action by resting the egg onto the center of the spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting perfectly frames the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a side angle. A hand gently lowers the spoon to submerge the egg completely into the boiling water, then pulls the empty spoon away, utilizing the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting reflects off the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a side angle to a close-up. An index finger presses the 'Start' button on a digital kitchen timer that displays '07:00' beside the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting surrounds the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a top-down view. The egg vibrates and rolls slightly amidst the vigorously boiling water bubbles, showcasing the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting casts a warm glow over the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to an over-the-shoulder view. A hand drops a handful of ice cubes into a clear glass bowl filled with cold water to create an ice bath next to the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting provides a crisp backdrop for the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up. The digital kitchen timer display flashes '00:00' as the countdown finishes near the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting keeps the focus on the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a side angle. A hand uses the spoon to scoop the boiled egg out of the bubbling water, featuring the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting shines on the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a side angle to a close-up. The spoon lowers the hot egg directly into the glass bowl of ice water, leaving it to rest among the ice cubes alongside the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting illuminates the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view. A hand lifts the cooled egg from the ice bath and taps it firmly against a wooden cutting board to fracture the shell, involving the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting reveals the details of the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up. Two thumbs peel away the fractured shell and inner membrane to reveal the smooth, white cooked egg underneath, transforming the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting highlights the textures of the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a macro shot. A sharp knife slices the peeled white egg in half, separating the two halves to show a firm, bright yellow cooked yolk, concluding the journey of the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon. The brightly lit modern kitchen with white marble countertops and warm overhead lighting provides the final setting for the medium-sized brown chicken egg, small brushed metal saucepan, and stainless steel slotted spoon.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

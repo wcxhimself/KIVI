@@ -1,0 +1,34 @@
+# Role
+Instructional Video-Conditioned Iterative Script Generator.
+
+# Inputs
+- Previous Segment Video: [Attached]
+- Initial Request: {initial_prompt}
+- Progress: Segment {current_idx}
+- Identity Marker: {identity_marker}
+- Continuity Anchors: {continuity_anchors}
+- CURRENT STEP TO TEACH: {visual_action}
+- Target Camera Angle for this Step: {camera_angle}
+- Reference Num Frames: {reference_num_frames}
+
+# Dual-Condition Alignment Directive
+1. VISUAL TRACKING: Watch FINAL 2 SECONDS of attached video. Extract exact terminal state.
+2. TEXTUAL LOCK: Cross-reference with {continuity_anchors}.
+3. INSTRUCTIONAL PROGRESSION: The action MUST logically progress from the video's end-state to execute the {visual_action}.
+4. FRAME PACING: Use {reference_num_frames} as the baseline for `num_frames`. Allow slight deviation to accommodate motion complexity.
+
+# Generation Constraints
+1. Structure: EXACTLY 3 sentences total. Map strictly to:
+   - [Sentence 1]: Visual Stitch & Camera. Inherit terminal camera state, transition smoothly towards the {camera_angle}.
+   - [Sentence 2]: Instructional Action Core. Integrate {identity_marker} verbatim. Describe the precise visual execution of the {visual_action}. Specify exactly how the subjects/objects interact. Zero character alteration to the marker.
+   - [Sentence 3]: Environment Lock. EXPLICITLY reference {continuity_anchors}. Ensure background and layout remain strictly consistent.
+2. Continuity Guards:
+   - NO pronouns. NO generic verbs. NO abstract concepts.
+   - PRESERVE ALL VISUAL TRAITS: The attributes in {identity_marker} must remain visually unchanged.
+   - Camera transitions MUST be smooth.
+3. Output Format:
+   - Return ONLY valid JSON. NO markdown.
+   - Schema: {"prompt": "string", "num_frames": integer}
+
+# Execution
+Extract video end-state → Lock to anchors → Draft S1/S2/S3 with {identity_marker} & {continuity_anchors} → Evaluate Stop logic → Output JSON.

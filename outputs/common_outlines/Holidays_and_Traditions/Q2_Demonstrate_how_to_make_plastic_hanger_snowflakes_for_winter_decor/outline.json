@@ -1,0 +1,73 @@
+{
+    "video_goal": "Demonstrate how to assemble and secure white plastic hangers into a large snowflake for winter decoration.",
+    "required_subjects_and_props": "16 white plastic tubular hangers, clear zip ties, wire cutters, red winter ribbon, flat work surface, door wreath hook.",
+    "total_steps": 11,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands place a stack of 16 white plastic tubular hangers and a bag of clear zip ties onto a flat wooden table."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands take two white plastic hangers and align their long bottom straight edges together, positioning the hooks to face outward in opposite directions."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Fingers thread a clear zip tie around the aligned bottom edges of the two hangers, pulling the tail through the head until it clicks tightly."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands arrange four pairs of the zip-tied hangers into a plus-sign shape on the table, with all plastic hooks pointing outward."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands thread a clear zip tie through the center intersection where the four hanger pairs meet, pulling it tight to secure the core of the snowflake."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands place four additional pairs of hangers diagonally between the first four pairs, forming an 8-point symmetrical snowflake pattern."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers wrap and tighten zip ties around the overlapping plastic hooks and straight edges where the diagonal hangers intersect the base cross."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands move systematically around the outer perimeter of the snowflake, securing all remaining loose connection points with clear zip ties."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A pair of metal wire cutters snips off the long, protruding tails of the clear zip ties flush with their locking heads."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands wrap and tie a thick, red winter-themed ribbon into a decorative bow around the top-most plastic hanger hook."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "Hands lift the completed, large white plastic hanger snowflake and place its top hook onto a metal wreath hanger on a front door."
+        }
+    ]
+}

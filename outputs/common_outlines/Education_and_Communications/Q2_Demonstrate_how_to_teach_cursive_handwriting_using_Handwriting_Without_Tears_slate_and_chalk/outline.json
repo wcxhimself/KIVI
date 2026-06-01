@@ -1,0 +1,73 @@
+{
+    "video_goal": "Demonstrate the Wet-Dry-Try method for teaching cursive handwriting using a Handwriting Without Tears wooden slate, sponge, and chalk.",
+    "required_subjects_and_props": "Handwriting Without Tears wooden slate with double lines, small piece of white chalk, small wet sponge cube, small dry cloth, hands.",
+    "total_steps": 11,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Two hands place a Handwriting Without Tears wooden slate, featuring distinct double horizontal lines, squarely onto a flat wooden desk."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand sets down a 1-inch piece of white chalk, a tiny wet sponge cube, and a small dry cloth directly next to the wooden slate."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The thumb and index finger pinch the small wet sponge cube, lifting it from the desk."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "The wet sponge presses onto the bottom line of the slate, glides up to the middle line, and curves back down, leaving a dark, wet trail in the shape of a cursive 'c'."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand drops the sponge and picks up the small dry cloth, pinching it tightly."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "The dry cloth traces the exact path of the wet cursive 'c', erasing the moisture and leaving a dry, faint outline on the slate."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The fingers pick up the small piece of white chalk, adjusting into a standard tripod grip."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The chalk tip touches the bottom line of the slate and draws a smooth, upward curving stroke to the middle line."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The chalk reverses direction, tracing back down the curve to the bottom line, and extends a small upward tail to complete the cursive 'c'."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Without lifting the chalk, the hand sweeps the chalk tip up from the tail of the 'c' to form a cursive 'a', linking the two letters seamlessly."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand lifts the chalk away, revealing the connected cursive letters 'ca' resting perfectly between the double lines of the wooden slate."
+        }
+    ]
+}

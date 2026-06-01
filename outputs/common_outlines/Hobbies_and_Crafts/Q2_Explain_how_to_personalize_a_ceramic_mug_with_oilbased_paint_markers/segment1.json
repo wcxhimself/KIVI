@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "plain white ceramic mug, small white cotton pad",
+    "continuity_anchors": "brightly lit craft table with a light wooden surface, soft diffused overhead lighting",
+    "segments": [
+        {
+            "prompt": "A close-up shot focuses tightly on the center of the workspace as a hand enters the frame holding a small white cotton pad. The hand firmly wipes the exterior surface of a plain white ceramic mug using the cotton pad soaked in rubbing alcohol to remove any oils or dust. The scene is set on a brightly lit craft table with a light wooden surface under soft diffused overhead lighting.",
+            "num_frames": 96
+        }
+    ]
+}

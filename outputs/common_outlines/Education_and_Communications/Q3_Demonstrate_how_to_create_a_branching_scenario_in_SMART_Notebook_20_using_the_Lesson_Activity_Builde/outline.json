@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate how to build an interactive branching scenario using the Lesson Activity Builder in SMART Notebook 20.",
+    "required_subjects_and_props": "Computer, SMART Notebook 20 software, Mouse/Cursor",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor moves across the SMART Notebook 20 top toolbar and clicks the Lesson Activity Builder icon, which is shaped like a small space invader."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The Activity Builder template menu appears; the cursor scrolls down through the grid of colorful activity thumbnails."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor hovers over and clicks a template thumbnail designed for branching or path-based scenarios."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The activity setup wizard opens. The cursor clicks into the 'Title' text field at the top and types in a title for the scenario."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor clicks a blue 'Add Node' button, causing a new rectangular scenario box to pop up on the blank workspace."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks inside the new node, types a question prompt, and then clicks the 'Add Choice' plus icon twice to create two options."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor clicks and drags a second rectangular node from the sidebar onto the main workspace, placing it to the right of the first node."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks a small circle next to 'Choice A' on the first node and drags a linking line to connect it to the second node."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor drags a third node onto the workspace and draws another linking line from 'Choice B' on the first node to this third node."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor moves to the bottom right of the wizard interface and clicks the 'Preview' button."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "A preview overlay appears, displaying the first node's text prompt and two interactive choice buttons below it."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks the first choice button, and the preview instantly transitions to display the connected second node."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor clicks the 'X' icon to close the preview, then clicks the green 'Finish' button at the bottom of the wizard."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The wizard closes, and the fully built branching scenario activity renders as an interactive element onto the main SMART Notebook 20 slide canvas."
+        }
+    ]
+}

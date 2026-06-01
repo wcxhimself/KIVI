@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen",
+    "continuity_anchors": "resting on a wooden nightstand under warm, soft bedroom lighting",
+    "video_goal": "A step-by-step visual guide on assembling and powering on a ResMed AirSense 10 CPAP machine with a heated humidifier.",
+    "total_steps": 12,
+    "single_prompt": "A medium shot captures two hands placing the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen onto a wooden nightstand under warm, soft bedroom lighting. The camera moves to a close-up as a hand inserts the circular power plug into the rear port, illuminating a green LED on the power brick. From an over-the-shoulder view, a thumb presses the side release latch and pulls the clear plastic HumidAir water chamber out. In a close-up, a hand flips open the chamber lid and pours distilled water exactly up to the 'Max' fill line. Two thumbs press down on the clear plastic lid until a visible snap occurs. A medium close-up shows a hand sliding the filled water chamber back into the side slot until it sits flush. From a first-person view, fingers pinch the orange connector end of the gray ClimateLineAir heated tubing. A close-up reveals a hand aligning the orange connector with the circular air port on the back of the machine and pushing it inward, then twisting it clockwise until it locks. In a first-person view, the opposite end of the gray tubing is pushed firmly onto the hard plastic swivel connector of a CPAP mask. A close-up shows an index finger pressing the large 'Start/Stop' button on the top right. Finally, an extreme close-up captures the angled LCD screen illuminating brightly, displaying a green 'SmartStart' icon and a numerical pressure dial.",
+    "interactive_prompts": [
+        {
+            "prompt": "A medium shot captures the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen being held above its starting position. Two hands gently place the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen onto the flat surface. The dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen remains resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up on the back of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. A hand inserts the circular power plug into the rear port of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen, causing a green LED to illuminate on the connected power brick. The setup continues with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view looking down at the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. A thumb presses the side release latch and pulls the clear plastic HumidAir water chamber out of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The scene maintains its calm atmosphere with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up beside the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen, focusing on the removed water chamber. A hand flips open the chamber lid and pours distilled water from a jug exactly up to the printed 'Max' fill line before returning it to the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The environment stays consistent, featuring the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera maintains a close-up angle near the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen to focus on the filled water chamber. Two thumbs press down firmly on the clear plastic lid of the water chamber until a visible snap occurs, preparing it for the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The background remains steady with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium close-up framing the side of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. A hand slides the filled HumidAir water chamber back into the side slot of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen until it sits perfectly flush. The device is now fully assembled, with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a first-person view looking toward the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. Fingers pinch the orange connector end of the gray ClimateLineAir heated tubing, bringing it into sharp focus in front of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The room's ambiance is unchanged, showing the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up on the rear panel of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. A hand aligns the orange connector with the circular air port on the back of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen and pushes it inward. The setup process continues with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a close-up on the back of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The hand twists the orange connector clockwise until it locks, aligning the electrical pins securely into the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The connection is finalized while the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a first-person view, looking slightly away from the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The opposite end of the gray tubing is pushed firmly onto the hard plastic swivel connector of a CPAP mask, completing the circuit to the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The mask and tubing lay near the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up on the top control panel of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. An index finger presses the large, circular 'Start/Stop' button located on the top right of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The device powers on, with the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an extreme close-up directly on the display of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen. The display of the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen illuminates brightly, showing a green 'SmartStart' icon and a numerical pressure dial. The therapy session is ready to begin, featuring the dark gray ResMed AirSense 10 CPAP machine with an angled LCD screen resting on a wooden nightstand under warm, soft bedroom lighting.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

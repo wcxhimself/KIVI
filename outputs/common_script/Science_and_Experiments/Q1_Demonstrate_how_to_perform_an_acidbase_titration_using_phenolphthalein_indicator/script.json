@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "tall transparent glass burette with black measurement markings and a white Teflon stopcock",
+    "continuity_anchors": "brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting",
+    "video_goal": "Demonstrate the precise visual steps to perform an acid-base titration and identify the endpoint using phenolphthalein.",
+    "total_steps": 14,
+    "single_prompt": "A medium shot shows a tall transparent glass burette with black measurement markings and a white Teflon stopcock clamped vertically to a metal stand, positioned directly above an Erlenmeyer flask resting on a white ceramic tile on a brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting. A close-up reveals a hand holding a small glass funnel at the top of the burette, slowly pouring a clear liquid from a beaker into it. An extreme close-up aligns exactly at eye level with the burette's measurement markings, showing the bottom of the liquid meniscus resting perfectly on the 0.0 mL line. In a close-up, a hand squeezes exactly three drops of clear liquid from a small dropper bottle labeled 'Phenolphthalein' into the clear liquid inside the Erlenmeyer flask. From an over-the-shoulder view, a hand grips the neck of the Erlenmeyer flask and gently swirls it in a circular motion to mix the liquids. A close-up shows a hand turning the burette's stopcock valve to a vertical position, allowing a steady, thin stream of clear liquid to fall into the flask below. A medium close-up captures one hand continuously swirling the Erlenmeyer flask in circles while the other hand rests firmly on the burette's stopcock. In a close-up, as the drops hit the liquid in the swirling flask, temporary flashes of bright pink appear and quickly vanish into clear liquid. An extreme close-up shows the hand on the stopcock turning the valve slightly diagonal, slowing the liquid flow from a steady stream to individual, distinct drops. A macro shot focuses on a single drop of liquid detaching from the very tip of the glass burette and falling downward. A close-up reveals the single drop hitting the liquid in the flask, and as the hand swirls it, the entire volume of liquid turns a permanent, very faint pink color. The hand immediately twists the stopcock to the fully horizontal position, completely stopping the flow of liquid. An extreme close-up aligns at eye level with the burette again, showing the new position of the meniscus resting on a lower measurement mark. Finally, a medium shot shows the faint pink Erlenmeyer flask sitting motionless on the white tile directly beneath the closed burette tip.",
+    "interactive_prompts": [
+        {
+            "prompt": "A medium shot establishes the tall transparent glass burette with black measurement markings and a white Teflon stopcock clamped vertically to a metal stand, positioned directly above an Erlenmeyer flask resting on a white ceramic tile. The tall transparent glass burette with black measurement markings and a white Teflon stopcock remains perfectly still as the setup awaits the start of the titration process. The entire apparatus sits on a brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, highlighting the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up of the top of the tall transparent glass burette with black measurement markings and a white Teflon stopcock, where a small glass funnel is inserted. A hand holds the small glass funnel at the top of the tall transparent glass burette with black measurement markings and a white Teflon stopcock and slowly pours a clear liquid from a beaker into the tube. This action takes place within the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, illuminating the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera glides down into an extreme close-up, aligning exactly at eye level with the tall transparent glass burette with black measurement markings and a white Teflon stopcock. Inside the tall transparent glass burette with black measurement markings and a white Teflon stopcock, the bottom of the clear liquid meniscus rests perfectly on the 0.0 mL line. The crisp details are visible against the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, emphasizing the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts down to a close-up of the Erlenmeyer flask positioned beneath the tall transparent glass burette with black measurement markings and a white Teflon stopcock. A hand squeezes exactly three drops of clear liquid from a small dropper bottle labeled 'Phenolphthalein' into the clear liquid inside the Erlenmeyer flask, directly below the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The scene is grounded in the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, with the tall transparent glass burette with black measurement markings and a white Teflon stopcock standing tall in the frame.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera moves to an over-the-shoulder view looking past the tall transparent glass burette with black measurement markings and a white Teflon stopcock down toward the Erlenmeyer flask. A hand grips the neck of the Erlenmeyer flask and gently swirls it in a circular motion to mix the liquids beneath the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The swirling motion occurs on the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, keeping the tall transparent glass burette with black measurement markings and a white Teflon stopcock in clear view.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pushes in for a close-up on the valve of the tall transparent glass burette with black measurement markings and a white Teflon stopcock. A hand turns the valve of the tall transparent glass burette with black measurement markings and a white Teflon stopcock to a vertical position, allowing a steady, thin stream of clear liquid to fall into the flask below. The flowing liquid reflects the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, showcasing the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back slightly to a medium close-up capturing both the flask and the tall transparent glass burette with black measurement markings and a white Teflon stopcock. One hand continuously swirls the Erlenmeyer flask in circles while the other hand rests firmly on the valve of the tall transparent glass burette with black measurement markings and a white Teflon stopcock. This coordinated movement happens on the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, framing the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera zooms into a close-up of the liquid inside the flask, positioned just under the tall transparent glass burette with black measurement markings and a white Teflon stopcock. As the drops from the tall transparent glass burette with black measurement markings and a white Teflon stopcock hit the liquid in the swirling flask, temporary flashes of bright pink appear and quickly vanish into clear liquid. The vibrant pink flashes contrast with the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, while the tall transparent glass burette with black measurement markings and a white Teflon stopcock continues to dispense liquid.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera moves back up to an extreme close-up of the valve on the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The hand on the tall transparent glass burette with black measurement markings and a white Teflon stopcock turns the valve slightly diagonal, slowing the liquid flow from a steady stream to individual, distinct drops. The precise adjustment is clearly visible in the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, highlighting the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions into a macro shot focusing exclusively on the very tip of the tall transparent glass burette with black measurement markings and a white Teflon stopcock. A single drop of liquid detaches from the very tip of the tall transparent glass burette with black measurement markings and a white Teflon stopcock and falls downward. The falling drop catches the glare of the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, emphasizing the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pulls back to a close-up of the flask beneath the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The single drop from the tall transparent glass burette with black measurement markings and a white Teflon stopcock hits the liquid in the flask, and as the hand swirls it, the entire volume of liquid turns a permanent, very faint pink color. The faint pink hue is perfectly illuminated by the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, with the tall transparent glass burette with black measurement markings and a white Teflon stopcock standing above.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera quickly tilts up to a close-up of the valve on the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The hand immediately twists the valve of the tall transparent glass burette with black measurement markings and a white Teflon stopcock to the fully horizontal position, completely stopping the flow of liquid. The sudden stop is captured within the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, focusing on the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera glides up into an extreme close-up, aligning at eye level with the middle section of the tall transparent glass burette with black measurement markings and a white Teflon stopcock. Inside the tall transparent glass burette with black measurement markings and a white Teflon stopcock, the new position of the meniscus is shown resting on a lower measurement mark. The final measurement is easy to read thanks to the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, which clearly illuminates the tall transparent glass burette with black measurement markings and a white Teflon stopcock.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back to a medium shot revealing the entire setup, including the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The faint pink Erlenmeyer flask sits motionless on the white tile directly beneath the closed tip of the tall transparent glass burette with black measurement markings and a white Teflon stopcock. The completed titration rests peacefully on the brightly lit laboratory benchtop with a solid black surface under fluorescent overhead lighting, with the tall transparent glass burette with black measurement markings and a white Teflon stopcock towering above.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

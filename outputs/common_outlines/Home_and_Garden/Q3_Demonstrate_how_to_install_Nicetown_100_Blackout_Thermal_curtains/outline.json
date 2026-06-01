@@ -1,0 +1,73 @@
+{
+    "video_goal": "Demonstrate the step-by-step installation of Nicetown 100% Blackout Thermal curtains to achieve a fully darkened room.",
+    "required_subjects_and_props": "Nicetown 100% Blackout Thermal curtains, metal curtain rod with removable finials, wall brackets (pre-installed), window frame.",
+    "total_steps": 11,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands pull the heavy Nicetown curtain fabric out of its clear plastic packaging, briefly exposing the brand label."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Hands flip the edge of the curtain fabric over to reveal the distinct, solid black thermal backing layer."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Hands reach up and unscrew the decorative finial (end cap) from a metal curtain rod that is already mounted above a brightly lit window."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands lift the curtain and push the first silver metal grommet onto the bare end of the curtain rod."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands fold the heavy fabric back and forth in an accordion style, sliding the next three grommets onto the rod to create deep, even pleats."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Hands push the gathered bundle of grommets further down the rod toward the center of the window to make room for the rest of the panel."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands position the final grommet on the outside of the wall bracket, trapping the fabric between the bracket and the rod's end to lock the outer edge in place."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands twist the decorative finial back onto the threaded end of the curtain rod until it is completely tight."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "Hands pull and adjust the folds of the heavy thermal fabric from top to bottom so they hang evenly across the left side of the window."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Hands grab the leading edge of the Nicetown curtain and pull it firmly across the bright glass toward the center."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "From inside the room, hands pull the two curtain panels together in the middle, instantly blocking out the sunlight and plunging the room into total darkness."
+        }
+    ]
+}

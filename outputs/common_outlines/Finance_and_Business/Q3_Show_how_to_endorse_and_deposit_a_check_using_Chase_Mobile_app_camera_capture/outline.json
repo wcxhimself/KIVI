@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate how to endorse a paper check and deposit it using the Chase Mobile app's camera capture feature.",
+    "required_subjects_and_props": "Smartphone with Chase Mobile app installed, physical paper check, blue or black ink pen, dark flat surface.",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "A hand taps the blue Chase Mobile app icon on a smartphone home screen."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The Chase app dashboard loads, and a finger taps the 'Pay & Transfer' tab at the bottom, then selects 'Deposit checks'."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand places a physical paper check face-down on a dark, flat surface."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A blue ink pen writes a signature on the endorsement line on the back of the check."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "A finger taps the 'Amount' field in the Chase app and types in the check's numerical value using the on-screen keypad."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The finger taps the 'Front' camera icon button on the deposit screen."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The smartphone is held over the front of the check, aligning the paper within the green rectangular guide on the screen."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The Chase app camera interface flashes white as it auto-captures the front of the check, displaying a cropped preview."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The hand flips the physical check over to reveal the newly signed back."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The finger taps the 'Back' camera icon button on the app interface."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The smartphone is held over the back of the check, aligning the signature within the on-screen green rectangular guide."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The camera auto-captures the back of the check, showing the cropped preview image next to the front image."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "A finger scrolls down the review screen and taps the solid blue 'Deposit' button at the bottom."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "A green checkmark appears on the screen with the text 'Deposit received'."
+        }
+    ]
+}

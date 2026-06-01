@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "dark cloth, gold-printed Flower of Life pattern, white Scolecite crystals",
+    "continuity_anchors": "flat wooden table, warm diffused overhead lighting",
+    "segments": [
+        {
+            "prompt": "An overhead view captures the initial motion of preparing the sacred space. Two hands unroll a dark cloth featuring a gold-printed Flower of Life pattern onto the flat wooden table. The flat wooden table, warm diffused overhead lighting, and soft shadows establish a tranquil environment for the crystal grid.",
+            "num_frames": 97
+        }
+    ]
+}

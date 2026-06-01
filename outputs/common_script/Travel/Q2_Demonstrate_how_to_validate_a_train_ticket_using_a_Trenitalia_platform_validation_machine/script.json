@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole",
+    "continuity_anchors": "outdoor train platform environment with natural daylight and blurred train tracks in the background",
+    "video_goal": "Demonstrate how to properly insert and validate a paper train ticket using a Trenitalia platform machine.",
+    "total_steps": 12,
+    "single_prompt": "A wide shot captures a person walking up to a green and white Trenitalia validation machine mounted on a metal pole at an outdoor train platform. The camera moves over the shoulder as the person holds up a rectangular Trenitalia paper ticket, displaying the red and white logo and printed journey details. In a close-up, the person's hands rotate the ticket 180 degrees to position the blank, narrow edge at the top. The camera pans down the curved front of the machine to center on the wide, horizontal insertion slot at the bottom. From a first-person view, the hand aligns the top edge of the paper perfectly parallel with the horizontal slot. An extreme close-up shows the edge of the paper ticket sliding into the far-left side of the slot. The hand pushes the ticket deep into the slot, pressing it firmly against the back wall until it stops moving. The paper ticket shifts slightly downward as the internal stamping mechanism physically clamps onto the edge. A small circular LED indicator light on the front of the machine flashes green, signaling the stamping process is complete. The hand pinches the bottom of the ticket and pulls it smoothly and horizontally out of the machine's slot. An extreme close-up reveals a freshly printed black ink timestamp and station code along the margin of the ticket. Finally, from an over-the-shoulder view, the person lowers the validated ticket, tucks it into a wallet, and turns their body toward the train tracks.",
+    "interactive_prompts": [
+        {
+            "prompt": "A wide shot captures a person standing near a rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole. The person walks directly up to the validation machine, preparing to validate their fare. The scene is set in an outdoor train platform environment with natural daylight and blurred train tracks in the background, highlighting the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera transitions smoothly from a wide shot to an over-the-shoulder view, focusing closely on the person's hands. The person holds up the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole remains visible ahead as the printed journey details are displayed to the camera. The outdoor train platform environment with natural daylight and blurred train tracks in the background surrounds the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides into a close-up angle, centering entirely on the person's hands holding the ticket. The hands rotate the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole stands ready as the blank, narrow edge of the paper is positioned at the top. This action takes place within the outdoor train platform environment with natural daylight and blurred train tracks in the background, featuring the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera maintains a close-up perspective but pans smoothly down the curved front of the validation device. The lens stops to center on the wide, horizontal insertion slot at the bottom, preparing to receive the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole fills the frame. The outdoor train platform environment with natural daylight and blurred train tracks in the background provides the setting for the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts seamlessly into a first-person view, looking down at the hands and the machine. The hand holding the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole moves forward, aligning the top edge of the paper perfectly parallel with the horizontal slot. The outdoor train platform environment with natural daylight and blurred train tracks in the background frames the interaction between the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in for an extreme close-up, focusing tightly on the horizontal insertion slot. The edge of the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole meet as the paper slides into the far-left side of the slot. The outdoor train platform environment with natural daylight and blurred train tracks in the background remains constant around the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back slightly to a standard close-up, keeping the slot and hand in sharp focus. The hand pushes the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole receives it deeply, pressing the paper firmly against the back wall until it stops moving. The outdoor train platform environment with natural daylight and blurred train tracks in the background envelops the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera zooms back into an extreme close-up on the insertion slot to capture the internal mechanical action. The rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole interact as the paper shifts slightly downward when the internal stamping mechanism physically clamps onto the edge. The outdoor train platform environment with natural daylight and blurred train tracks in the background is visible behind the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera adjusts to a close-up, tilting slightly up to frame the front display panel of the device. A small circular LED indicator light flashes green, signaling the stamping process is complete for the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole. The outdoor train platform environment with natural daylight and blurred train tracks in the background continues to illuminate the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera transitions back to a first-person view, looking down at the slot and the person's hand. The hand pinches the bottom of the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole releases it as the paper is pulled smoothly and horizontally out of the slot. The outdoor train platform environment with natural daylight and blurred train tracks in the background sets the stage for the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera moves into an extreme close-up, focusing tightly on the freshly stamped edge of the paper. A freshly printed black ink timestamp and station code are revealed along the margin of the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole sits in the immediate background. The outdoor train platform environment with natural daylight and blurred train tracks in the background softly contrasts with the sharp details of the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera pulls back into an over-the-shoulder view, capturing the person's upper body and the surrounding area. The person lowers the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole is left behind as the ticket is tucked into a wallet and the person turns toward the tracks. The outdoor train platform environment with natural daylight and blurred train tracks in the background completes the scene featuring the rectangular Trenitalia paper ticket with red and white logo, and a green and white Trenitalia validation machine mounted on a metal pole.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

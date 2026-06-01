@@ -1,0 +1,72 @@
+# Role
+Generate high-quality video generation prompts.
+
+# Input
+Topic Category: {category}
+
+# Objective
+Generate {num_prompts} diverse video generation prompts about {category}. Each prompt tests whether a text-to-video model can produce a factually accurate video. A good prompt describes content where video representation is inherently more vivid and informative than a text-based explanation.
+
+# Constraints
+Each generated prompt MUST satisfy ALL of the following. Violating any constraint makes the prompt invalid.
+
+## Correctness & Verifiability
+1. FACTUALLY CORRECT: The prompt itself must be factually accurate — the entity described must exist, and the task must be a real procedure that works as described. Do NOT fabricate features, products, or procedures.
+
+2. UNIQUE & DETERMINISTIC ENTITY: The named entity MUST be uniquely identifiable. Every proper noun (brand, model, material, method name) must refer to one and only one real-world product or concept. No ambiguous references. This ensures human annotators can precisely locate the entity's documentation for verification.
+
+3. JUSTIFIABLE ANSWER: The task described MUST have a correct, well-established answer or procedure. Do NOT generate prompts about controversial, debated, or undefined topics.
+
+## Video-Specific Value
+4. VISUAL SUPERIORITY: The content MUST be one where video representation is clearly more effective than a text description. Select content involving spatial manipulation, physical movement, visual state changes, or interface navigation — scenes that are hard to convey in words alone.
+
+## Entity Richness & Difficulty
+5. RICH PROPER NOUNS: Use diverse, specific proper nouns throughout the prompt (brand, model number, year, variant, material, technique name). The more precise identifiers, the harder it is for video generation models to hallucinate correctly. Examples of good precision: "TENS 7000 unit with electrode pads for lower back pain relief" over "a TENS unit"; "Petzl Grigri belay device with a locking carabiner for top-rope climbing" over "a climbing device."
+
+## Non-Triviality
+6. MEANINGFUL COMPLEXITY: The content MUST be rich enough to require multiple distinct visual events. Single-event prompts are trivial. The ideal prompt describes content with a meaningful sequence where temporal order matters.
+
+## Uniqueness (Within This Category)
+7. NO INTRACATEGORY DUPLICATION: Among the {num_prompts} prompts you generate, no two should describe the same entity or content. If two prompts are too similar (e.g. "replace part A" and "replace part B"), keep only the more distinctive one.
+
+# Output Format
+Return ONLY a valid JSON object. NO markdown. NO extra text.
+
+{
+  "category": "{category}",
+  "prompts": [
+    "<prompt 1>",
+    "<prompt 2>",
+    ...
+  ]
+}
+
+# Examples of Valid Prompts
+Below are prompts that satisfy ALL constraints. Study them carefully before generating.
+
+Category: Health
+- "Demonstrate how to measure blood pressure using an Omron Platinum BP5450."
+- "Demonstrate how to apply a TENS 7000 unit with electrode pads for lower back pain relief."
+
+Category: Cars & Other Vehicles
+- "Demonstrate checking and topping up Castrol Edge 5W-30 LL-01 in a BMW 3 Series (G20)."
+- "Explain how to bleed hydraulic brake lines on a Yamaha YZF-R3 (2022 model year) sport motorcycle."
+
+Category: Computers and Electronics
+- "Explain step-by-step how to set up cellular service on a US-unlocked base model Google Pixel 10."
+- "Guide me through setting up a Raspberry Pi 4 with Raspberry Pi OS for the first time."
+
+Category: Home and Garden
+- "Explain how to install a Hunter 52-inch Dempsey Low Profile ceiling fan in a living room."
+- "Demonstrate how to replace the ceramic disc cartridge in a Hansgrohe Metris faucet."
+
+Category: Science and Experiments
+- "Demonstrate how to perform an acid-base titration using phenolphthalein indicator."
+- "Demonstrate how to measure voltage in a zinc-copper sulfate redox reaction using a Fluke 101 multimeter."
+
+Category: Sports and Fitness
+- "Demonstrate how to thread a Petzl Grigri belay device with a locking carabiner for top-rope climbing."
+- "Demonstrate how to set up a Peloton Bike+ with the rotating screen for a live cycling class."
+
+# Task
+Generate {num_prompts} prompts for the category "{category}" following all 7 constraints above. Output valid JSON only.

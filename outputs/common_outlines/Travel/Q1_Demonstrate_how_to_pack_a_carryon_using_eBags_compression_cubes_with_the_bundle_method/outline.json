@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate how to efficiently pack a carry-on suitcase by wrapping clothes into a bundle and compressing them inside an eBags compression cube.",
+    "required_subjects_and_props": "Jeans, t-shirts, small pouch of socks (core), eBags compression cube, carry-on suitcase, bed or flat packing surface.",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "Hands lay a pair of jeans completely flat on a bed, smoothing out the wrinkles along the legs."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands place a t-shirt flat on top of the jeans, aligning the collars and sleeves in opposite directions to form a cross shape."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands place a small, tightly rolled pouch of socks directly in the center of the layered clothes to act as the bundle's core."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands fold the sleeves and bottom hem of the t-shirt tightly over the central sock pouch, wrapping it completely."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands fold the legs of the jeans tightly over the wrapped t-shirt layer, creating a single, compact, solid clothing bundle."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "Hands open an empty eBags compression cube, folding back the branded mesh top lid to reveal the interior."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands lift the completed clothing bundle and place it snugly inside the open eBags compression cube."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers pull the main top zipper of the eBags cube closed, securing the mesh lid over the clothing bundle."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Fingers grip the secondary outer compression zipper on the eBags cube and begin pulling it along the side edge."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands press down firmly on the top of the mesh cube while pulling the compression zipper all the way around, visibly flattening the cube."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands lift the flattened, compressed eBags cube and place it into the open main compartment of a carry-on suitcase."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "Hands buckle the internal tie-down straps of the carry-on suitcase over the eBags cube and pull the strap tight."
+        }
+    ]
+}

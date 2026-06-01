@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "small white arrow mouse cursor",
+    "continuity_anchors": "SMART Notebook 20 digital workspace interface with a bright white background and standard top toolbar",
+    "segments": [
+        {
+            "prompt": "A screen capture establishes a clear view of the digital workspace as the action begins. The small white arrow mouse cursor moves across the top toolbar and clicks the Lesson Activity Builder icon, which is shaped like a small space invader. The action takes place within the SMART Notebook 20 digital workspace interface with a bright white background and standard top toolbar.",
+            "num_frames": 96
+        }
+    ]
+}

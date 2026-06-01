@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "silver rectangular Fi GPS module and blue merle Australian Shepherd",
+    "continuity_anchors": "brightly lit room with a rustic wooden table and soft natural daylight",
+    "video_goal": "Demonstrate how to assemble, fit, and pair a Fi GPS collar on an Australian Shepherd.",
+    "total_steps": 12,
+    "single_prompt": "A top-down view reveals a brightly lit room with a rustic wooden table and soft natural daylight where hands place a silver rectangular Fi GPS module and a heavy-duty nylon collar band side-by-side. The camera moves to a close-up as hands pick up the components and slide the metal end-link of the collar band into the side groove of the module. In an extreme close-up, thumbs press firmly down on the metal link until it snaps flush into the casing. Transitioning to a medium shot, a fluffy blue merle Australian Shepherd sits patiently while hands present the fully assembled Fi collar. From an over-the-shoulder view, hands part the thick fur around the dog's neck and wrap the nylon collar band around it. A close-up shows hands pushing the two ends of the plastic quick-release buckle together until they snap shut. Two fingers then slide between the collar band and the dog's neck, lifting slightly to show a large gap indicating it is too loose. Hands unbuckle the collar, slide the plastic tri-glide adjuster to shorten the nylon band, and re-buckle it around the dog's neck. Two fingers slide snugly between the collar and the dog's neck, demonstrating a proper fit beneath the thick fur. From an over-the-shoulder view, one hand holds a smartphone displaying the Fi app interface, while the index finger taps the 'Activate Collar' button. A screen capture shows a spinning loading circle transitioning into a large green checkmark. Finally, in a close-up, the LED light on the silver Fi GPS module resting on the Australian Shepherd's neck flashes blue, confirming the active connection.",
+    "interactive_prompts": [
+        {
+            "prompt": "A top-down view reveals the silver rectangular Fi GPS module and blue merle Australian Shepherd waiting nearby. Hands place a heavy-duty nylon collar band side-by-side with the silver rectangular Fi GPS module and blue merle Australian Shepherd observes the action. The brightly lit room with a rustic wooden table and soft natural daylight perfectly illuminates the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to a close-up of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Hands pick up the components and slide the metal end-link of the collar band into the side groove of the silver rectangular Fi GPS module and blue merle Australian Shepherd watches closely. The brightly lit room with a rustic wooden table and soft natural daylight maintains a clear view of the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an extreme close-up focusing on the silver rectangular Fi GPS module and blue merle Australian Shepherd in the background. Thumbs press firmly down on the metal link until it snaps flush into the casing of the silver rectangular Fi GPS module and blue merle Australian Shepherd waits patiently. The brightly lit room with a rustic wooden table and soft natural daylight surrounds the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a medium shot of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Hands present the fully assembled collar containing the silver rectangular Fi GPS module and blue merle Australian Shepherd sits patiently to receive it. The brightly lit room with a rustic wooden table and soft natural daylight provides a warm atmosphere for the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to an over-the-shoulder view of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Hands part the thick fur around the neck and wrap the nylon band holding the silver rectangular Fi GPS module and blue merle Australian Shepherd remains still. The brightly lit room with a rustic wooden table and soft natural daylight continues to illuminate the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up on the silver rectangular Fi GPS module and blue merle Australian Shepherd. Hands push the two ends of the plastic quick-release buckle together until they snap shut near the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight clearly shows the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the previous close-up to another close-up angle of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Two fingers slide between the collar band and the neck, lifting slightly to show a large gap near the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight exposes the loose fit on the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions slightly within the close-up view of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Hands unbuckle the collar, slide the plastic tri-glide adjuster to shorten the nylon band, and re-buckle it, securing the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight highlights the adjustment process for the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a slightly different close-up perspective of the silver rectangular Fi GPS module and blue merle Australian Shepherd. Two fingers slide snugly between the collar and the neck, demonstrating a proper fit beneath the thick fur around the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight emphasizes the perfect fit of the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view featuring a smartphone, the silver rectangular Fi GPS module and blue merle Australian Shepherd. One hand holds a smartphone displaying the Fi app interface, while the index finger taps the 'Activate Collar' button to pair the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight frames the digital setup for the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a screen capture style shot, with the silver rectangular Fi GPS module and blue merle Australian Shepherd visible in the background. The smartphone screen displays a spinning loading circle, which transitions into a large green checkmark confirming the link to the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight reflects slightly on the screen pairing the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a final close-up of the silver rectangular Fi GPS module and blue merle Australian Shepherd. The LED light on the device resting on the neck flashes blue, confirming the active connection for the silver rectangular Fi GPS module and blue merle Australian Shepherd. The brightly lit room with a rustic wooden table and soft natural daylight beautifully concludes the setup of the silver rectangular Fi GPS module and blue merle Australian Shepherd.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

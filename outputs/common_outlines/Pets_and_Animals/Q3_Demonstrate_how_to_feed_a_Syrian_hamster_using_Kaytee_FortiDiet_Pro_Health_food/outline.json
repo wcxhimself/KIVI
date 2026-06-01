@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate the precise process of measuring and serving Kaytee Forti-Diet Pro Health food to a Syrian hamster.",
+    "required_subjects_and_props": "Kaytee Forti-Diet Pro Health hamster food bag, metal tablespoon, small ceramic food bowl, Syrian hamster, hamster cage with paper bedding",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "A pair of hands places a bright yellow and green bag of Kaytee Forti-Diet Pro Health hamster food on a table next to a clean, empty ceramic bowl."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The right hand grips the top edge of the Kaytee Forti-Diet bag and pulls apart the resealable zipper."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The right hand lowers a metal tablespoon into the open bag and pushes it deep into the seed and pellet mixture."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The hand lifts the tablespoon out of the bag, revealing a heaping scoop of the varied seeds, corn, and green pellets."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand tilts the tablespoon, pouring the dry food mixture directly into the center of the ceramic bowl."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The hand repeats the motion, scooping a second tablespoon of food from the bag and emptying it into the bowl to fill it halfway."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Both hands pinch the top edges of the Kaytee Forti-Diet bag and slide their fingers across the seal to close it tightly."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "The right hand grasps the rim of the filled ceramic bowl, lifts it off the table, and moves it through the open door of a wire hamster cage."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The hand lowers the bowl and sets it flat on top of the fluffy paper bedding inside the cage, then withdraws."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A golden Syrian hamster walks out from a wooden hideout, approaches the ceramic bowl, and sniffs the food."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The Syrian hamster reaches into the bowl with its front paws, grabs a large green pellet, and holds it up to its mouth."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The Syrian hamster pushes the pellet into its mouth, visibly bulging its left cheek pouch outward."
+        }
+    ]
+}

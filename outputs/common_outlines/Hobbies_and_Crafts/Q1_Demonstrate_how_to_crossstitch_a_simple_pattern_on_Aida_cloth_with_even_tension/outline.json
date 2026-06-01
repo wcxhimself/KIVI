@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate how to create a basic cross-stitch on Aida cloth while maintaining even thread tension.",
+    "required_subjects_and_props": "White Aida cloth, wooden embroidery hoop, red embroidery floss, blunt tapestry needle",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands place a square of white Aida cloth evenly over the inner ring of a wooden embroidery hoop."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands press the outer hoop ring down over the Aida cloth, gently tugging the fabric edges to make it taut, and twist the top metal screw to tighten."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Fingers pinch the end of a strand of red embroidery floss and push it through the eye of a blunt tapestry needle."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The needle tip pokes up from beneath the taut Aida cloth, emerging cleanly through a specific bottom-left grid hole."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers pull the needle and red floss upward until only a 1-inch tail remains visible underneath, holding the tail flat against the back of the cloth with an index finger."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The needle tip is inserted down into the grid hole diagonally up and to the right of the starting hole."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The thread is pulled down slowly until it lays perfectly flat against the Aida cloth grid, forming a diagonal line without puckering the surrounding fabric."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The needle emerges from the hole directly below the top-right hole, representing the bottom-right corner of the stitch square."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The needle is pushed down into the top-left hole, crossing the red floss directly over the first diagonal thread."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The thread is pulled taut to complete a perfect 'X' shape; a finger gently taps the stitch to demonstrate it is snug while the fabric grid remains perfectly square."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The hands complete two more identical 'X' stitches directly to the right of the first one, forming a uniform, evenly tensioned row of three stitches."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The hoop is flipped over to reveal the back side, and the needle is slid horizontally underneath the three vertical thread loops to secure the loose tail."
+        }
+    ]
+}

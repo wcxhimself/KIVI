@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor",
+    "continuity_anchors": "under soft, ambient office lighting with a blurred, neutral-toned desk background",
+    "video_goal": "Demonstrate how to navigate ProtonMail settings to enable and configure an out-of-office auto-reply for international travel.",
+    "total_steps": 14,
+    "single_prompt": "A screen capture shows the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor under soft, ambient office lighting with a blurred, neutral-toned desk background. The mouse cursor glides to the top-right corner and clicks the Settings gear icon, opening a quick-settings dropdown menu. The cursor moves down and clicks 'All settings', transitioning the interface to the Settings dashboard. On the left-hand navigation sidebar, the cursor hovers over and clicks 'Auto-reply', updating the main right-hand panel to display the Auto-reply configuration settings. The cursor clicks the toggle switch next to 'Auto-reply', changing it from a grey 'off' state to a purple 'on' state. Moving down to the 'Duration' section, the cursor clicks the 'Start date' text field, prompting a calendar widget to pop up. The cursor selects a specific date and time slot, then clicks the 'End date' field to select a date two weeks later. The cursor moves down to the rich text editor box labeled 'Message' and clicks inside, making a blinking text cursor appear. Text rapidly appears spelling out: 'I am currently on international travel in a different time zone with limited connectivity.' The cursor highlights 'international travel' and clicks the 'B' (Bold) icon on the formatting toolbar. Finally, the cursor scrolls to the bottom, clicks the solid purple 'Save' button, and a green notification banner with a checkmark and 'Auto-reply saved' slides up from the bottom center of the screen.",
+    "interactive_prompts": [
+        {
+            "prompt": "A screen capture frames the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor resting in the center. Within the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor glides to the top-right corner and hovers over the Settings gear icon. The scene remains stable under soft, ambient office lighting with a blurred, neutral-toned desk background, highlighting the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "A smooth camera transition moves into a close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. The dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor shows the cursor clicking the Settings gear icon, causing a quick-settings dropdown menu to appear on the right side. The environment persists under soft, ambient office lighting with a blurred, neutral-toned desk background, framing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up screen capture on the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. On the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor moves down the dropdown menu and clicks the 'All settings' button. The setup is visible under soft, ambient office lighting with a blurred, neutral-toned desk background, focusing on the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "A smooth camera transition pulls back to a full screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. As the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor transitions to the Settings dashboard, the cursor moves to the left-hand navigation sidebar and hovers over the 'Auto-reply' menu item. The workspace is illuminated under soft, ambient office lighting with a blurred, neutral-toned desk background, showcasing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "A smooth camera transition zooms into a close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. The cursor clicks 'Auto-reply' within the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, updating the main right-hand panel to display the Auto-reply configuration settings. The view remains steady under soft, ambient office lighting with a blurred, neutral-toned desk background, capturing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera holds a smooth close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Inside the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor clicks the toggle switch next to 'Auto-reply', changing it from a grey 'off' state to a purple 'on' state. The atmosphere continues under soft, ambient office lighting with a blurred, neutral-toned desk background, emphasizing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "A smooth camera transition widens to a standard screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Navigating the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor moves down to the 'Duration' section and clicks the 'Start date' text field, prompting a calendar widget to pop up. The setting is anchored under soft, ambient office lighting with a blurred, neutral-toned desk background, displaying the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "A smooth camera transition focuses into a close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Operating the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor clicks on a specific date number on the calendar widget, then clicks a time slot in the adjacent time dropdown. The visual context is maintained under soft, ambient office lighting with a blurred, neutral-toned desk background, framing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly pans across the close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. On the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor clicks the 'End date' field, opening the calendar again, and selects a date two weeks later. The environment is consistent under soft, ambient office lighting with a blurred, neutral-toned desk background, showing the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "A smooth camera transition pulls out to a full screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Moving through the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor moves down to the rich text editor box labeled 'Message' and clicks inside it, making a blinking text cursor appear. The scene is bathed under soft, ambient office lighting with a blurred, neutral-toned desk background, highlighting the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "A smooth camera transition pushes into a close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Within the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, text rapidly appears in the editor box, spelling out: 'I am currently on international travel in a different time zone with limited connectivity.' The background remains under soft, ambient office lighting with a blurred, neutral-toned desk background, supporting the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Using the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor clicks and drags to highlight the words 'international travel', then moves up to the formatting toolbar and clicks the 'B' (Bold) icon. The lighting stays under soft, ambient office lighting with a blurred, neutral-toned desk background, illuminating the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "A smooth camera transition zooms out to a standard screen capture of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. Scrolling down the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, the cursor reaches the bottom of the Auto-reply configuration panel and clicks the solid purple 'Save' button. The room is visible under soft, ambient office lighting with a blurred, neutral-toned desk background, presenting the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "A smooth camera transition moves to a close-up screen capture of the lower section of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor. At the bottom center of the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor, a green notification banner with a checkmark and the text 'Auto-reply saved' slides up. The final shot rests under soft, ambient office lighting with a blurred, neutral-toned desk background, concluding on the dark-themed ProtonMail desktop web interface displayed on a flat-screen computer monitor with a white arrow mouse cursor.",
+            "duration_seconds": 3.0
+        }
+    ]
+}

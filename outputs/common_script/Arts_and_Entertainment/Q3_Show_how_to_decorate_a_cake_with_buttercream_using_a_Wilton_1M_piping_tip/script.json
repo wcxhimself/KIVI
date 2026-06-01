@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "silver metal Wilton 1M open star piping tip and transparent plastic piping bag",
+    "continuity_anchors": "brightly lit modern kitchen counter with a white marble surface and soft natural daylight",
+    "video_goal": "Demonstrate how to prepare a piping bag and pipe buttercream rosettes and borders on a cake using a Wilton 1M tip.",
+    "total_steps": 13,
+    "single_prompt": "A close-up shows a silver metal Wilton 1M open star piping tip being dropped into an empty, transparent plastic piping bag, pushing it down to the pointed end. An extreme close-up reveals scissors snipping the tip of the plastic bag, allowing the open star shape of the 1M tip to push through and lock tightly into place. From an over-the-shoulder view, a silicone spatula scoops thick buttercream frosting and scrapes it into the wide opening of the piping bag. A medium close-up shows a hand twisting the top of the piping bag tightly, forcing the buttercream down until it is visible inside the metal 1M tip. In a close-up, the bag is squeezed to pipe a small, star-shaped test dollop of buttercream onto a scrap of parchment paper. From a side angle, the piping bag is held at a 90-degree angle, hovering the 1M tip half an inch above the top edge of a smooth, frosted cake resting on a turntable. An extreme close-up shows steady pressure applied to the bag to pipe a small center star of buttercream directly onto the cake surface. Without releasing pressure, the tip moves in a tight, continuous circular motion around the center star to form a rosette. In a close-up, the pressure on the bag is released completely, and the tip is gently pulled away in a horizontal sweeping motion to taper off the buttercream tail. From an over-the-shoulder view, a non-dominant hand rotates the cake turntable a few inches to the left, exposing a blank section of the cake edge. A close-up shows a second buttercream rosette being piped immediately adjacent to the first one, overlapping the tapered tail of the previous rosette. A low angle close-up captures the tip moving to the bottom base of the cake, squeezing and pulling horizontally in short bursts to create a continuous shell border. Finally, a medium shot shows the turntable slowly spinning 360 degrees to display the finished cake, highlighting the textured buttercream rosettes and shell border on a brightly lit modern kitchen counter with a white marble surface and soft natural daylight.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up angle focuses on the silver metal Wilton 1M open star piping tip and transparent plastic piping bag resting in their starting position. The silver metal Wilton 1M open star piping tip and transparent plastic piping bag are manipulated as the metal tip is dropped into the empty bag and pushed down to the pointed end. This action takes place on a brightly lit modern kitchen counter with a white marble surface and soft natural daylight, highlighting the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an extreme close-up on the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. Scissors snip the tip of the plastic bag, allowing the open star shape of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag to push through and lock tightly into place. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight provides a clear view of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to an over-the-shoulder view of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. A silicone spatula scoops thick buttercream frosting and scrapes it into the wide opening of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight illuminates the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a medium close-up of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. One hand twists the top of the bag tightly, forcing the buttercream down until it is visible inside the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight surrounds the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium close-up to a close-up of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. A hand squeezes the silver metal Wilton 1M open star piping tip and transparent plastic piping bag to pipe a small, star-shaped test dollop of buttercream onto a scrap of parchment paper. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight reflects off the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a side angle showing the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The silver metal Wilton 1M open star piping tip and transparent plastic piping bag are held at a 90-degree angle, hovering half an inch above the top edge of a smooth, frosted cake resting on a turntable. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight sets the stage for the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a side angle to an extreme close-up of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. Steady pressure is applied to the silver metal Wilton 1M open star piping tip and transparent plastic piping bag to pipe a small center star of buttercream directly onto the cake surface. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight highlights the details of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the previous extreme close-up to a slightly shifted extreme close-up tracking the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. Without releasing pressure, the silver metal Wilton 1M open star piping tip and transparent plastic piping bag move in a tight, continuous circular motion around the center star to form a rosette. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight maintains a consistent glow on the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a close-up of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. Pressure is released completely, and the silver metal Wilton 1M open star piping tip and transparent plastic piping bag are gently pulled away in a horizontal sweeping motion to taper off the buttercream tail. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight frames the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view featuring the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. A non-dominant hand rotates the cake turntable a few inches to the left, exposing a blank section of the cake edge while the other hand holds the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight provides a steady environment for the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The silver metal Wilton 1M open star piping tip and transparent plastic piping bag pipe a second buttercream rosette immediately adjacent to the first one, overlapping the tapered tail of the previous rosette. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight illuminates the action of the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a low angle close-up focusing on the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The silver metal Wilton 1M open star piping tip and transparent plastic piping bag move to the bottom base of the cake, squeezing and pulling horizontally in short bursts to create a continuous shell border. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight casts soft shadows around the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a low angle close-up to a medium shot showing the finished cake alongside the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The turntable slowly spins 360 degrees to display the finished cake, highlighting the textured buttercream rosettes and shell border created by the silver metal Wilton 1M open star piping tip and transparent plastic piping bag. The brightly lit modern kitchen counter with a white marble surface and soft natural daylight beautifully presents the final result and the silver metal Wilton 1M open star piping tip and transparent plastic piping bag.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

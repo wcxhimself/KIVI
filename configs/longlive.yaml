@@ -1,0 +1,20 @@
+name: longlive
+description: "LongLive-1.3B — interactive causal inference (open-source)"
+mode: interactive
+fps: 16
+max_num_frames: 240
+frame_snapping: "multiple_of_3"
+code_dir: "video_generation_models/LongLive"
+
+model_path:
+  default: "${LONGLIVE_MODEL_PATH:-models_cache/LongLive/longlive_models/models/longlive_base.pt}"
+  lora: "${LONGLIVE_LORA_PATH:-models_cache/LongLive/longlive_models/models/lora.pt}"
+
+generation:
+  command: |
+    {torchrun} --nproc_per_node={num_gpus}
+      {code_dir}/interactive_inference.py
+      --config_path "{config_path}"
+
+output_patterns:
+  - "rank*-*-*_*.mp4"

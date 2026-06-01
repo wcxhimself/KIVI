@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "rectangular wooden slate, distinct double horizontal lines",
+    "continuity_anchors": "flat wooden desk surface under bright, even overhead classroom lighting",
+    "segments": [
+        {
+            "prompt": "An over-the-shoulder view establishes the perspective for a cursive handwriting tutorial. Two hands place a rectangular wooden slate, featuring distinct double horizontal lines, squarely onto a flat wooden desk. The scene is set against a flat wooden desk surface under bright, even overhead classroom lighting.",
+            "num_frames": 96
+        }
+    ]
+}

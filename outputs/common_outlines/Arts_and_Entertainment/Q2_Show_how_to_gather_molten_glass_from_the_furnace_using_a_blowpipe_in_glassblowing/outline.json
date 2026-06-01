@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate the precise technique of gathering a starter bubble of molten glass from a furnace using a steel blowpipe.",
+    "required_subjects_and_props": "Glassblower, long steel blowpipe, roaring glass furnace with crucible, glowing molten glass, metal yoke stand.",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "The glassblower holds the long steel blowpipe horizontally, resting the tip just inside the roaring furnace opening."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The tip of the steel blowpipe glows dull red as the glassblower's hands rotate the metal shaft slowly."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The glassblower steps forward, pushing the blowpipe deeper into the bright orange, glowing furnace crucible."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "The blowpipe tip hovers just above the flat, glowing pool of molten glass inside the crucible."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up (telephoto inside furnace)",
+            "visual_action": "The steel tip dips downward, breaking the surface of the bright orange molten glass."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The glassblower's bare hands rapidly twist the shaft of the blowpipe, spinning it continuously in a clockwise direction."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up (telephoto inside furnace)",
+            "visual_action": "The glowing orange molten glass spools thickly around the spinning blowpipe tip, resembling honey wrapping around a dipper."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The glassblower slightly raises the angle of the blowpipe, lifting the gathered glass out of the pool while maintaining the continuous spinning motion."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The glassblower slowly pulls the blowpipe backward toward the furnace door, keeping the shaft rotating."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up (telephoto inside furnace)",
+            "visual_action": "A thin, glowing thread of molten glass stretches from the pool and snaps off as the gather clears the crucible edge."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Medium shot",
+            "visual_action": "The glassblower fully extracts the blowpipe from the furnace, revealing a glowing, bulbous gather of glass on the end."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The glassblower rests the pipe on a metal yoke stand, continuously rolling the shaft back and forth to keep the glowing molten glass perfectly centered."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "Microsoft Word Windows desktop interface, white document pages, standard ribbon menu",
+    "continuity_anchors": "Bright, evenly lit digital screen environment with a neutral gray workspace background",
+    "segments": [
+        {
+            "prompt": "A full screen capture establishes the view of the application window. The screen displays a Microsoft Word document featuring text on the first page and an entirely blank second page below it. The bright, evenly lit digital screen environment features a neutral gray workspace background behind the white pages.",
+            "num_frames": 96
+        }
+    ]
+}

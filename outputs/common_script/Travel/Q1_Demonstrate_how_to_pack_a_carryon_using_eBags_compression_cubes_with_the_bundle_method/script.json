@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "black rectangular eBags compression cube with a branded mesh top lid",
+    "continuity_anchors": "on a flat white bedsheet under bright, even indoor bedroom lighting",
+    "video_goal": "Demonstrate how to efficiently pack a carry-on suitcase by wrapping clothes into a bundle and compressing them inside an eBags compression cube.",
+    "total_steps": 12,
+    "single_prompt": "An overhead view shows hands laying a pair of jeans completely flat on a flat white bedsheet under bright, even indoor bedroom lighting, smoothing out the wrinkles along the legs. The camera moves to a close-up as hands place a t-shirt flat on top of the jeans, aligning the collars and sleeves in opposite directions to form a cross shape. From an over-the-shoulder view, hands place a small, tightly rolled pouch of socks directly in the center of the layered clothes to act as the bundle's core. In a close-up, hands fold the sleeves and bottom hem of the t-shirt tightly over the central sock pouch, wrapping it completely. The hands then fold the legs of the jeans tightly over the wrapped t-shirt layer, creating a single, compact, solid clothing bundle. From an overhead view, hands open an empty black rectangular eBags compression cube with a branded mesh top lid, folding back the mesh top to reveal the interior. A first-person view shows hands lifting the completed clothing bundle and placing it snugly inside the open black rectangular eBags compression cube with a branded mesh top lid. In a close-up, fingers pull the main top zipper of the cube closed, securing the mesh lid over the clothing bundle. An extreme close-up focuses on fingers gripping the secondary outer compression zipper on the cube and pulling it along the side edge. The camera pulls back to a close-up as hands press down firmly on the top of the mesh cube while pulling the compression zipper all the way around, visibly flattening it. From an over-the-shoulder view, hands lift the flattened, compressed cube and place it into the open main compartment of a carry-on suitcase. Finally, an overhead view shows hands buckling the internal tie-down straps of the carry-on suitcase over the cube and pulling the strap tight.",
+    "interactive_prompts": [
+        {
+            "prompt": "An overhead view shows hands positioning a pair of jeans and a black rectangular eBags compression cube with a branded mesh top lid in their starting positions. The hands lay the pair of jeans completely flat, smoothing out the wrinkles along the legs. This action takes place on a flat white bedsheet under bright, even indoor bedroom lighting, with the black rectangular eBags compression cube with a branded mesh top lid resting nearby.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up of the jeans and the black rectangular eBags compression cube with a branded mesh top lid. Hands place a t-shirt flat on top of the jeans, aligning the collars and sleeves in opposite directions to form a cross shape beside the black rectangular eBags compression cube with a branded mesh top lid. The clothing remains on a flat white bedsheet under bright, even indoor bedroom lighting alongside the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view overlooking the layered clothes and the black rectangular eBags compression cube with a branded mesh top lid. Hands place a small, tightly rolled pouch of socks directly in the center of the layered clothes to act as the bundle's core, preparing it for the black rectangular eBags compression cube with a branded mesh top lid. The packing process continues on a flat white bedsheet under bright, even indoor bedroom lighting, featuring the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up of the clothing layers and the black rectangular eBags compression cube with a branded mesh top lid. Hands fold the sleeves and bottom hem of the t-shirt tightly over the central sock pouch, wrapping it completely while the black rectangular eBags compression cube with a branded mesh top lid sits ready. The garments are folded on a flat white bedsheet under bright, even indoor bedroom lighting next to the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up angle on the partially wrapped bundle and the black rectangular eBags compression cube with a branded mesh top lid. Hands fold the legs of the jeans tightly over the wrapped t-shirt layer, creating a single, compact, solid clothing bundle to go inside the black rectangular eBags compression cube with a branded mesh top lid. The solid bundle rests on a flat white bedsheet under bright, even indoor bedroom lighting beside the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an overhead view focusing directly on the black rectangular eBags compression cube with a branded mesh top lid. Hands open the empty black rectangular eBags compression cube with a branded mesh top lid, folding back the mesh top to reveal the interior. The open cube sits on a flat white bedsheet under bright, even indoor bedroom lighting, highlighting the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a first-person view looking down at the bundle and the black rectangular eBags compression cube with a branded mesh top lid. Hands lift the completed clothing bundle and place it snugly inside the open black rectangular eBags compression cube with a branded mesh top lid. The packing action happens on a flat white bedsheet under bright, even indoor bedroom lighting, centering on the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up of the black rectangular eBags compression cube with a branded mesh top lid. Fingers pull the main top zipper of the black rectangular eBags compression cube with a branded mesh top lid closed, securing the mesh lid over the clothing bundle. The zipped cube remains on a flat white bedsheet under bright, even indoor bedroom lighting, showcasing the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an extreme close-up on the side edge of the black rectangular eBags compression cube with a branded mesh top lid. Fingers grip the secondary outer compression zipper on the black rectangular eBags compression cube with a branded mesh top lid and begin pulling it along the side edge. The zipper details are illuminated on a flat white bedsheet under bright, even indoor bedroom lighting, emphasizing the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up back to a standard close-up of the black rectangular eBags compression cube with a branded mesh top lid. Hands press down firmly on the top of the black rectangular eBags compression cube with a branded mesh top lid while pulling the compression zipper all the way around, visibly flattening the cube. The compression process occurs on a flat white bedsheet under bright, even indoor bedroom lighting, featuring the flattening black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view showing an open carry-on suitcase and the black rectangular eBags compression cube with a branded mesh top lid. Hands lift the flattened, compressed black rectangular eBags compression cube with a branded mesh top lid and place it into the open main compartment of the carry-on suitcase. The suitcase and cube rest on a flat white bedsheet under bright, even indoor bedroom lighting, perfectly accommodating the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to an overhead view of the suitcase containing the black rectangular eBags compression cube with a branded mesh top lid. Hands buckle the internal tie-down straps of the carry-on suitcase over the black rectangular eBags compression cube with a branded mesh top lid and pull the strap tight. The fully packed suitcase sits on a flat white bedsheet under bright, even indoor bedroom lighting, securely holding the black rectangular eBags compression cube with a branded mesh top lid.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

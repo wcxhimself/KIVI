@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate how to prepare a piping bag and pipe buttercream rosettes and borders on a cake using a Wilton 1M tip.",
+    "required_subjects_and_props": "Wilton 1M piping tip, clear plastic piping bag, scissors, buttercream frosting, silicone spatula, frosted cake, cake turntable, parchment paper",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Drop a metal Wilton 1M piping tip into an empty, clear plastic piping bag, pushing it down to the pointed end."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Use scissors to snip the tip of the plastic bag, allowing the open star shape of the 1M tip to push through and lock tightly into place."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Use a silicone spatula to scoop thick buttercream frosting and scrape it into the wide opening of the piping bag."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium close-up",
+            "visual_action": "Twist the top of the piping bag tightly with one hand, forcing the buttercream down until it is visible inside the metal 1M tip."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Squeeze the bag to pipe a small, star-shaped test dollop of buttercream onto a scrap of parchment paper."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Side angle",
+            "visual_action": "Hold the piping bag at a 90-degree angle, hovering the 1M tip half an inch above the top edge of a smooth, frosted cake resting on a turntable."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Apply steady pressure to the bag to pipe a small center star of buttercream directly onto the cake surface."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "Without releasing pressure, move the tip in a tight, continuous circular motion around the center star to form a rosette."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Release the pressure on the bag completely, then gently pull the tip away in a horizontal sweeping motion to taper off the buttercream tail."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Use the non-dominant hand to rotate the cake turntable a few inches to the left, exposing a blank section of the cake edge."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Pipe a second buttercream rosette immediately adjacent to the first one, overlapping the tapered tail of the previous rosette."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 5.0,
+            "camera_angle": "Low angle close-up",
+            "visual_action": "Move the tip to the bottom base of the cake, squeezing and pulling horizontally in short bursts to create a continuous shell border."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 5.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Slowly spin the turntable 360 degrees to display the finished cake, highlighting the textured buttercream rosettes and shell border."
+        }
+    ]
+}

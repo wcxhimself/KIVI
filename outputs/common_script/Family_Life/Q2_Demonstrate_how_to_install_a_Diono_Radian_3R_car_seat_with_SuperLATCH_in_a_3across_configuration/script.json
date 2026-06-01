@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors",
+    "continuity_anchors": "inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows",
+    "video_goal": "Demonstrate the visual steps to securely install a Diono Radian 3R car seat using SuperLATCH in a tight 3-across vehicle back seat configuration.",
+    "total_steps": 13,
+    "single_prompt": "A wide shot pans across a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, showing two installed car seats with a narrow empty space in the middle. Hands unfold the bottom base of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors until it clicks into its rigid L-shape. From an over-the-shoulder view, hands lower the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors directly into the tight middle space between the two existing car seats. In a close-up, fingers unclip the SuperLATCH connectors with red release buttons from the storage slots on the back of the seat. A medium close-up shows hands threading the SuperLATCH strap through the side opening of the forward-facing belt path. An extreme close-up captures a hand pushing the metal SuperLATCH connector directly onto the vehicle's lower anchor bar deep in the seat bight, followed by the opposite hand pushing the second connector onto the other anchor bar. In a medium shot, a hand pushes down heavily on the seat pan while the other hand pulls the tightening strap straight up. A close-up shows hands gripping the side of the seat at the belt path and pushing it left and right, showing minimal movement. From an over-the-shoulder view, hands toss the top tether strap with a metal hook over the top of the vehicle seat headrest. A close-up reveals fingers snapping the top tether hook onto the metal anchor bracket on the back of the vehicle seat, and then a hand pulls the loose tail of the top tether strap downwards until it becomes completely taut. Finally, the camera slowly zooms out to a wide shot showing the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors sitting flush and secure in a complete 3-across car seat setup inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows.",
+    "interactive_prompts": [
+        {
+            "prompt": "A wide shot captures the starting position for the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors, panning across two pre-installed car seats with a narrow empty space in the middle. The camera pans across the vehicle back seat showing the two installed car seats with a narrow empty space waiting for the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. This setup takes place inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, perfectly framing the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Transitioning smoothly to a medium shot, hands hold the folded narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors in the starting position. Hands unfold the bottom base of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors until it clicks into its rigid L-shape. The unfolding action occurs inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, highlighting the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "Shifting to an over-the-shoulder view, hands position the unfolded narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors above the empty middle space. Hands lower the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors directly into the tight middle space between the two existing car seats. The tight placement is visible inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, emphasizing the fit of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "Moving into a close-up, the back of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors is clearly visible. Fingers unclip the red release buttons from the storage slots on the back of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. This detailed action happens inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, illuminating the back of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Pulling back slightly to a medium close-up, hands hold the strap next to the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. Hands thread the strap through the side opening of the forward-facing belt path on the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The threading process is shown inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, focusing on the side of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "Pushing into an extreme close-up, the lower anchor bar sits ready next to the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. A hand pushes the metal connector directly onto the vehicle's lower anchor bar deep in the seat bight, securing one side of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The connection is made inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, anchoring the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Panning smoothly to another extreme close-up on the opposite side, the second anchor bar is visible beside the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The opposite hand pushes the second connector onto the other lower anchor bar in the seat bight to fully latch the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. This secure attachment occurs inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, firmly holding the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Widening to a medium shot, hands are positioned on the base and strap of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. A hand pushes down heavily on the seat pan while the other hand pulls the tightening strap straight up to tighten the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The tightening action is performed inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, ensuring the stability of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "Moving into a close-up, hands firmly grasp the side belt path of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. Hands grip the side of the belt path and push it left and right, showing minimal movement of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The stability test takes place inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, proving the secure installation of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Transitioning to an over-the-shoulder view, hands hold the top tether strap extending from the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. Hands toss the top tether strap with a metal hook over the top of the vehicle seat headrest, originating from the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The strap is tossed inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, preparing the final anchor for the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "Shifting to a close-up behind the headrest, the metal anchor bracket awaits the tether from the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. Fingers snap the top tether hook onto the metal anchor bracket located on the back of the vehicle seat to secure the top of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. This rear connection is visible inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, completing the latching of the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Remaining in a close-up on the back of the seat, a hand grips the loose tail of the tether attached to the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. A hand pulls the loose tail of the top tether strap downwards until the strap becomes completely taut, fully securing the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The final tightening happens inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, locking in the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "Transitioning smoothly to a wide shot, the camera frames the fully installed narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors. The camera slowly zooms out to show the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors sitting flush and secure in a complete 3-across car seat setup. The completed installation is showcased inside a well-lit vehicle back seat featuring grey upholstery and natural daylight streaming through the car windows, perfectly accommodating the narrow profile Diono Radian 3R car seat with a steel core frame and red SuperLATCH connectors.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

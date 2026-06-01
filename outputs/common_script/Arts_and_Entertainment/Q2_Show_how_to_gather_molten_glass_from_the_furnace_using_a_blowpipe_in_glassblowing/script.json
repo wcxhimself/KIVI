@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe",
+    "continuity_anchors": "inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace",
+    "video_goal": "Demonstrate the precise technique of gathering a starter bubble of molten glass from a furnace using a steel blowpipe.",
+    "total_steps": 12,
+    "single_prompt": "A medium shot captures a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe horizontally, resting the tip just inside the furnace opening. The tip of the tool glows a dull red as the glassblower slowly rotates the metal shaft with bare hands. Stepping forward, the glassblower pushes the metal shaft deeper into the bright orange, glowing furnace crucible. The tip of the tool hovers just above the flat, glowing pool of molten glass inside the crucible. The steel tip dips downward, breaking the surface of the bright orange molten glass. Bare hands rapidly twist the shaft, spinning it continuously in a clockwise direction. The glowing orange molten glass spools thickly around the spinning tip, resembling honey wrapping around a dipper. Maintaining the continuous spinning motion, the glassblower slightly raises the angle of the tool, lifting the gathered glass out of the pool. Keeping the shaft rotating, the glassblower slowly pulls the tool backward toward the furnace door. A thin, glowing thread of molten glass stretches from the pool and snaps off as the gather clears the crucible edge. Fully extracting the tool from the furnace, the glassblower reveals a glowing, bulbous gather of glass on the end. Resting the pipe on a metal yoke stand, the glassblower continuously rolls the shaft back and forth to keep the glowing molten glass perfectly centered.",
+    "interactive_prompts": [
+        {
+            "prompt": "A medium shot captures a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe horizontally, resting the tip just inside the furnace opening. The glassblower holds the metal shaft steady as the roaring heat begins to warm the metal. This takes place inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, highlighting a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up on the tip of the tool. The tip of the tool glows a dull red as a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe slowly rotates the metal shaft with bare hands. The heat radiates inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, casting shadows around a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view behind the worker. Stepping forward, a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe pushes the metal shaft deeper into the bright orange, glowing furnace crucible. Sparks dance inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, framing a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a first-person view looking down the shaft. The tip of the tool hovers just above the flat, glowing pool of molten glass inside the crucible, guided by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe. The intense heat shimmers inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, surrounding a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a telephoto close-up inside the furnace. The steel tip dips downward, breaking the surface of the bright orange molten glass as a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe applies downward pressure. The liquid glass bubbles inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, reflecting off a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a telephoto close-up inside the furnace to a close-up on the worker's hands. Bare hands rapidly twist the shaft, spinning it continuously in a clockwise direction to control the tool of a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe. The rapid motion occurs inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, illuminating a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up on the hands to a telephoto close-up inside the furnace. The glowing orange molten glass spools thickly around the spinning tip, resembling honey wrapping around a dipper, manipulated by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe. The thick liquid gathers inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, controlled by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a telephoto close-up inside the furnace to a first-person view looking down the shaft. Maintaining the continuous spinning motion, a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe slightly raises the angle of the tool, lifting the gathered glass out of the pool. The glowing gather rises inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, held by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to an over-the-shoulder view. Keeping the shaft rotating, a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe slowly pulls the tool backward toward the furnace door. The backward movement happens inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, silhouetting a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a telephoto close-up inside the furnace. A thin, glowing thread of molten glass stretches from the pool and snaps off as the gather clears the crucible edge, carefully extracted by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe. The snapping thread falls back inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, leaving a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe with a clean gather.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a telephoto close-up inside the furnace to a medium shot. Fully extracting the tool from the furnace, a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe reveals a glowing, bulbous gather of glass on the end. The bright gather shines inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, contrasting with a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up on the metal yoke stand. Resting the pipe on a metal yoke stand, a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe continuously rolls the shaft back and forth to keep the glowing molten glass perfectly centered. The rolling action stabilizes the glass inside a dimly lit glassblowing studio illuminated by the intense, roaring orange glow of a high-temperature glass furnace, guided by a glassblower wearing protective sleeves holding a long, hollow, stainless steel blowpipe.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter",
+    "continuity_anchors": "illuminated by natural daylight filtering through the car windows into the dark grey interior cabin",
+    "video_goal": "Demonstrate the step-by-step process of replacing the cabin air filter in a Toyota RAV4 (XA50) to restore optimal HVAC airflow.",
+    "total_steps": 14,
+    "single_prompt": "Demonstrate the step-by-step process of replacing the cabin air filter in a Toyota RAV4 (XA50) to restore optimal HVAC airflow. From a first-person view, a hand opens the passenger side door of a Toyota RAV4 (XA50), revealing the dashboard and closed glovebox. From an over-the-shoulder view, a hand presses the glovebox latch button and lowers the glovebox door to the open position. In a close-up, fingers pinch the black plastic damper rod located on the right exterior side of the glovebox and slide it outward off its mounting peg. In a medium shot, two hands press inward on both outer edges of the glovebox simultaneously to clear the plastic stopper tabs from the dashboard frame. The glovebox swings downward toward the floorboards, exposing the black plastic HVAC blower unit hidden behind the dash. The camera zooms in on the rectangular cabin air filter cover on the HVAC unit, highlighting the 'UP' arrow molded into the plastic. A thumb and index finger squeeze the release clip on the right side of the filter cover and pull the cover completely off. A hand reaches into the exposed slot and pulls out a dark grey, debris-filled pleated cabin air filter. From a top-down view, the dirty grey filter is placed side-by-side on the floor mat next to a pristine, bright white new cabin air filter. In a close-up, fingers point to the printed 'UP' arrow and airflow indicator on the side of the new white filter. From an over-the-shoulder view, a hand slides the new white filter horizontally into the empty HVAC slot until it sits completely flush inside the unit. In a close-up, a hand aligns the left side of the plastic filter cover into its groove, then pushes the right side until the clip snaps securely into place. In a medium shot, two hands lift the glovebox upward, pushing firmly until the side stopper tabs pop back behind the dashboard frame. Finally, in a close-up, fingers slide the black damper rod back onto the side peg of the glovebox, then push the glovebox completely shut.",
+    "interactive_prompts": [
+        {
+            "prompt": "From a first-person view, a hand approaches the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. The hand pulls open the passenger side door, revealing the closed glovebox set into the dashboard. The scene is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, highlighting the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view facing the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. A hand presses the latch button on the glovebox and gently lowers the door down to the open position. The interior space remains illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, casting soft shadows across the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pushes in for a close-up on the right side of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. Fingers pinch the black plastic damper rod located on the exterior side of the glovebox and slide it outward off its mounting peg. The hardware is clearly illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, showing the details of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera pulls back into a medium shot capturing the full Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. Two hands press inward on both outer edges of the glovebox simultaneously to clear the plastic stopper tabs from the dashboard frame. The action unfolds illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, maintaining focus on the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a steady medium shot on the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. The glovebox swings downward toward the floorboards, exposing the black plastic HVAC blower unit hidden behind the dash. The exposed internal components are illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, contrasting with the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly zooms into a close-up within the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. The lens focuses tightly on the rectangular plastic filter cover on the HVAC unit, highlighting the 'UP' arrow molded into the plastic surface. The molded text is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, deep inside the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera holds a tight close-up on the internal components of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. A thumb and index finger squeeze the release clip on the right side of the plastic filter cover and pull the cover completely off the HVAC unit. The removal process is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, revealing the slot inside the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera remains in a close-up on the open slot within the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. A hand reaches into the exposed slot and pulls out a dark grey, debris-filled pleated cabin air filter. The dirty filter is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, contrasting sharply with the surrounding Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera tilts down into a top-down view of the floor mat below the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. The dirty grey filter is placed side-by-side on the floor mat next to a pristine, bright white new cabin air filter. Both filters are illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, resting beneath the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes into a close-up on the new filter resting near the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. Fingers point to the printed 'UP' arrow and airflow indicator on the side of the pristine white filter. The printed markings are clearly illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, preparing for installation into the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view looking into the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. A hand slides the new white filter horizontally into the empty HVAC slot until it sits completely flush inside the unit. The installation is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, securing the new part inside the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera moves into a close-up on the HVAC slot within the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. A hand aligns the left side of the plastic filter cover into its groove, then pushes the right side until the clip snaps securely into place. The secured cover is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, completing the seal inside the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back to a medium shot of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. Two hands lift the glovebox upward, pushing firmly until the side stopper tabs pop back behind the dashboard frame. The reassembly is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, restoring the structure of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in for a final close-up on the side of the Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter. Fingers slide the black damper rod back onto the side peg of the glovebox, then push the glovebox completely shut. The finished dashboard is illuminated by natural daylight filtering through the car windows into the dark grey interior cabin, showcasing the fully assembled Toyota RAV4 XA50 passenger dashboard with a black textured glovebox and rectangular cabin air filter.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

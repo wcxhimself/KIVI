@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade",
+    "continuity_anchors": "set against a warm-lit barbershop environment with a blurred wooden table in the background",
+    "video_goal": "Demonstrate a seamless neckline blend on a mannequin head using the taper lever adjustments of a BaByliss PRO GoldFX clipper.",
+    "total_steps": 12,
+    "single_prompt": "A Medium Shot captures a hand picking up the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade from a wooden table, bringing it next to the back of a mannequin head with synthetic hair. The camera smoothly transitions into an Extreme Close-up as a thumb pushes the side taper lever upward into the fully closed position. Pulling back to an Over-the-shoulder view, the flat cutting edge is pressed firmly against the bottom edge of the mannequin head's neckline. In a Close-up, the clipper moves upward in a short, outward-flicking C-stroke motion, cutting the bottom layer of synthetic hair to create a baseline. Pushing in for an Extreme Close-up, a thumb pulls the taper lever down exactly halfway, visibly exposing slightly more of the cutting blade. From an Over-the-shoulder view, the clipper is positioned half an inch above the newly cut baseline. A Close-up shows the clipper gliding upward with another C-stroke, blending the hair into the section just above the baseline. An Extreme Close-up captures the thumb pulling the taper lever all the way down to the fully open position. Retreating to an Over-the-shoulder view, the clipper is placed another half-inch higher on the neckline. In a Close-up, the clipper sweeps upward and flicks outward, seamlessly blending the faded section into the longer hair above. Shifting to a Medium Close-up, a small wooden fade brush sweeps rapidly across the mannequin's neck, clearing away the cut hair clippings. Finally, a Macro pan slowly moves across the back of the mannequin head, revealing a smooth, blended gradient on the neckline, all set against a warm-lit barbershop environment with a blurred wooden table in the background.",
+    "interactive_prompts": [
+        {
+            "prompt": "A Medium Shot captures a hand picking up the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade from a wooden table, bringing it next to the back of a mannequin head with synthetic hair. The hand firmly grips the tool, positioning it precisely beside the neckline of the mannequin head. The entire scene is set against a warm-lit barbershop environment with a blurred wooden table in the background, highlighting the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot into an Extreme Close-up on the side of the tool. A thumb pushes the side taper lever of the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade upward into the fully closed position. This detailed adjustment is set against a warm-lit barbershop environment with a blurred wooden table in the background, keeping focus on the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back smoothly into an Over-the-shoulder view behind the mannequin head. The flat cutting edge of the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade is pressed firmly against the bottom edge of the mannequin head's neckline. The cutting preparation is set against a warm-lit barbershop environment with a blurred wooden table in the background, framing the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides smoothly into a Close-up on the lower neckline of the mannequin head. The gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade moves upward in a short, outward-flicking C-stroke motion, cutting the bottom layer of synthetic hair to create a baseline. The precise cutting action is set against a warm-lit barbershop environment with a blurred wooden table in the background, emphasizing the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera pushes in smoothly for an Extreme Close-up on the side lever of the tool. A thumb pulls the taper lever of the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade down exactly halfway, visibly exposing slightly more of the cutting blade. This mechanical adjustment is set against a warm-lit barbershop environment with a blurred wooden table in the background, isolating the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly pulls back to an Over-the-shoulder view behind the mannequin head. The gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade is positioned half an inch above the newly cut baseline on the mannequin's neck. The setup for the next fade level is set against a warm-lit barbershop environment with a blurred wooden table in the background, showcasing the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly into a Close-up on the middle section of the mannequin's neckline. The gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade glides upward with another C-stroke, blending the hair into the section just above the baseline. The blending process is set against a warm-lit barbershop environment with a blurred wooden table in the background, featuring the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera zooms in smoothly for an Extreme Close-up on the side of the clipper. A thumb pulls the taper lever of the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade all the way down to the fully open position. The final lever adjustment is set against a warm-lit barbershop environment with a blurred wooden table in the background, highlighting the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly retreats to an Over-the-shoulder view behind the mannequin head. The gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade is placed another half-inch higher on the mannequin's neckline, just below the bulk of the longer hair. The positioning is set against a warm-lit barbershop environment with a blurred wooden table in the background, framing the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides smoothly into a Close-up on the upper neckline of the mannequin head. The gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade sweeps upward and flicks outward, seamlessly blending the faded section into the longer hair above. The final fading stroke is set against a warm-lit barbershop environment with a blurred wooden table in the background, capturing the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly shifts to a Medium Close-up on the back of the mannequin's neck. A small wooden fade brush sweeps rapidly across the mannequin's neck, clearing away the cut hair clippings while the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade rests nearby. The cleaning action is set against a warm-lit barbershop environment with a blurred wooden table in the background, with the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade remaining in view.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions into a Macro pan across the back of the mannequin head. The lens slowly pans across the synthetic hair, revealing a smooth, blended gradient on the neckline achieved by the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade. The finished haircut is set against a warm-lit barbershop environment with a blurred wooden table in the background, serving as a testament to the gleaming gold BaByliss PRO GoldFX clipper with a metallic cylindrical body and exposed blade.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

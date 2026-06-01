@@ -1,0 +1,25 @@
+name: helios
+description: "Helios Base — single-prompt generation (open-source)"
+mode: single_prompt
+fps: 24
+max_num_frames: 360
+frame_snapping: "4n+1"
+code_dir: "video_generation_models/Helios"
+
+model_path:
+  default: "${HELIOS_MODEL_PATH:-models_cache/Helios-Base}"
+
+generation:
+  command: |
+    python {code_dir}/infer_helios.py
+      --base_model_path {model_path}
+      --transformer_path {model_path}
+      --sample_type t2v
+      --prompt_txt_path "{prompt_file}"
+      --num_frames {num_frames}
+      --fps 24
+      --output_folder "{output_dir}"
+      --enable_compile
+
+output_patterns:
+  - "[0-9]*.mp4"

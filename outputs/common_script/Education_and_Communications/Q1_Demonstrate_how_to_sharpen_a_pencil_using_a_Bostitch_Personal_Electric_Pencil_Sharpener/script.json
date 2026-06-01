@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray",
+    "continuity_anchors": "on a flat wooden desk surface under bright, even indoor lighting",
+    "video_goal": "Demonstrate how to properly sharpen a wooden pencil and empty the shavings tray using a Bostitch Personal Electric Pencil Sharpener.",
+    "total_steps": 13,
+    "single_prompt": "A Close-up shot establishes a compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray resting on a flat wooden desk surface under bright, even indoor lighting. The camera pans slightly to highlight the Bostitch logo. Transitioning to an extreme close-up, a hand enters holding a yellow wooden pencil, rotating it to display a broken, flat graphite tip. From an over-the-shoulder view, the hand guides the dull pencil downward toward the circular insertion hole on top of the sharpener. In a close-up, the hand pushes the pencil down into the hole until it stops, keeping a firm grip. The sharpener vibrates slightly on the desk as the hand holds the pencil steady to prevent spinning. A macro view reveals wood and graphite shavings rapidly falling and accumulating inside the front translucent tray. The camera pulls back to a close-up as the hand pulls the pencil straight up and out of the insertion hole. In an extreme close-up, the hand rotates the pencil to display a sharp, pointed graphite tip. A medium shot shows the hand placing the sharpened pencil down on the desk beside the sharpener. Returning to a close-up, the thumb and index finger pinch the textured side grips of the translucent shavings tray and pull it straight out, exposing a pile of fresh shavings. From an over-the-shoulder view, the hand moves the tray over a small wastebasket and tilts it upside down to empty the shavings. Finally, in a close-up, the hand aligns the empty tray with the front opening of the sharpener and pushes it in until it sits flush, leaving the device ready for its next use.",
+    "interactive_prompts": [
+        {
+            "prompt": "A Close-up shot establishes the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray resting in its starting position alongside a dull wooden pencil. The camera pans slightly across the device to highlight the Bostitch logo on the front of the sharpener. The scene remains grounded on a flat wooden desk surface under bright, even indoor lighting, clearly illuminating the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly from a close-up to an Extreme close-up, focusing tightly near the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. A hand enters the frame holding a yellow wooden pencil, rotating it slowly to display the broken, flat graphite tip to the viewer. This action takes place on a flat wooden desk surface under bright, even indoor lighting, keeping the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray visible in the periphery.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts smoothly into an Over-the-shoulder view, looking down at the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand guides the dull wooden pencil downward, aiming the flat tip directly toward the circular insertion hole on the top of the device. The setup remains stable on a flat wooden desk surface under bright, even indoor lighting, highlighting the sleek form of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera glides smoothly back into a Close-up angle, framing the top of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand pushes the wooden pencil down into the insertion hole until it stops, keeping a firm grip on the pencil shaft as it engages the motor. The environment persists on a flat wooden desk surface under bright, even indoor lighting, casting soft reflections on the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "Maintaining the Close-up perspective, the camera focuses on the interaction between the pencil and the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The sharpener vibrates slightly as the internal motor runs, while the hand holds the pencil perfectly steady to prevent the wooden shaft from spinning. The vibration is absorbed on a flat wooden desk surface under bright, even indoor lighting, ensuring the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray remains securely in place.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in smoothly for a Macro view, targeting the lower half of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. Wood and graphite shavings rapidly fall and accumulate inside the clear plastic compartment as the sharpening process continues. The details of the shavings are crisp on a flat wooden desk surface under bright, even indoor lighting, showcasing the internal workings of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back smoothly to a Close-up shot, framing the top section of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand pulls the yellow wooden pencil straight up and completely out of the top insertion hole, stopping the motor. The action unfolds on a flat wooden desk surface under bright, even indoor lighting, leaving the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray at rest.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera transitions smoothly into an Extreme close-up, moving slightly away from the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray to focus on the pencil. The hand rotates the newly sharpened pencil between the thumb and index finger, proudly displaying a sharp, pointed graphite tip. The sharp tip gleams on a flat wooden desk surface under bright, even indoor lighting, while the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray sits quietly in the background.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera widens smoothly into a Medium shot, capturing both the hand and the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand gently places the sharpened yellow pencil down on the desk directly beside the sharpener. The completed task is visible on a flat wooden desk surface under bright, even indoor lighting, perfectly framing the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera moves smoothly into a Close-up, focusing on the front face of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. A thumb and index finger reach in to pinch the textured side grips of the clear plastic tray located on the front of the device. This interaction occurs on a flat wooden desk surface under bright, even indoor lighting, highlighting the ergonomic design of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "Holding the Close-up angle, the camera tracks the movement at the front of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand pulls the translucent shavings tray straight out from the main body, exposing a dense pile of fresh wood and graphite shavings inside. The separated components rest above on a flat wooden desk surface under bright, even indoor lighting, revealing the inner cavity of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly to an Over-the-shoulder view, following the tray away from the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand moves the full tray over a small wastebasket and tilts it upside down, causing all the loose shavings to fall out into the trash. The disposal happens just off to the side on a flat wooden desk surface under bright, even indoor lighting, while the main body of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray waits nearby.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides smoothly back to a Close-up, centering once again on the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray. The hand aligns the now-empty translucent tray with the front opening of the device and pushes it firmly inward until it sits completely flush. The reassembled device stands ready on a flat wooden desk surface under bright, even indoor lighting, completing the maintenance of the compact black Bostitch Personal Electric Pencil Sharpener with a translucent front shavings tray.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

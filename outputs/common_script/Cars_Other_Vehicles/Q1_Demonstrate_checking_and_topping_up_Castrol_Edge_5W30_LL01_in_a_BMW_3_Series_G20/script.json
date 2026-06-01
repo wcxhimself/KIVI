@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel",
+    "continuity_anchors": "brightly lit garage environment with clean concrete floors and soft overhead studio lighting",
+    "video_goal": "Demonstrate how to check the electronic oil level and top up the engine oil using Castrol Edge 5W-30 LL-01 in a BMW 3 Series (G20).",
+    "total_steps": 13,
+    "single_prompt": "From an over-the-shoulder view, a hand presses the engine start/stop button on the dashboard to turn on the vehicle's electronics. The camera smoothly transitions to a close-up as a hand rotates the iDrive controller dial, selecting 'Car', then 'Vehicle status', and finally clicking on 'Engine oil level' on the central display screen. Pushing in for a direct close-up, the screen displays a digital engine graphic with a yellow bar indicating the oil level is below the 'Max' line. Gliding down to a low angle close-up, a hand pulls the '2x' hood release lever twice in quick succession. Shifting to a first-person view, hands lift the front hood, revealing the longitudinal engine layout and plastic engine cover. Moving into a close-up, fingers grip the circular oil filler cap on top of the engine cover, twist it counter-clockwise, and lift it off. Transitioning to a high angle close-up, a clean, red plastic funnel is inserted directly into the open oil filler hole on the engine block. Pulling back to an eye-level medium shot, hands hold the gold Castrol Edge 5W-30 LL-01 bottle, twist off the red plastic cap, and peel back the silver foil seal. Moving to an over-the-shoulder close-up, the bottle is tilted, pouring a steady stream of amber oil into the red funnel. Shifting to a tight close-up, the funnel is lifted out of the hole, and a blue microfiber cloth wipes away a small drip from the rim of the filler neck. Maintaining a close-up angle, the oil filler cap is placed back onto the hole and twisted clockwise until a distinct click is visually registered by the hand stopping. Smoothly pulling back to a wide shot, hands pull the hood down and drop it from about a foot high to securely latch it shut. Transitioning back inside for a direct close-up, the screen updates, showing the digital oil level bar filling up to the green 'Max' line with an 'OK' status.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an over-the-shoulder view, the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel sits ready for maintenance. A hand reaches forward and presses the engine start/stop button on the dashboard of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel to turn on the vehicle's electronics. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting illuminates the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up focusing on the center console of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. A hand rotates the iDrive controller dial, selecting 'Car', then 'Vehicle status', and finally clicking on 'Engine oil level' on the central display screen of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting reflects off the interior surfaces of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in for a direct close-up on the dashboard display of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The screen displays a digital engine graphic with a yellow bar indicating the oil level is below the 'Max' line inside the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting provides clear visibility of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera glides down to a low angle close-up in the driver's side footwell of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. A hand pulls the '2x' hood release lever twice in quick succession within the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting casts gentle shadows around the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera shifts to a first-person view standing in front of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. Hands lift the front hood, revealing the longitudinal engine layout and plastic engine cover of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting highlights the engine bay of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera moves into a close-up on the engine block of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. Fingers grip the circular oil filler cap on top of the engine cover, twist it counter-clockwise, and lift it off the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting ensures perfect clarity over the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions to a high angle close-up looking down at the engine of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. A clean, red plastic funnel is inserted directly into the open oil filler hole on the engine block of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting shines down on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pulls back to an eye-level medium shot beside the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. Hands hold the gold Castrol Edge 5W-30 LL-01 bottle, twist off the red plastic cap, and peel back the silver foil seal next to the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting surrounds the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera moves to an over-the-shoulder close-up focusing on the pouring action over the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The gold Castrol Edge 5W-30 LL-01 bottle is tilted, pouring a steady stream of amber oil into the red funnel resting on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting captures the golden oil flowing into the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera shifts to a tight close-up on the filler neck of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The funnel is lifted out of the hole, and a blue microfiber cloth wipes away a small drip from the rim of the filler neck on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting keeps the focus sharp on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera maintains a close-up angle on the engine cover of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The oil filler cap is placed back onto the hole and twisted clockwise until a distinct click is visually registered by the hand stopping on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting illuminates the secured cap on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly pulls back to a wide shot capturing the entire front end of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. Hands pull the hood down and drop it from about a foot high to securely latch it shut on the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting showcases the sleek exterior of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera transitions back inside for a direct close-up on the dashboard of the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The screen updates, showing the digital oil level bar filling up to the green 'Max' line with an 'OK' status inside the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel. The brightly lit garage environment with clean concrete floors and soft overhead studio lighting concludes the maintenance process for the modern BMW 3 Series G20 vehicle with digital iDrive screen, gold Castrol Edge 5W-30 LL-01 bottle, and red plastic funnel.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

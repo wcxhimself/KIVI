@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card",
+    "continuity_anchors": "resting on a smooth wooden desk under bright, even studio lighting",
+    "video_goal": "Demonstrate how to physically insert a SIM card and verify cellular network connection on a US-unlocked Google Pixel 10.",
+    "total_steps": 12,
+    "single_prompt": "An over-the-shoulder view shows hands picking up a US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card from a smooth wooden desk under bright, even studio lighting. The camera moves to a close-up as the phone is held sideways, and a metal SIM ejector tool is brought toward the small circular hole next to the USB-C port. In an extreme close-up, the tip of the metal SIM ejector tool presses firmly into the hole, popping the SIM tray out about two millimeters. The camera pulls back to a close-up as thumb and index finger pinch the protruding edge of the SIM tray and pull it completely out. From a top-down view, the empty SIM tray rests on the desk while fingers carefully align and drop a nano-SIM card into it, ensuring the gold contacts face upward. The camera returns to a close-up as fingers guide the loaded SIM tray back into the bottom slot of the Pixel 10, pushing it flush. In a first-person view, the right thumb presses the side power button, illuminating the screen to the default lock screen. A screen capture angle shows a finger swiping up to unlock the device and tapping the gear-shaped Settings app icon. The finger then taps the 'Network & internet' option at the top of the menu. Next, the finger taps the 'SIMs' menu item, revealing the newly recognized cellular carrier's name with a toggle switch turned on. An extreme close-up focuses on the top right corner of the phone's status bar as the hollow signal triangle fills with solid white bars and a '5G' logo appears. Finally, an over-the-shoulder view shows the user holding the fully set up Google Pixel 10, swiping back to the home screen while the active cellular signal remains visible, all resting on a smooth wooden desk under bright, even studio lighting.",
+    "interactive_prompts": [
+        {
+            "prompt": "An over-the-shoulder view captures the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card in their starting positions. Hands pick up the device, briefly tilting it to reveal its back design. The entire scene remains resting on a smooth wooden desk under bright, even studio lighting, perfectly highlighting the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The phone is held sideways to expose the bottom edge as the right hand brings the metal tool toward the small circular hole next to the USB-C port. This action unfolds while resting on a smooth wooden desk under bright, even studio lighting, maintaining focus on the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in smoothly from a close-up to an extreme close-up on the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The tip of the tool presses firmly into the hole, causing the SIM tray to pop out about two millimeters from the chassis. The environment stays consistent, resting on a smooth wooden desk under bright, even studio lighting, illuminating the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back smoothly from an extreme close-up to a standard close-up of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. A thumb and index finger pinch the protruding edge of the SIM tray and pull it completely out of the phone chassis. The setup continues resting on a smooth wooden desk under bright, even studio lighting, clearly showing the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a top-down view overlooking the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The empty SIM tray is placed down, and fingers carefully align and drop the card into the tray, ensuring the gold contacts face upward and the angled corner matches the tray's shape. The items are resting on a smooth wooden desk under bright, even studio lighting, providing a clear view of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly shifts from a top-down view to a close-up on the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. Fingers guide the loaded SIM tray back into the bottom slot of the device, pushing it until it sits perfectly flush with the metal frame. The workspace remains resting on a smooth wooden desk under bright, even studio lighting, highlighting the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The right thumb presses the side power button, causing the screen to illuminate and display the default lock screen. The surrounding area is still resting on a smooth wooden desk under bright, even studio lighting, framing the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a direct screen capture angle of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. A finger swipes up from the bottom of the screen to unlock the device, then taps the gear-shaped 'Settings' app icon on the home screen. The physical context remains resting on a smooth wooden desk under bright, even studio lighting, supporting the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a smooth screen capture angle focused on the interface of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The finger taps the 'Network & internet' option located at the very top of the Settings menu. The device is resting on a smooth wooden desk under bright, even studio lighting, keeping the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card in a stable environment.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera continues its smooth screen capture perspective on the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The finger taps the 'SIMs' menu item, transitioning to a screen that displays the newly recognized cellular carrier's name with a toggle switch turned on. The background setting is resting on a smooth wooden desk under bright, even studio lighting, anchoring the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly pushes in from a screen capture to an extreme close-up on the display of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The lens focuses on the top right corner of the phone's status bar as the hollow signal triangle fills with solid white bars and a '5G' logo appears. The scene is resting on a smooth wooden desk under bright, even studio lighting, emphasizing the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly pulls back from an extreme close-up to an over-the-shoulder view of the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card. The user holds the fully set up device, swiping back to the home screen while the active cellular signal remains visible in the top right corner. The final shot shows the setup resting on a smooth wooden desk under bright, even studio lighting, concluding the process for the US-unlocked base model Google Pixel 10 with a distinctive horizontal rear camera bar, a metal SIM ejector tool, and a nano-SIM card.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

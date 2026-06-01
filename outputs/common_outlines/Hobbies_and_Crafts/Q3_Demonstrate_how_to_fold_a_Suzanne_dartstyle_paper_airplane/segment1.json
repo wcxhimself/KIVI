@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "crisp white standard A4 paper",
+    "continuity_anchors": "smooth wooden table under bright, even overhead studio lighting",
+    "segments": [
+        {
+            "prompt": "A top-down view captures the initial setup for folding a Suzanne dart-style paper airplane. Two hands place a crisp white standard A4 paper flat onto the surface, orienting it vertically. The workspace features a smooth wooden table under bright, even overhead studio lighting.",
+            "num_frames": 73
+        }
+    ]
+}

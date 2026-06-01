@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle",
+    "continuity_anchors": "in a brightly lit modern office environment with white walls and a flat wooden desk surface",
+    "video_goal": "Demonstrate the visual steps to safely remove a full waste toner bottle and install a new one in a Canon imageRUNNER ADVANCE C3530.",
+    "total_steps": 12,
+    "single_prompt": "A wide shot shows a person approaching a large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle in a brightly lit modern office environment with white walls and a flat wooden desk surface. The person grips the right edge of the front cover panel and pulls it open, swinging it to the left to reveal the internal toner cartridges. The camera pans down below the colored toner cartridges to focus on the frosted plastic waste toner bottle seated in the lower cavity. A thumb presses down on the colored release lever located on the left side of the waste toner bottle. The hand grips the center handle of the waste toner bottle and pulls it straight out of the machine, revealing the dark toner powder inside. The person carefully places the full waste toner bottle upright onto a nearby flat wooden desk surface to prevent spilling. Two hands open a cardboard box and lift out a clean, empty replacement waste toner bottle. The hand holds the new waste toner bottle and aligns the grooves on its bottom edge with the guide rails inside the printer's lower cavity. The hand pushes the new waste toner bottle smoothly into the slot until it stops flush against the back wall. The colored release lever snaps upward, clicking securely over the left edge of the newly inserted bottle. The hand pushes the front cover panel of the printer back to the right until it clicks firmly shut. Finally, the touchscreen interface refreshes, clearing the warning message and displaying the standard 'Ready to print' home screen.",
+    "interactive_prompts": [
+        {
+            "prompt": "A wide shot establishes the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle resting in its starting position. A person approaches the machine and reaches out to grip the right edge of the front cover panel. The action unfolds in a brightly lit modern office environment with white walls and a flat wooden desk surface, highlighting the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a wide shot to a close-up on the front panel of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A hand pulls the front cover panel open, swinging it to the left to reveal the internal toner cartridges and lower compartments of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The internal components are clearly visible in a brightly lit modern office environment with white walls and a flat wooden desk surface, maintaining focus on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a medium close-up, panning down below the colored toner cartridges of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The lens focuses on the frosted plastic waste toner bottle seated securely in the lower cavity of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. This lower section is illuminated in a brightly lit modern office environment with white walls and a flat wooden desk surface, showcasing the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium close-up to an extreme close-up on the internal latch mechanism of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A thumb presses down firmly on the colored release lever located on the left side of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The mechanical detail is captured in a brightly lit modern office environment with white walls and a flat wooden desk surface, emphasizing the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a standard close-up on the lower cavity of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A hand grips the center handle and pulls the container straight out of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle, revealing the dark toner powder inside. The extraction happens in a brightly lit modern office environment with white walls and a flat wooden desk surface, framing the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view, looking past the person toward the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The person carefully places the full container upright onto a nearby flat surface to prevent any powder from spilling near the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The careful placement occurs in a brightly lit modern office environment with white walls and a flat wooden desk surface, keeping the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle in the background.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a first-person view, looking down near the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. Two hands open a cardboard box and lift out a clean, empty replacement unit to be installed into the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The unboxing takes place in a brightly lit modern office environment with white walls and a flat wooden desk surface, right beside the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up on the lower cavity of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A hand holds the new replacement unit and aligns the grooves on its bottom edge with the guide rails inside the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The alignment is clearly visible in a brightly lit modern office environment with white walls and a flat wooden desk surface, highlighting the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the previous angle to a slightly different close-up on the insertion slot of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A hand pushes the new replacement unit smoothly into the slot until it stops flush against the back wall of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The smooth insertion is captured in a brightly lit modern office environment with white walls and a flat wooden desk surface, focusing on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an extreme close-up on the latch mechanism of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The colored release lever snaps upward, clicking securely over the left edge of the newly inserted unit inside the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The secure click is visually confirmed in a brightly lit modern office environment with white walls and a flat wooden desk surface, detailing the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a medium shot framing the front of the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. A hand pushes the front cover panel back to the right until it clicks firmly shut on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The closed machine stands ready in a brightly lit modern office environment with white walls and a flat wooden desk surface, showing the complete large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a direct screen capture view of the display panel on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The touchscreen interface refreshes, clearing the warning message and displaying the standard 'Ready to print' home screen on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle. The glowing screen illuminates the area in a brightly lit modern office environment with white walls and a flat wooden desk surface, finalizing the maintenance on the large beige and dark gray Canon imageRUNNER ADVANCE C3530 office printer with a frosted plastic waste toner bottle.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate how to cut and invert an Ataulfo mango into a hedgehog shape for easy cubing.",
+    "required_subjects_and_props": "Golden-yellow Ataulfo mango, small paring knife, wooden cutting board, glass bowl",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands place a bright golden-yellow, oblong Ataulfo mango and a small paring knife side-by-side on a wooden cutting board."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "The left hand holds the Ataulfo mango upright on the board, while the right hand positions the blade of the paring knife slightly off-center at the top stem."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The knife slices smoothly down the length of the mango, separating one thick, fleshy 'cheek' from the flat central pit."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The right hand lifts the cut mango cheek off the board, turning the bright orange inner flesh toward the camera."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "The left hand cradles the mango cheek skin-side down in the palm, while the right hand brings the tip of the paring knife to the top edge of the flesh."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The knife tip scores three parallel vertical lines down through the flesh, the blade stopping just before piercing the bottom skin."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The left hand rotates the cradled mango cheek 90 degrees to prepare for the next set of cuts."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The knife scores horizontal lines across the previous cuts, creating a distinct crosshatch grid pattern in the bright orange flesh."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The right hand sets down the knife, and both hands grip the outer edges of the scored mango cheek, placing thumbs against the center of the skin underneath."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The thumbs push firmly upward, inverting the skin and forcing the crosshatched mango cubes to fan outward into a spiky 'hedgehog' shape."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The left hand holds the inverted hedgehog mango over a glass bowl, while the right hand uses the paring knife to scrape along the base of the cubes."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The perfectly square Ataulfo mango cubes detach from the skin and tumble down into the glass bowl."
+        }
+    ]
+}

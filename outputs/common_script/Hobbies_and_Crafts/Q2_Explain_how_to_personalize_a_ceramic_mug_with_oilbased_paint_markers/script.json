@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "plain white cylindrical ceramic mug",
+    "continuity_anchors": "bright and warm lighting environment with soft, diffused shadows",
+    "video_goal": "Personalize a ceramic mug by prepping the surface, drawing with oil-based paint markers, and curing the design in an oven.",
+    "total_steps": 13,
+    "single_prompt": "A Close-up shot focuses on a plain white cylindrical ceramic mug resting in its starting position alongside a cotton pad and rubbing alcohol. A hand wipes the exterior surface of the plain white cylindrical ceramic mug using a cotton pad soaked in rubbing alcohol. The scene is set in a bright and warm lighting environment with soft, diffused shadows, highlighting the plain white cylindrical ceramic mug. The camera smoothly transitions from a close-up to an Over-the-shoulder view of the plain white cylindrical ceramic mug. A hand rubs a dry microfiber cloth over the wet areas of the plain white cylindrical ceramic mug until the surface is completely matte and dry. The bright and warm lighting environment with soft, diffused shadows remains consistent around the plain white cylindrical ceramic mug. The camera smoothly transitions to a Medium close-up, bringing a capped oil-based paint marker into view next to the plain white cylindrical ceramic mug. A hand vigorously shakes the capped oil-based paint marker up and down beside the plain white cylindrical ceramic mug. This action takes place in a bright and warm lighting environment with soft, diffused shadows, keeping the plain white cylindrical ceramic mug in frame. The camera smoothly transitions to an Extreme close-up on a piece of scrap paper positioned near the plain white cylindrical ceramic mug. A hand presses the tip of the oil-based marker repeatedly onto the scrap paper until colored paint flows down into the white nib, ready to be used on the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows provides a clear view of the plain white cylindrical ceramic mug. The camera smoothly transitions to a First-person view looking directly down at the plain white cylindrical ceramic mug. The marker tip draws a thick, opaque line directly onto the curved exterior of the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows beautifully illuminates the plain white cylindrical ceramic mug. The camera smoothly transitions to a Close-up focusing on the newly drawn lines on the plain white cylindrical ceramic mug. A hand switches to a fine-tip oil-based marker and draws small dots and accent lines around the initial design on the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows continues to frame the plain white cylindrical ceramic mug. The camera smoothly transitions to an Extreme close-up on a specific detail of the plain white cylindrical ceramic mug. A cotton swab dipped in rubbing alcohol carefully wipes away a small, wet paint smudge on the surface of the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows highlights the pristine finish of the plain white cylindrical ceramic mug. The camera smoothly transitions to a Medium shot capturing the entire plain white cylindrical ceramic mug. A hand places the fully painted plain white cylindrical ceramic mug onto a wooden table and pulls away, leaving the object to air dry. The bright and warm lighting environment with soft, diffused shadows surrounds the resting plain white cylindrical ceramic mug. The camera smoothly transitions to an Inside-oven view, looking out as the plain white cylindrical ceramic mug is brought inside. A hand places the painted plain white cylindrical ceramic mug directly onto the center metal rack inside a cold, unheated kitchen oven. The interior of the oven features a bright and warm lighting environment with soft, diffused shadows, maintaining focus on the plain white cylindrical ceramic mug. The camera smoothly transitions to a Close-up of the oven's exterior controls, momentarily shifting focus from the plain white cylindrical ceramic mug. A hand turns the oven temperature dial to the 350 degrees setting to begin curing the plain white cylindrical ceramic mug. The kitchen maintains a bright and warm lighting environment with soft, diffused shadows as the plain white cylindrical ceramic mug rests inside. The camera smoothly transitions to another Close-up on the digital interface, continuing the baking process for the plain white cylindrical ceramic mug. A hand presses the digital buttons on the oven interface to set a bake timer for 30 minutes to bake the plain white cylindrical ceramic mug. The surrounding space features a bright and warm lighting environment with soft, diffused shadows, ensuring the plain white cylindrical ceramic mug cures perfectly. The camera smoothly transitions to a Medium close-up of the oven door and controls, revealing the plain white cylindrical ceramic mug inside. A hand turns the oven dial to the Off position, leaving the oven door slightly ajar with the plain white cylindrical ceramic mug still resting on the rack inside. The scene is bathed in a bright and warm lighting environment with soft, diffused shadows, gently cooling the plain white cylindrical ceramic mug. The camera smoothly transitions to an Over-the-shoulder view as the plain white cylindrical ceramic mug is retrieved. A hand lifts the fully cooled, personalized plain white cylindrical ceramic mug out of the oven and rotates the object under a light to show the glossy, cured paint design. The final reveal takes place in a bright and warm lighting environment with soft, diffused shadows, perfectly showcasing the finished plain white cylindrical ceramic mug.",
+    "interactive_prompts": [
+        {
+            "prompt": "A Close-up shot focuses on a plain white cylindrical ceramic mug resting in its starting position alongside a cotton pad and rubbing alcohol. A hand wipes the exterior surface of the plain white cylindrical ceramic mug using a cotton pad soaked in rubbing alcohol. The scene is set in a bright and warm lighting environment with soft, diffused shadows, highlighting the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an Over-the-shoulder view of the plain white cylindrical ceramic mug. A hand rubs a dry microfiber cloth over the wet areas of the plain white cylindrical ceramic mug until the surface is completely matte and dry. The bright and warm lighting environment with soft, diffused shadows remains consistent around the plain white cylindrical ceramic mug.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a Medium close-up, bringing a capped oil-based paint marker into view next to the plain white cylindrical ceramic mug. A hand vigorously shakes the capped oil-based paint marker up and down beside the plain white cylindrical ceramic mug. This action takes place in a bright and warm lighting environment with soft, diffused shadows, keeping the plain white cylindrical ceramic mug in frame.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to an Extreme close-up on a piece of scrap paper positioned near the plain white cylindrical ceramic mug. A hand presses the tip of the oil-based marker repeatedly onto the scrap paper until colored paint flows down into the white nib, ready to be used on the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows provides a clear view of the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a First-person view looking directly down at the plain white cylindrical ceramic mug. The marker tip draws a thick, opaque line directly onto the curved exterior of the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows beautifully illuminates the plain white cylindrical ceramic mug.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a Close-up focusing on the newly drawn lines on the plain white cylindrical ceramic mug. A hand switches to a fine-tip oil-based marker and draws small dots and accent lines around the initial design on the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows continues to frame the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an Extreme close-up on a specific detail of the plain white cylindrical ceramic mug. A cotton swab dipped in rubbing alcohol carefully wipes away a small, wet paint smudge on the surface of the plain white cylindrical ceramic mug. The bright and warm lighting environment with soft, diffused shadows highlights the pristine finish of the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a Medium shot capturing the entire plain white cylindrical ceramic mug. A hand places the fully painted plain white cylindrical ceramic mug onto a wooden table and pulls away, leaving the object to air dry. The bright and warm lighting environment with soft, diffused shadows surrounds the resting plain white cylindrical ceramic mug.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to an Inside-oven view, looking out as the plain white cylindrical ceramic mug is brought inside. A hand places the painted plain white cylindrical ceramic mug directly onto the center metal rack inside a cold, unheated kitchen oven. The interior of the oven features a bright and warm lighting environment with soft, diffused shadows, maintaining focus on the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a Close-up of the oven's exterior controls, momentarily shifting focus from the plain white cylindrical ceramic mug. A hand turns the oven temperature dial to the 350 degrees setting to begin curing the plain white cylindrical ceramic mug. The kitchen maintains a bright and warm lighting environment with soft, diffused shadows as the plain white cylindrical ceramic mug rests inside.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to another Close-up on the digital interface, continuing the baking process for the plain white cylindrical ceramic mug. A hand presses the digital buttons on the oven interface to set a bake timer for 30 minutes to bake the plain white cylindrical ceramic mug. The surrounding space features a bright and warm lighting environment with soft, diffused shadows, ensuring the plain white cylindrical ceramic mug cures perfectly.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a Medium close-up of the oven door and controls, revealing the plain white cylindrical ceramic mug inside. A hand turns the oven dial to the Off position, leaving the oven door slightly ajar with the plain white cylindrical ceramic mug still resting on the rack inside. The scene is bathed in a bright and warm lighting environment with soft, diffused shadows, gently cooling the plain white cylindrical ceramic mug.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an Over-the-shoulder view as the plain white cylindrical ceramic mug is retrieved. A hand lifts the fully cooled, personalized plain white cylindrical ceramic mug out of the oven and rotates the object under a light to show the glossy, cured paint design. The final reveal takes place in a bright and warm lighting environment with soft, diffused shadows, perfectly showcasing the finished plain white cylindrical ceramic mug.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

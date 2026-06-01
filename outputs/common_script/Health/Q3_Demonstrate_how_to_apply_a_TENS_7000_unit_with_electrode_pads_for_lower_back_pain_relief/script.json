@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads",
+    "continuity_anchors": "set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting",
+    "video_goal": "Demonstrate the proper setup, pad placement, and activation of a TENS 7000 unit for lower back pain relief.",
+    "total_steps": 12,
+    "single_prompt": "A top-down view shows hands placing a silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads onto a flat wooden table. The camera moves to a close-up as hands push the two plastic plugs of the lead wires firmly into the two circular ports located at the top edge of the unit. Fingers then push the red and black metal pins at the ends of the lead wires into the short wire connectors attached to each of the four electrode pads. Shifting to a first-person view, hands peel the clear plastic backing off the black, sticky side of the first square electrode pad. The camera transitions to a medium shot as a hand presses the first sticky pad onto the bare skin of the exposed lower back, positioning it exactly two inches to the left of the spine. The hand then presses the second pad onto the skin, two inches to the right of the spine, directly parallel to the first pad. Next, the hand presses the third and fourth pads onto the lower back, positioning them two inches below the first two pads to form a square pattern around the lumbar region. The camera moves to a close-up as fingers flip open the front plastic cover of the TENS 7000 unit to reveal the gray control buttons and the LCD screen. Thumb and index finger twist the top left dial clockwise until a physical click occurs and the LCD screen illuminates with black text. A finger presses the 'Mode' button below the screen, causing the text on the LCD display to cycle until the word 'Normal' appears. Fingers slowly twist both top dials clockwise, stopping when the LCD screen displays the number '3' to indicate the rising intensity level. Finally, transitioning to an over-the-shoulder view, the person slides the metal clip located on the back of the TENS 7000 unit securely onto the waistband of their pants.",
+    "interactive_prompts": [
+        {
+            "prompt": "A top-down view captures the starting position of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. Hands place the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads onto a flat wooden table. The entire setup is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, keeping the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads in clear focus.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to a close-up angle focusing on the top edge of the device. Hands push the two plastic plugs of the lead wires firmly into the two circular ports located at the top edge of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. This action unfolds set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, maintaining visibility of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up angle, shifting focus slightly toward the ends of the wires. Fingers push the red and black metal pins at the ends of the lead wires into the short wire connectors attached to the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The environment remains set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, illuminating the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view looking down at the hands. Hands peel the clear plastic backing off the black, sticky side of the first pad belonging to the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The workspace is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, framing the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a medium shot focusing on the bare skin. A hand presses the first sticky pad onto the bare skin of the lower back, positioning it exactly two inches to the left of the spine while holding components of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The scene is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, clearly showing the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera maintains a steady medium shot, keeping the lower back centered in the frame. The hand presses the second pad onto the skin, two inches to the right of the spine, directly parallel to the first pad of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The background continues to be set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, alongside the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera holds its smooth medium shot to capture the expanding pattern on the skin. The hand presses the third and fourth pads onto the lower back, positioning them two inches below the first two pads to form a square pattern around the lumbar region using the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The application is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, featuring the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up focusing directly on the main device. Fingers flip open the front plastic cover to reveal the screen on the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The device is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, highlighting the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera remains in a tight close-up, tracking the fingers as they move to the top dials. Thumb and index finger twist the top left dial clockwise until a physical click occurs and the LCD screen illuminates with black text on the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. This interaction is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, showcasing the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera holds the close-up angle, shifting slightly down to the interface panel. A finger presses the 'Mode' button below the screen, causing the text on the LCD display to cycle until the word 'Normal' appears on the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The setup remains set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, keeping the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads in view.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains the close-up perspective, focusing back on the top dials. Fingers slowly twist both top dials clockwise, stopping when the LCD screen displays the number '3' to indicate the rising intensity level on the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The adjustment happens set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, emphasizing the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view to capture the person's waist. The person slides the metal clip located on the back securely onto the waistband of their pants, attaching the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads. The final placement is set against a flat wooden table and a human subject with an exposed lower back under bright, even indoor lighting, completing the setup of the silver TENS 7000 unit with gray control buttons, two coiled lead wires, and four square black electrode pads.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

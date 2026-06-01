@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "classic silver aluminum octagonal Bialetti moka pot",
+    "continuity_anchors": "warmly lit rustic wooden kitchen countertop with soft morning sunlight",
+    "video_goal": "Demonstrate the visual process of brewing coffee using a Bialetti moka pot and Stumptown Hair Bender beans.",
+    "total_steps": 13,
+    "single_prompt": "From an overhead view, hands place a brown bag of Stumptown Hair Bender coffee next to a disassembled classic silver aluminum octagonal Bialetti moka pot on a warmly lit rustic wooden kitchen countertop with soft morning sunlight. The camera transitions to a close-up as hands pour steaming hot water from a gooseneck kettle into the bottom chamber, stopping at the brass safety valve. Moving to a high-angle close-up, fingers drop the funnel-shaped metal filter basket into the water-filled base. In an over-the-shoulder view, a metal scoop transfers medium-fine coffee grounds from the bag into the filter basket, mounding it slightly. An extreme close-up shows an index finger sweeping across the top of the filter basket, leveling the grounds flat without tamping. From a medium close-up, hands grip the bottom chamber with a folded kitchen towel and tightly screw the top octagonal chamber onto the base. A low-angle medium shot captures hands placing the assembled pot onto a gas stovetop burner and igniting a medium flame. A high-angle close-up reveals a hand flipping the lid open to show the empty upper chamber and central metal spout. In an extreme close-up, thick, dark liquid begins to slowly ooze out of the central spout and pool in the bottom. A close-up shows the liquid stream turning golden-blond and bubbling rapidly. From a medium close-up, a hand quickly grabs the black plastic handle, removes the pot from the burner, and flips the lid closed. A close-up captures hands wrapping a damp cloth around the bottom chamber, producing a small hiss of steam to halt the brewing process. Finally, in an over-the-shoulder view, hands tilt the pot, pouring the freshly brewed coffee into a white ceramic mug.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an overhead view, hands place a brown bag of Stumptown Hair Bender coffee next to a disassembled classic silver aluminum octagonal Bialetti moka pot in its starting position. The hands carefully arrange the coffee bag and the separated chambers of the pot on the surface. The warmly lit rustic wooden kitchen countertop with soft morning sunlight perfectly illuminates the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up of the bottom chamber. Hands pour steaming hot water from a gooseneck kettle into the base of the classic silver aluminum octagonal Bialetti moka pot, stopping exactly at the brass safety valve. Steam rises gently in the warmly lit rustic wooden kitchen countertop with soft morning sunlight, highlighting the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a high-angle close-up looking down into the water-filled base. Fingers gently drop the funnel-shaped metal filter basket into the bottom chamber of the classic silver aluminum octagonal Bialetti moka pot. The metallic surfaces gleam against the warmly lit rustic wooden kitchen countertop with soft morning sunlight, framing the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a high-angle close-up to an over-the-shoulder view of the brewing setup. A metal scoop transfers medium-fine Stumptown Hair Bender coffee grounds from the bag into the filter basket of the classic silver aluminum octagonal Bialetti moka pot, mounding the coffee slightly. The rich brown coffee contrasts beautifully within the warmly lit rustic wooden kitchen countertop with soft morning sunlight, surrounding the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to an extreme close-up of the mounded coffee grounds. An index finger sweeps across the top of the filter basket of the classic silver aluminum octagonal Bialetti moka pot, leveling the coffee grounds flat without tamping or pressing them down. The precise leveling action is captured clearly in the warmly lit rustic wooden kitchen countertop with soft morning sunlight, focusing on the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a medium close-up of the two halves being joined. Hands grip the hot bottom chamber with a folded kitchen towel and tightly screw the top chamber onto the base of the classic silver aluminum octagonal Bialetti moka pot. The assembly is completed securely within the warmly lit rustic wooden kitchen countertop with soft morning sunlight, showcasing the fully built classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium close-up to a low-angle medium shot near the stove. Hands place the assembled classic silver aluminum octagonal Bialetti moka pot onto a gas stovetop burner and turn the knob to ignite a medium blue flame beneath it. The fire flickers brightly, contrasting with the warmly lit rustic wooden kitchen countertop with soft morning sunlight that sits just behind the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a low-angle medium shot to a high-angle close-up looking down at the top of the brewer. A hand flips the lid of the classic silver aluminum octagonal Bialetti moka pot open, revealing the empty upper chamber and the central metal spout. The empty chamber waits in the warmly lit rustic wooden kitchen countertop with soft morning sunlight, reflecting off the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a high-angle close-up to an extreme close-up focused tightly on the central metal spout. Thick, dark liquid begins to slowly ooze out of the central spout of the classic silver aluminum octagonal Bialetti moka pot and pool in the bottom of the upper chamber. The rich espresso extraction shines under the warmly lit rustic wooden kitchen countertop with soft morning sunlight, filling the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a close-up of the rising coffee level. The liquid stream inside the classic silver aluminum octagonal Bialetti moka pot turns golden-blond and begins to bubble and sputter rapidly from the spout. The sputtering coffee creates a dynamic scene within the warmly lit rustic wooden kitchen countertop with soft morning sunlight, vibrating the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a medium close-up of the stove area. A hand quickly grabs the black plastic handle of the classic silver aluminum octagonal Bialetti moka pot, removes it from the burner, and flips the lid closed. The heat dissipates slightly into the warmly lit rustic wooden kitchen countertop with soft morning sunlight, cooling the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium close-up to a close-up of the base. Hands wrap a damp cloth around the bottom chamber of the classic silver aluminum octagonal Bialetti moka pot, producing a small hiss of steam to halt the brewing process. The steam billows up into the warmly lit rustic wooden kitchen countertop with soft morning sunlight, enveloping the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view of the final pour. Hands tilt the classic silver aluminum octagonal Bialetti moka pot, pouring the freshly brewed coffee into a white ceramic mug. The dark coffee fills the mug perfectly within the warmly lit rustic wooden kitchen countertop with soft morning sunlight, completing the journey of the classic silver aluminum octagonal Bialetti moka pot.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

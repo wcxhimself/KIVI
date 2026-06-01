@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate the correct visual sequence for threading a climbing rope into a Petzl Grigri and securing it to a harness with a locking carabiner.",
+    "required_subjects_and_props": "Petzl Grigri belay device, dynamic climbing rope, pear-shaped locking carabiner, climbing harness",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands hold a bright orange Petzl Grigri belay device in the left hand and a thick dynamic climbing rope in the right hand."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The left thumb pushes the black plastic release handle slightly to pivot and slide open the metal moving side plate of the Grigri."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The right fingers pinch the climbing rope, folding it over to form a tight, U-shaped bight."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.5,
+            "camera_angle": "First-person view",
+            "visual_action": "The bight of rope is pushed into the open Grigri, wrapping the curve of the rope around the internal grooved metal cam."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The camera focuses on the engraved icons inside the Grigri, showing the top strand of rope aligning with the 'climber' icon and the bottom strand aligning with the 'hand' icon."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "The metal moving side plate is pivoted back into its original position, snapping shut over the seated rope."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A right hand brings a pear-shaped locking carabiner into the frame, positioning it next to the closed Grigri."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The carabiner gate is pushed open with the thumb, and the nose of the carabiner is hooked through the two aligned metal attachment holes of the Grigri."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "The carabiner, now holding the Grigri, is pushed downward to clip through the thick nylon belay loop of a worn climbing harness."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers twist the textured metal sleeve on the locking carabiner upward until it stops, visibly covering the nose of the gate."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The left hand sharply pulls the top 'climber' side of the rope upward, while the right hand firmly grips the bottom 'brake' side of the rope downward."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The internal cam of the Grigri visibly pivots upward inside the device, pinching the rope tightly against the metal channel to arrest the upward pull."
+        }
+    ]
+}

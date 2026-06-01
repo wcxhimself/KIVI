@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate how to check the electronic oil level and top up the engine oil using Castrol Edge 5W-30 LL-01 in a BMW 3 Series (G20).",
+    "required_subjects_and_props": "BMW 3 Series (G20) vehicle, iDrive infotainment system, Castrol Edge 5W-30 LL-01 oil bottle, plastic funnel, microfiber cloth",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "A hand presses the engine start/stop button on the BMW G20 dashboard to turn on the vehicle's electronics."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand rotates the iDrive controller dial, selecting 'Car', then 'Vehicle status', and finally clicking on 'Engine oil level' on the central display screen."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.5,
+            "camera_angle": "Direct close-up",
+            "visual_action": "The iDrive screen displays a digital engine graphic with a yellow bar indicating the oil level is below the 'Max' line."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.0,
+            "camera_angle": "Low angle close-up",
+            "visual_action": "A hand pulls the '2x' hood release lever located in the driver's side footwell twice in quick succession."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands lift the front hood of the BMW G20, revealing the longitudinal engine layout and plastic engine cover."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers grip the circular oil filler cap on top of the engine cover, twist it counter-clockwise, and lift it off."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.0,
+            "camera_angle": "High angle close-up",
+            "visual_action": "A clean, red plastic funnel is inserted directly into the open oil filler hole on the engine block."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.5,
+            "camera_angle": "Eye-level medium shot",
+            "visual_action": "Hands hold a gold Castrol Edge 5W-30 LL-01 bottle, twist off the red plastic cap, and peel back the silver foil seal."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder close-up",
+            "visual_action": "The gold Castrol Edge 5W-30 LL-01 bottle is tilted, pouring a steady stream of amber oil into the red funnel."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The funnel is lifted out of the hole, and a blue microfiber cloth wipes away a small drip from the rim of the filler neck."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The oil filler cap is placed back onto the hole and twisted clockwise until a distinct click is visually registered by the hand stopping."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "Hands pull the BMW hood down and drop it from about a foot high to securely latch it shut."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Direct close-up",
+            "visual_action": "The iDrive screen updates, showing the digital oil level bar filling up to the green 'Max' line with an 'OK' status."
+        }
+    ]
+}

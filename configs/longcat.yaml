@@ -1,0 +1,22 @@
+name: longcat
+description: "LongCat-Video — interactive prompt-switching generation (open-source)"
+mode: interactive
+fps: 15
+max_num_frames: 257
+frame_snapping: "4n+1"
+code_dir: "video_generation_models/LongCat-Video"
+
+model_path:
+  default: "${LONGCAT_MODEL_PATH:-models_cache/LongCat-Video}"
+
+generation:
+  command: |
+    {torchrun} --nproc_per_node={num_gpus}
+      kivi/generation/longcat_wrapper.py
+      --checkpoint_dir {model_path}
+      --prompt_file "{prompt_file}"
+      --output_dir "{output_dir}"
+
+output_patterns:
+  - "output_interactive_refine_*.mp4"
+  - "output_interactive_*.mp4"

@@ -1,0 +1,51 @@
+name: hunyuanvideo-1.5
+description: "HunyuanVideo-1.5 — segment-based T2V+I2V with 2-GPU SP (open-source)"
+mode: segment
+fps: 24
+max_num_frames: 121
+frame_snapping: "4n+1"
+code_dir: "video_generation_models/HunyuanVideo-1.5"
+
+model_path:
+  default: "${HUNYUAN15_MODEL_PATH:-models_cache/HunyuanVideo-1.5/}"
+
+segment:
+  t2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --prompt "{prompt}"
+        --resolution 720p
+        --model_path {model_path}
+        --aspect_ratio 16:9
+        --seed {seed}
+        --output_path "{output_path}"
+        --offloading true
+        --group_offloading true
+        --overlap_group_offloading true
+        --dtype bf16
+        --sr false
+        --rewrite false
+        --enable_cache true
+        --cache_type deepcache
+        {frame_num_arg}
+  i2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --prompt "{prompt}"
+        --resolution 720p
+        --model_path {model_path}
+        --aspect_ratio 16:9
+        --seed {seed}
+        --output_path "{output_path}"
+        --offloading true
+        --group_offloading true
+        --overlap_group_offloading true
+        --dtype bf16
+        --sr false
+        --rewrite false
+        --enable_cache true
+        --cache_type deepcache
+        --image_path "{ref_image_path}"
+        {frame_num_arg}

@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate how to visually authenticate a Series 2013 $100 bill by inspecting the 3D Security Ribbon and color-shifting ink features.",
+    "required_subjects_and_props": "Series 2013 $100 bill, dark table surface, bright directional light source",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "Place the Series 2013 $100 bill flat on a dark, well-lit table, ensuring the front side with Benjamin Franklin is facing up."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands pick up the bill by the left and right edges, lifting it toward the camera lens into the light."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The right index finger traces the vertical blue 3D Security Ribbon running down the center-right of the bill to highlight its position."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Fingers pinch and slightly bend the paper around the blue 3D Security Ribbon to visually demonstrate that the ribbon is woven into the paper, not printed on top."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Tilt the top edge of the bill back and forth. The tiny bells inside the blue 3D Security Ribbon visually change into '100's as the angle changes."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Tilt the bill side to side from left to right. The '100' icons inside the blue 3D Security Ribbon move up and down in response to the side-to-side motion."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The index finger moves to the right of the ribbon and points directly at the copper-colored inkwell containing a bell icon."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Tilt the bill back and forth. The bell inside the inkwell shifts color from copper to green, making it appear to vanish into the background of the inkwell."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The index finger slides down to point at the large '100' numeral located in the bottom right corner of the bill."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Tilt the bill up and down again. The color-shifting ink on the large '100' numeral transitions smoothly from copper to green."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Low angle view",
+            "visual_action": "Hold the bill up directly against the bright directional light source to reveal the hidden faint watermark of Benjamin Franklin's face on the far right side."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "Place the verified Series 2013 $100 bill back onto the dark table and smooth it flat with both hands."
+        }
+    ]
+}

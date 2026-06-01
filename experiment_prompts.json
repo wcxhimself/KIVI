@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "category": "Arts and Entertainment",
+    "prompts": [
+      "Demonstrate setting up a Nikon D850 for portrait photography.",
+      "Show how to gather molten glass from the furnace using a blowpipe in glassblowing.",
+      "Show how to decorate a cake with buttercream using a Wilton 1M piping tip."
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Cars & Other Vehicles",
+    "prompts": [
+      "Demonstrate checking and topping up Castrol Edge 5W-30 LL-01 in a BMW 3 Series (G20).",
+      "Explain how to bleed hydraulic brake lines on a Yamaha YZF-R3 (2022 model year) sport motorcycle.",
+      "Show how to replace the cabin air filter on a Toyota RAV4 (XA50) to improve HVAC airflow."
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Computers and Electronics",
+    "prompts": [
+      "Explain step‑by‑step how to set up cellular service on a US‑unlocked base model Google Pixel 10.",
+      "Guide me through setting up a Raspberry Pi 4 with Raspberry Pi OS for the first time.",
+      "Demonstrate how to remove a blank page in Microsoft Word for Microsoft 365 (Windows desktop)."
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Education and Communications",
+    "prompts": [
+      "Demonstrate how to sharpen a pencil using a Bostitch Personal Electric Pencil Sharpener.",
+      "Demonstrate how to teach cursive handwriting using Handwriting Without Tears slate and chalk.",
+      "Demonstrate how to create a branching scenario in SMART Notebook 20 using the Lesson Activity Builder."
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Family Life",
+    "prompts": [
+      "Show how to teach a child to tie Stride Rite sneakers using the \"bunny ears\" method.",
+      "Demonstrate how to install a Diono Radian 3R car seat with SuperLATCH in a 3-across configuration.",
+      "Demonstrate how to replace a 3M Filtrete 16x25x1 HVAC air filter in a home return air vent."
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Finance and Business",
+    "prompts": [
+      "Demonstrate how to verify a Series 2013 $100 bill using the 3D Security Ribbon and color-shifting ink.",
+      "Demonstrate how to count a cash drawer using an AccuBANKER AB-5000.",
+      "Show how to endorse and deposit a check using Chase Mobile app camera capture."
+    ]
+  },
+  {
+    "id": 7,
+    "category": "Food and Entertaining",
+    "prompts": [
+      "Demonstrate how to boil a chicken egg.",
+      "Demonstrate how to brew coffee using a Bialetti moka pot with Stumptown Hair Bender.",
+      "Demonstrate how to peel an Ataulfo mango using the hedgehog method."
+    ]
+  },
+  {
+    "id": 8,
+    "category": "Health",
+    "prompts": [
+      "Demonstrate how to measure blood pressure using an Omron Platinum BP5450.",
+      "Demonstrate how to set up a ResMed AirSense 10 CPAP machine with a heated humidifier for sleep apnea therapy.",
+      "Demonstrate how to apply a TENS 7000 unit with electrode pads for lower back pain relief."
+    ]
+  },
+  {
+    "id": 9,
+    "category": "Hobbies and Crafts",
+    "prompts": [
+      "Demonstrate how to cross-stitch a simple pattern on Aida cloth with even tension.",
+      "Explain how to personalize a ceramic mug with oil-based paint markers.",
+      "Demonstrate how to fold a Suzanne dart-style paper airplane."
+    ]
+  },
+  {
+    "id": 10,
+    "category": "Holidays and Traditions",
+    "prompts": [
+      "Demonstrate how to prepare Cantonese-style mooncakes for Mid-Autumn Festival.",
+      "Demonstrate how to make plastic hanger snowflakes for winter decor.",
+      "Demonstrate how to dye Easter eggs using red cabbage leaves."
+    ]
+  },
+  {
+    "id": 11,
+    "category": "Home and Garden",
+    "prompts": [
+      "Explain how to install a Hunter 52-inch Dempsey Low Profile ceiling fan in a living room.",
+      "Demonstrate how to replace the ceramic disc cartridge in a Hansgrohe Metris faucet.",
+      "Demonstrate how to install Nicetown 100% Blackout Thermal curtains."
+    ]
+  },
+  {
+    "id": 12,
+    "category": "Personal Care and Style",
+    "prompts": [
+      "Demonstrate a neck massage targeting the trapezius using a TheraGun Prime.",
+      "Demonstrate how to create a precise winged eyeliner using Stila Stay All Day Waterproof Liquid Eyeliner.",
+      "Demonstrate how to blend a neckline on a mannequin head using a BaByliss PRO GoldFX clipper with the taper lever adjustment."
+    ]
+  },
+  {
+    "id": 13,
+    "category": "Pets and Animals",
+    "prompts": [
+      "Explain how to identify a Red-Eared Slider turtle's gender.",
+      "Demonstrate how to fit an Australian Shepherd with a Fi GPS collar.",
+      "Demonstrate how to feed a Syrian hamster using Kaytee Forti-Diet Pro Health food."
+    ]
+  },
+  {
+    "id": 14,
+    "category": "Philosophy and Religion",
+    "prompts": [
+      "Demonstrate how to perform a Celtic Cross tarot reading using a Rider-Waite-Smith deck.",
+      "Demonstrate how to set up a Flower of Life crystal grid using Scolecite crystals.",
+      "Show how to perform a Full Moon water ritual for cleansing intentions."
+    ]
+  },
+  {
+    "id": 15,
+    "category": "Science and Experiments",
+    "prompts": [
+      "Demonstrate how to perform an acid-base titration using phenolphthalein indicator.",
+      "Demonstrate how to test soil pH using a Luster Leaf Rapitest 1605 digital tester.",
+      "Demonstrate how to measure voltage in a zinc-copper sulfate redox reaction using a Fluke 101 multimeter."
+    ]
+  },
+  {
+    "id": 16,
+    "category": "Sports and Fitness",
+    "prompts": [
+      "Demonstrate how to swim breaststroke.",
+      "Demonstrate how to thread a Petzl Grigri belay device with a locking carabiner for top-rope climbing.",
+      "Demonstrate how to set up a Peloton Bike+ with the rotating screen for a live cycling class."
+    ]
+  },
+  {
+    "id": 17,
+    "category": "Travel",
+    "prompts": [
+      "Demonstrate how to pack a carry-on using eBags compression cubes with the bundle method.",
+      "Demonstrate how to validate a train ticket using a Trenitalia platform validation machine.",
+      "Demonstrate how to assemble an Adventure Medical Kits Ultralight travel first-aid kit."
+    ]
+  },
+  {
+    "id": 18,
+    "category": "Work World",
+    "prompts": [
+      "Demonstrate how to replace the waste toner bottle in a Canon imageRUNNER ADVANCE C3530.",
+      "Demonstrate how to adjust lumbar support on a Herman Miller Aeron chair.",
+      "Demonstrate how to set up an out-of-office reply for international travel in ProtonMail desktop."
+    ]
+  }
+]

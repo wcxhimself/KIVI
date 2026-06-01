@@ -1,0 +1,52 @@
+name: happyhorse-1.0
+description: "HappyHorse 1.0 — segment-based T2V+I2V via Alibaba DashScope API"
+mode: api
+fps: 24
+max_num_frames: 360
+
+api:
+  provider: "generic"
+  env_key: "DASHSCOPE_API_KEY"
+  base_url: "https://dashscope.aliyuncs.com"
+  auth_header: "Bearer {api_key}"
+
+  t2v:
+    url: "/api/v1/services/aigc/video-generation/video-synthesis"
+    async_header: "X-DashScope-Async: enable"
+    body:
+      model: "happyhorse-1.0-t2v"
+      input:
+        prompt: "{prompt}"
+      parameters:
+        resolution: "720P"
+        ratio: "16:9"
+        duration: "{duration}"
+        watermark: false
+        seed: "{seed}"
+    task_id_path: "output.task_id"
+
+  i2v:
+    url: "/api/v1/services/aigc/video-generation/video-synthesis"
+    async_header: "X-DashScope-Async: enable"
+    body:
+      model: "happyhorse-1.0-i2v"
+      input:
+        prompt: "{prompt}"
+        media:
+          - type: first_frame
+            url: "{data_uri}"
+      parameters:
+        resolution: "720P"
+        duration: "{duration}"
+        watermark: false
+        seed: "{seed}"
+    task_id_path: "output.task_id"
+
+  poll:
+    url: "/api/v1/tasks/{task_id}"
+    interval: 15
+    timeout: 3600
+    status_path: "output.task_status"
+    success_values: ["SUCCEEDED"]
+    failed_values: ["FAILED", "CANCELED"]
+    video_url_path: "output.video_url"

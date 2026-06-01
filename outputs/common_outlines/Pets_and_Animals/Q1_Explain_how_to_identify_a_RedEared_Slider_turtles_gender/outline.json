@@ -1,0 +1,79 @@
+{
+    "video_goal": "Visually demonstrate how to determine the gender of a Red-Eared Slider turtle by examining its claws, tail, cloaca, and plastron.",
+    "required_subjects_and_props": "Male Red-Eared Slider turtle, Female Red-Eared Slider turtle, shallow water enclosure, blunt pointer tool, small straight-edge ruler",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands gently lift a Red-Eared Slider turtle from a shallow water enclosure, rotating it slightly to reveal the distinctive red stripe behind its eye."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands hold the turtle facing the camera, using a thumb and forefinger to gently extend one of the turtle's front legs outward."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A blunt pointer tool taps the exceptionally long, curved front claws of the male turtle, then taps the short, stubby front claws of a female turtle shown in a side-by-side visual."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands gently rotate the turtle 180 degrees to face away from the camera, exposing the posterior end and tail."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers gently lift the male turtle's tail, highlighting its thick base and long length extending well past the edge of the back shell."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers lift a female turtle's tail, demonstrating its noticeably shorter length and thinner base tucked closer to the shell."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The blunt pointer tool indicates the cloaca opening on the underside of the male's tail, showing it is positioned far down the tail, past the edge of the upper shell."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.5,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The pointer tool indicates the cloaca opening on the female's tail, showing it is positioned much closer to the body, underneath the edge of the upper shell."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands gently flip the male turtle upside down, supporting its carapace (top shell) in the palm to fully expose the plastron (bottom shell)."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.5,
+            "camera_angle": "Side-profile close-up",
+            "visual_action": "A small straight-edge ruler is placed flat across the center of the male turtle's plastron, revealing a visible gap underneath the ruler that indicates a concave shape."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Side-profile close-up",
+            "visual_action": "The straight-edge ruler is placed across the center of the female turtle's plastron, showing the ruler resting completely flush against the flat shell with no gap."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands gently turn the turtle right-side up and slowly lower it back into the shallow water enclosure until it swims away."
+        }
+    ]
+}

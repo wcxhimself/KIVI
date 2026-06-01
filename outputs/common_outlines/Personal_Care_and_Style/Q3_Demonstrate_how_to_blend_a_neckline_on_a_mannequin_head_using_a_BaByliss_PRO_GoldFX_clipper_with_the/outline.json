@@ -1,0 +1,79 @@
+{
+    "video_goal": "Demonstrate a seamless neckline blend on a mannequin head using the taper lever adjustments of a BaByliss PRO GoldFX clipper.",
+    "required_subjects_and_props": "BaByliss PRO GoldFX clipper, mannequin head with hair, small fade brush",
+    "total_steps": 12,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium Shot",
+            "visual_action": "A hand picks up the gleaming gold BaByliss PRO GoldFX clipper from a wooden table, bringing it next to the back of a mannequin head."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The thumb pushes the side taper lever of the GoldFX clipper upward into the fully closed position."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The clipper blade is pressed flat against the bottom edge of the mannequin head's neckline."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "The clipper moves upward in a short, outward-flicking C-stroke motion, cutting the bottom layer of synthetic hair to create a baseline."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The thumb pulls the taper lever down exactly halfway, visibly exposing slightly more of the cutting blade."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The clipper is positioned half an inch above the newly cut baseline on the mannequin's neck."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The clipper glides upward with another C-stroke, blending the hair into the section just above the baseline."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "The thumb pulls the taper lever all the way down to the fully open position."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The clipper is placed another half-inch higher on the mannequin's neckline, just below the bulk of the longer hair."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The clipper sweeps upward and flicks outward, seamlessly blending the faded section into the longer hair above."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium Close-up",
+            "visual_action": "A small wooden fade brush sweeps rapidly across the mannequin's neck, clearing away the cut hair clippings."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 5.0,
+            "camera_angle": "Macro pan",
+            "visual_action": "The camera slowly pans across the back of the mannequin head, revealing a smooth, blended gradient on the neckline."
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "slim red Diono Radian 3R car seat with metal SuperLATCH connectors",
+    "continuity_anchors": "interior of a modern SUV back seat with bright natural daylight streaming through the windows",
+    "segments": [
+        {
+            "prompt": "A wide shot initiates a smooth pan across the rear cabin of the vehicle. The lens sweeps over the vehicle back seat, revealing two installed slim red Diono Radian 3R car seats with metal SuperLATCH connectors that frame a narrow empty space in the middle. The environment features the interior of a modern SUV back seat with bright natural daylight streaming through the windows.",
+            "num_frames": 96
+        }
+    ]
+}

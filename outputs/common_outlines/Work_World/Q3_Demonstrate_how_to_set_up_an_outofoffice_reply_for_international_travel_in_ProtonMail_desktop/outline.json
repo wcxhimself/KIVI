@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate how to navigate ProtonMail settings to enable and configure an out-of-office auto-reply for international travel.",
+    "required_subjects_and_props": "Computer monitor, ProtonMail desktop web interface, mouse cursor, keyboard",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "Screen capture of the ProtonMail desktop inbox interface. The mouse cursor glides from the center of the screen to the top-right corner, hovering over the Settings gear icon."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks the Settings gear icon, causing a quick-settings dropdown menu to appear on the right side of the screen."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor moves down the dropdown menu and clicks the 'All settings' button."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The interface transitions to the Settings dashboard. The cursor moves to the left-hand navigation sidebar and hovers over the 'Auto-reply' menu item."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks 'Auto-reply', and the main right-hand panel updates to display the Auto-reply configuration settings."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks the toggle switch next to 'Auto-reply', changing it from a grey 'off' state to a purple 'on' state."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor moves down to the 'Duration' section and clicks the 'Start date' text field, prompting a calendar widget to pop up."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks on a specific date number on the calendar widget, then clicks a time slot in the adjacent time dropdown."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks the 'End date' field, opening the calendar again, and selects a date two weeks later."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor moves down to the rich text editor box labeled 'Message' and clicks inside it, making a blinking text cursor appear."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "Text rapidly appears in the editor box, spelling out: 'I am currently on international travel in a different time zone with limited connectivity.'"
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "The cursor clicks and drags to highlight the words 'international travel', then moves up to the formatting toolbar and clicks the 'B' (Bold) icon."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 3.5,
+            "camera_angle": "Screen capture",
+            "visual_action": "The cursor scrolls to the bottom of the Auto-reply configuration panel and clicks the solid purple 'Save' button."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up screen capture",
+            "visual_action": "A green notification banner with a checkmark and the text 'Auto-reply saved' slides up from the bottom center of the screen."
+        }
+    ]
+}

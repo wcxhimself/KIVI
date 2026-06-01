@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate how to properly set up and use a TheraGun Prime to massage the trapezius muscle.",
+    "required_subjects_and_props": "Person (model/user), TheraGun Prime, Dampener attachment",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Place the TheraGun Prime with its distinctive triangular handle on a table next to the round Dampener attachment."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Push the stem of the Dampener attachment firmly into the front nozzle of the TheraGun Prime until it sits flush."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Press and hold the center power button on the TheraGun Prime keypad until the white LED speed indicators illuminate and the device vibrates."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.0,
+            "camera_angle": "Extreme Close-up",
+            "visual_action": "Press the down arrow button on the keypad to drop the vibration speed to the lowest LED indicator."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Wrap a hand around the top section of the TheraGun Prime's triangular handle using an overhand grip."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Lift the vibrating device and hover the Dampener attachment just above the right trapezius muscle at the base of the neck."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Gently lower the flat surface of the Dampener attachment so it makes contact with the skin at the base of the right neck."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Slowly glide the vibrating head outward along the ridge of the right trapezius muscle toward the shoulder joint."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Slowly glide the vibrating head back inward along the same muscle path from the shoulder joint to the neck base."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hold the Dampener attachment completely still on the midpoint of the right trapezius, allowing the vibration to pulse in one spot without applying extra pressure."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Lower the device, switch hands on the triangular handle, and lift it toward the left side of the neck."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Glide the Dampener attachment slowly outward along the left trapezius muscle from the neck base to the left shoulder."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Pull the device away from the body and press the center power button to turn off the LED lights and stop the motor."
+        }
+    ]
+}

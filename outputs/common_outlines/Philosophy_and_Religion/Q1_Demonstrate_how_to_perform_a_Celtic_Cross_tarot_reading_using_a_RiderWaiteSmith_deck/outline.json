@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate the step-by-step physical layout of a 10-card Celtic Cross tarot reading.",
+    "required_subjects_and_props": "Rider-Waite-Smith tarot deck, dark velvet reading cloth, hands",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "Hands place a classic Rider-Waite-Smith tarot deck, showing the distinctive blue and white patterned card backs, onto a dark velvet cloth."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands shuffle the Rider-Waite-Smith deck using a gentle overhand shuffle, briefly revealing flashes of the classic yellow and blue artwork on the card faces."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The left hand cuts the deck into three separate piles on the velvet cloth, then restacks them into a single pile."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The right hand draws the top card and places it face-up in the exact center of the cloth."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand draws a second card and places it horizontally across the center of the first card, forming a physical cross shape."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws a third card and places it face-up directly below the central cross."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws a fourth card and places it face-up directly to the left of the central cross."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws a fifth card and places it face-up directly above the central cross."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws a sixth card and places it face-up directly to the right of the central cross, completing the 6-card cross formation."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Wide angle overhead",
+            "visual_action": "The hand moves to the far right side of the cloth and places a seventh card face-up, starting a new vertical column."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws an eighth card and places it face-up directly above the seventh card in the right-side column."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand draws a ninth card and places it face-up directly above the eighth card."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "The hand places the tenth and final card face-up at the top of the right-side column, completing the 4-card vertical 'Staff' formation."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 4.5,
+            "camera_angle": "Top-down wide view",
+            "visual_action": "Both hands gently tap the edges of the cards to perfectly align the completed 10-card Celtic Cross layout on the velvet cloth."
+        }
+    ]
+}

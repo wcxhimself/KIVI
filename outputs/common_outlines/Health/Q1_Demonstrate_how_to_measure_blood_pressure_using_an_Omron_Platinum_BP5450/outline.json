@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate the proper setup and execution of a blood pressure measurement using the Omron Platinum BP5450 monitor.",
+    "required_subjects_and_props": "Omron Platinum BP5450 monitor, Omron D-ring cuff, table, chair, human subject with bare left arm",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "Place the Omron Platinum BP5450 base unit and the unrolled D-ring cuff on a flat table in front of a seated person."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Push the plastic air tube plug firmly into the air jack located on the left side of the Omron monitor."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Slide the bare left arm through the cylindrical opening of the Omron D-ring pre-formed cuff."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Adjust the cuff vertically so the bottom edge rests exactly half an inch above the inside elbow crease."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Medium close-up",
+            "visual_action": "Pull the fabric end of the cuff outward to tighten the cylinder snugly against the skin of the arm."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Press the velcro strip down flat to secure the cuff, aligning the air tube straight down the inside of the arm."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Side profile view",
+            "visual_action": "Rest the left forearm flat on the table with the palm facing up, aligning the cuff horizontally with the chest."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Press the large, circular START/STOP button on the front panel of the Omron Platinum BP5450."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.5,
+            "camera_angle": "Medium close-up",
+            "visual_action": "The fabric of the cuff visibly expands and tightens around the bicep as the internal pump inflates it."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The black-and-white digital dual display screen lights up, showing large numbers rapidly counting upward."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "A small heart icon flashes on the digital screen while the large numbers slowly count downward."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Medium close-up",
+            "visual_action": "The fabric of the cuff visibly softens and loosens around the arm as the air rapidly releases."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The final systolic and diastolic blood pressure numbers lock onto the Omron digital display alongside the pulse rate."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Peel back the velcro strap and slide the deflated cuff off the left arm."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+# Template: api mode — copy to configs/<name>.yaml and edit
+
+name: your-model-name              # lowercase, hyphens, e.g. my-model
+description: "A brief description" # shown in --list-models
+mode: api                          
+fps: 24                            # output frame rate of the model
+max_num_frames: 360                # maximum frames per generation call
+
+api:
+  provider: "generic"              # always "generic" for user-defined API models
+  env_key: "MY_API_KEY"            # environment variable holding the API key
+  base_url: "https://api.example.com/v1"  # base URL, no trailing slash
+  auth_header: "Bearer {api_key}"  # "Bearer {api_key}" or "X-API-Key: {api_key}"
+  min_duration: 2                  # minimum video duration in seconds
+  max_duration: 15                 # maximum video duration in seconds
+
+  t2v:                             # text-to-video submit
+    url: "/video/generation"       # appended to base_url
+    async_header: ""               # optional, e.g. "X-Async: enable"
+    body:                          # JSON request body; placeholders supported
+      prompt: "{prompt}"           #   {prompt}: current segment prompt text
+      duration: "{duration}"       #   {duration}: computed duration in seconds
+      seed: "{seed}"               #   {seed}: base_seed + segment_counter
+    task_id_path: "output.task_id" # dot-path to task_id in submit response
+
+  i2v:                             # image-to-video submit (uses same poll as t2v)
+    url: "/video/generation"
+    body:
+      prompt: "{prompt}"
+      duration: "{duration}"
+      seed: "{seed}"
+      first_frame: "{data_uri}"    #   {data_uri}: "data:image/png;base64,..."
+    task_id_path: "output.task_id"
+
+  poll:                            # task polling
+    url: "/tasks/{task_id}"        # {task_id} = return from submit
+    interval: 10                   # seconds between polls
+    timeout: 3600                  # max wait time in seconds
+    status_path: "output.task_status"  # dot-path to status field
+    success_values: ["SUCCEEDED"]       # status values meaning success
+    failed_values: ["FAILED"]           # status values meaning failure
+    video_url_path: "output.video_url"  # dot-path to download URL in success response

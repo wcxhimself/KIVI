@@ -1,0 +1,69 @@
+name: wan2.2
+description: "Wan2.2 A14B — segment-based T2V+I2V (open-source)"
+mode: segment
+fps: 16
+max_num_frames: 121
+frame_snapping: "4n+1"
+code_dir: "video_generation_models/Wan2.2"
+
+model_path:
+  t2v: "${WAN22_T2V_MODEL_PATH:-models_cache/Wan2.2_models/Wan2.2-T2V-A14B}"
+  i2v: "${WAN22_I2V_MODEL_PATH:-models_cache/Wan2.2_models/Wan2.2-I2V-A14B}"
+
+segment:
+  t2v:
+    command: |
+      python {code_dir}/generate.py
+        --task t2v-A14B
+        --size 1280*720
+        --ckpt_dir {model_path}
+        --prompt "{prompt}"
+        --base_seed {seed}
+        --save_file "{output_path}"
+        --t5_cpu
+        --convert_model_dtype
+        {frame_num_arg}
+  i2v:
+    command: |
+      python {code_dir}/generate.py
+        --task i2v-A14B
+        --size 1280*720
+        --ckpt_dir {model_path}
+        --prompt "{prompt}"
+        --image "{ref_image_path}"
+        --base_seed {seed}
+        --save_file "{output_path}"
+        --t5_cpu
+        --convert_model_dtype
+        {frame_num_arg}
+
+multi_gpu:
+  t2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --task t2v-A14B
+        --size 1280*720
+        --ckpt_dir {model_path}
+        --prompt "{prompt}"
+        --base_seed {seed}
+        --save_file "{output_path}"
+        --dit_fsdp
+        --t5_fsdp
+        --ulysses_size {num_gpus}
+        {frame_num_arg}
+  i2v:
+    command: |
+      {torchrun} --nproc_per_node={num_gpus}
+        {code_dir}/generate.py
+        --task i2v-A14B
+        --size 1280*720
+        --ckpt_dir {model_path}
+        --prompt "{prompt}"
+        --image "{ref_image_path}"
+        --base_seed {seed}
+        --save_file "{output_path}"
+        --dit_fsdp
+        --t5_fsdp
+        --ulysses_size {num_gpus}
+        {frame_num_arg}

@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern",
+    "continuity_anchors": "resting on a flat wooden table illuminated by soft, natural, diffused room lighting",
+    "video_goal": "Demonstrate the precise placement and activation of Scolecite crystals on a Flower of Life grid.",
+    "total_steps": 13,
+    "single_prompt": "From an overhead view, hands unroll a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern onto a flat wooden table. The camera moves to a close-up as fingers place a large, white, striated Scolecite cluster directly onto the exact center point of the Flower of Life pattern. Shifting to an over-the-shoulder view, hands scoop up a handful of smaller, tumbled white Scolecite crystals from a small wooden bowl resting next to the grid. In a close-up, a thumb and index finger place a single tumbled Scolecite crystal precisely on the top intersection of the inner circle of the Flower of Life. From an overhead view, hands rapidly place five more tumbled Scolecite crystals on the remaining five intersections of the inner circle, forming a hexagon around the center. Back to a close-up, fingers pick up a slender, needle-like Scolecite crystal and position it on an outer petal intersection, pointing the tip outward away from the center. From an overhead view, hands place five more needle-like Scolecite crystals on the remaining outer petal intersections, all pointing outward in a symmetrical starburst pattern. In a close-up, index fingers gently nudge two of the outer needle-like Scolecite crystals to perfectly align them with the printed gold lines of the grid. From a first-person view, the right hand reaches off the grid and picks up a clear quartz crystal activation wand by its base. In a close-up, the pointed tip of the quartz wand is held hovering just a millimeter above the center Scolecite cluster. From an over-the-shoulder view, the wand traces an invisible line through the air from the center cluster to the top inner Scolecite crystal, then extends the line to the top outer Scolecite crystal. From an overhead view, the wand continues tracing in a clockwise circular motion, hovering over each outer Scolecite crystal and drawing invisible lines back to the center cluster. Finally, remaining in an overhead view, hands pull the wand away and rest it beside the cloth, leaving the fully assembled Flower of Life Scolecite crystal grid resting symmetrically on the table.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an overhead view, hands hold the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern in their starting position. Hands unroll a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern onto a flat wooden table. The setup remains resting on a flat wooden table illuminated by soft, natural, diffused room lighting, highlighting the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up angle. Fingers place a large, white, striated Scolecite cluster directly onto the exact center point of the Flower of Life pattern, utilizing the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The arrangement continues resting on a flat wooden table illuminated by soft, natural, diffused room lighting, showcasing the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view. Hands scoop up a handful of smaller, tumbled white Scolecite crystals from a small wooden bowl resting next to the grid, preparing to place the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The scene is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, framing the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up angle. A thumb and index finger place a single tumbled Scolecite crystal precisely on the top intersection of the inner circle of the Flower of Life, adding to the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The grid is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, illuminating the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an overhead view. Hands rapidly place five more tumbled Scolecite crystals on the remaining five intersections of the inner circle, forming a hexagon around the center of the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The entire layout is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, emphasizing the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up angle. Fingers pick up a slender, needle-like Scolecite crystal and position it on an outer petal intersection, pointing the tip outward away from the center of the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The workspace remains resting on a flat wooden table illuminated by soft, natural, diffused room lighting, displaying the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an overhead view. Hands place five more needle-like Scolecite crystals on the remaining outer petal intersections, all pointing outward in a symmetrical starburst pattern across the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The symmetrical design is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, highlighting the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an overhead view to a close-up angle. Index fingers gently nudge two of the outer needle-like Scolecite crystals to perfectly align them with the printed gold lines of the grid, adjusting the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The aligned grid is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, focusing on the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view. The right hand reaches off the grid and picks up a clear quartz crystal activation wand by its base, preparing to activate the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The environment is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, surrounding the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up angle. The pointed tip of the quartz wand is held hovering just a millimeter above the center Scolecite cluster, interacting with the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The activation process is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, casting a glow on the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view. The wand traces an invisible line through the air from the center cluster to the top inner Scolecite crystal, then extends the line to the top outer Scolecite crystal, connecting the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The energetic tracing is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, illuminating the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to an overhead view. The wand continues tracing in a clockwise circular motion, hovering over each outer Scolecite crystal and drawing invisible lines back to the center cluster of the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The active grid is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, showcasing the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the previous overhead view to a slightly wider overhead view. Hands pull the wand away and rest it beside the cloth, leaving the fully assembled Flower of Life Scolecite crystal grid resting symmetrically on the table, completing the arrangement of the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern. The final masterpiece is resting on a flat wooden table illuminated by soft, natural, diffused room lighting, beautifully displaying the white striated Scolecite crystals and a dark cloth featuring a gold-printed Flower of Life sacred geometry pattern.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

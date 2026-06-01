@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate how to properly sharpen a wooden pencil and empty the shavings tray using a Bostitch Personal Electric Pencil Sharpener.",
+    "required_subjects_and_props": "Bostitch Personal Electric Pencil Sharpener, dull wooden pencil, desk surface, small wastebasket",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A Bostitch Personal Electric Pencil Sharpener sits on a flat wooden desk, with the camera panning slightly to highlight the Bostitch logo on the front."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A hand enters the frame holding a yellow wooden pencil, rotating it slowly to display the broken, flat graphite tip."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 3.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The hand guides the dull pencil downward toward the circular insertion hole on the top of the Bostitch sharpener."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand pushes the pencil down into the insertion hole until it stops, keeping a firm grip on the pencil shaft."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The sharpener vibrates slightly on the desk as the hand holds the pencil steady, preventing the pencil from spinning."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Macro view",
+            "visual_action": "Wood and graphite shavings rapidly fall and accumulate inside the front translucent shavings tray of the sharpener."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand pulls the pencil straight up and completely out of the sharpener's top insertion hole."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The hand rotates the pencil between the thumb and index finger, displaying a sharp, pointed graphite tip."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 3.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "The hand places the sharpened pencil down on the desk beside the sharpener."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The thumb and index finger pinch the textured side grips of the translucent shavings tray on the front of the sharpener."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand pulls the translucent shavings tray straight out from the sharpener body, exposing a pile of fresh wood shavings inside."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The hand moves the tray over a small wastebasket and tilts it upside down, causing the shavings to fall out."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The hand aligns the empty translucent tray with the front opening of the Bostitch sharpener and pushes it in until it sits flush."
+        }
+    ]
+}

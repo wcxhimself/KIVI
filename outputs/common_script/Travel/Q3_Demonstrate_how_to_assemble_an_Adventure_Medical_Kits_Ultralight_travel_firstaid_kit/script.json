@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "bright yellow Adventure Medical Kits Ultralight silnylon pouch",
+    "continuity_anchors": "resting on a rustic wooden table under bright, even overhead lighting",
+    "video_goal": "Demonstrate the step-by-step packing of essential medical supplies into an Adventure Medical Kits Ultralight pouch.",
+    "total_steps": 14,
+    "single_prompt": "A top-down view shows hands placing a bright yellow Adventure Medical Kits Ultralight silnylon pouch flat on a rustic wooden table under bright, even overhead lighting. A close-up reveals fingers pinching the water-resistant zipper pull, sliding it open, and pulling the fabric apart to reveal empty inner compartments. From an over-the-shoulder view, hands gather a neat stack of standard fabric adhesive bandages and slide them vertically into the back inner pocket. A close-up shows fingers picking up a sheet of pre-cut moleskin and two oval blister dressings, holding them up to the camera. In a first-person view, hands tuck the moleskin and blister dressings neatly in front of the adhesive bandages inside the main compartment. A top-down view captures hands placing a small roll of white medical tape and a compact, sealed roll of sterile gauze on the table next to the open pouch. A close-up shows fingers pressing the rolled gauze firmly into the bottom left corner, followed by wedging the medical tape right next to it. From an over-the-shoulder view, hands pick up three small, foil travel-size medication packets and fan them out to display the labels. In a first-person view, hands slide the fanned foil medication packets into a small, transparent mesh divider on the front inner wall. A close-up reveals fingers picking up a pair of mini metal tweezers and a tiny, travel-sized tube of antibiotic ointment. A top-down view shows hands slotting the metal tweezers and the ointment tube horizontally into the remaining empty space at the very top. A close-up captures hands squeezing the sides of the pouch together, compressing the internal contents and aligning the zipper tracks. In a first-person view, fingers pull the zipper smoothly across the top, sealing the pouch completely shut. Finally, a top-down view shows hands patting the fully assembled, bulging but compact yellow kit flat against the wooden table.",
+    "interactive_prompts": [
+        {
+            "prompt": "A top-down view captures the bright yellow Adventure Medical Kits Ultralight silnylon pouch and various medical supplies ready for assembly. Hands place the empty bright yellow Adventure Medical Kits Ultralight silnylon pouch flat on the surface to begin packing. The entire setup remains resting on a rustic wooden table under bright, even overhead lighting, highlighting the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down angle to a close-up on the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Fingers pinch the water-resistant zipper pull of the bright yellow Adventure Medical Kits Ultralight silnylon pouch, slide it open, and pull the fabric apart to reveal the empty inner compartments. The open kit is seen resting on a rustic wooden table under bright, even overhead lighting, illuminating the interior of the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view overlooking the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands gather a neat stack of standard fabric adhesive bandages and slide them vertically into the back inner pocket of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The packing process continues resting on a rustic wooden table under bright, even overhead lighting, keeping the bright yellow Adventure Medical Kits Ultralight silnylon pouch clearly visible.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a close-up near the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Fingers pick up a sheet of pre-cut moleskin and two oval blister dressings, holding them up to the camera to show the textured surface before placing them into the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The scene is resting on a rustic wooden table under bright, even overhead lighting, casting a soft glow on the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view looking down at the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands tuck the moleskin and blister dressings neatly directly in front of the adhesive bandages inside the main compartment of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The organized supplies sit resting on a rustic wooden table under bright, even overhead lighting, emphasizing the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a top-down view over the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands place a small roll of white medical tape and a compact, sealed roll of sterile gauze on the table next to the open bright yellow Adventure Medical Kits Ultralight silnylon pouch. The items are resting on a rustic wooden table under bright, even overhead lighting, positioned right beside the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to a close-up on the lower section of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Fingers press the rolled gauze firmly into the bottom left corner of the bright yellow Adventure Medical Kits Ultralight silnylon pouch, followed by wedging the medical tape right next to it. The partially filled kit is resting on a rustic wooden table under bright, even overhead lighting, showing the expanding bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view behind the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands pick up three small, foil travel-size medication packets and fan them out to display the labels above the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The medication packets are displayed resting on a rustic wooden table under bright, even overhead lighting, hovering over the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a first-person view focused on the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands slide the fanned foil medication packets into a small, transparent mesh divider on the front inner wall of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The neatly packed mesh section is resting on a rustic wooden table under bright, even overhead lighting, inside the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up beside the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Fingers pick up a pair of mini metal tweezers and a tiny, travel-sized tube of antibiotic ointment to add to the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The tools are resting on a rustic wooden table under bright, even overhead lighting, ready to be packed into the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a top-down view over the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands slot the metal tweezers and the ointment tube horizontally into the remaining empty space at the very top of the packed supplies within the bright yellow Adventure Medical Kits Ultralight silnylon pouch. The fully loaded interior is resting on a rustic wooden table under bright, even overhead lighting, showcasing the organized bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down view to a close-up on the edges of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands squeeze the sides of the bright yellow Adventure Medical Kits Ultralight silnylon pouch together, compressing the internal contents and aligning the zipper tracks. The compressed kit is resting on a rustic wooden table under bright, even overhead lighting, highlighting the durable fabric of the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Fingers pull the zipper smoothly across the top, sealing the bright yellow Adventure Medical Kits Ultralight silnylon pouch completely shut. The sealed kit is resting on a rustic wooden table under bright, even overhead lighting, securing the contents of the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a final top-down view of the bright yellow Adventure Medical Kits Ultralight silnylon pouch. Hands pat the fully assembled, bulging but compact bright yellow Adventure Medical Kits Ultralight silnylon pouch flat against the wooden table. The completed first-aid kit is resting on a rustic wooden table under bright, even overhead lighting, concluding the assembly of the bright yellow Adventure Medical Kits Ultralight silnylon pouch.",
+            "duration_seconds": 3.0
+        }
+    ]
+}

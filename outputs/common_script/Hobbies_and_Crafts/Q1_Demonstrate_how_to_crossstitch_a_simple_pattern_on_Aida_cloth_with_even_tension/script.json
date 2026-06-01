@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "stark white Aida cloth, round wooden hoop, bright red floss, and silver needle",
+    "continuity_anchors": "brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting",
+    "video_goal": "Demonstrate how to create a basic cross-stitch on Aida cloth while maintaining even thread tension.",
+    "total_steps": 12,
+    "single_prompt": "A Close-up shot focuses on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle resting in their starting positions. Hands place a square of the fabric evenly over the inner ring. The camera smoothly transitions to an Over-the-shoulder view as hands press the outer ring down over the fabric, gently tugging the edges to make it taut and twisting the top metal screw to secure it. Gliding into an Extreme close-up, fingers pinch the end of a strand of floss and push it precisely through the eye of the needle. Shifting smoothly to a First-person view, the needle tip pokes up from beneath the taut fabric, emerging cleanly through a specific bottom-left grid hole. The camera pulls back slightly into a Close-up as fingers pull the thread upward until only a 1-inch tail remains visible underneath, holding the tail flat against the back. Moving seamlessly into an Extreme close-up, the needle tip is inserted down into the grid hole diagonally up and to the right of the starting hole. The view widens gently to a Close-up as the thread is pulled down slowly until it lays perfectly flat against the grid, forming a diagonal line without puckering. Transitioning back to a First-person view, the needle emerges from the hole directly below the top-right hole, representing the bottom-right corner of the stitch square. The camera zooms into an Extreme close-up as the needle is pushed down into the top-left hole, crossing the thread directly over the first diagonal line to form an X. Pulling back to a Close-up, the thread is pulled taut to complete a perfect X shape, and a finger gently taps the stitch to demonstrate it is snug. The camera shifts to an Over-the-shoulder view as hands complete two more identical X stitches directly to the right of the first one, forming a uniform, evenly tensioned row. Finally, the camera moves into a Close-up as the hoop is flipped over to reveal the back side, and the needle is slid horizontally underneath the three vertical thread loops to secure the loose tail. The entire process takes place on a brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting.",
+    "interactive_prompts": [
+        {
+            "prompt": "A Close-up shot focuses on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle resting in their starting positions. Hands place a square of the fabric evenly over the inner ring, preparing the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle for stitching. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting perfectly illuminates the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an Over-the-shoulder view, revealing the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. Hands press the outer ring down over the fabric, gently tugging the edges to make it taut and twisting the top metal screw to secure the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting maintains a clear view of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera glides into an Extreme close-up, focusing tightly on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. Fingers pinch the end of a strand and push it precisely through the eye, threading the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting highlights the fine details of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "Shifting smoothly to a First-person view, the perspective aligns directly over the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The tip pokes up from beneath the taut fabric, emerging cleanly through a specific bottom-left grid hole using the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting provides excellent visibility for the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back slightly into a Close-up, framing the ongoing work with the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. Fingers pull the thread upward until only a 1-inch tail remains visible underneath, holding the tail flat against the back while manipulating the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting casts a gentle glow on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "Moving seamlessly into an Extreme close-up, the lens captures the precise grid of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The tip is inserted down into the grid hole diagonally up and to the right of the starting hole, guiding the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting ensures no shadows fall on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The view widens gently to a Close-up, showing the tension applied to the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The thread is pulled down slowly until it lays perfectly flat against the grid, forming a diagonal line without puckering the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting reveals the flawless texture of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "Transitioning back to a First-person view, the crafter's perspective oversees the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The tip emerges from the hole directly below the top-right hole, representing the bottom-right corner of the stitch square on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting keeps the focus sharp on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera zooms into an Extreme close-up, magnifying the intersection of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The tip is pushed down into the top-left hole, crossing the thread directly over the first diagonal line to form an X with the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting illuminates the crossing point on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "Pulling back to a Close-up, the camera captures the completed stitch on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The thread is pulled taut to complete a perfect X shape, and a finger gently taps the stitch to demonstrate it is snug against the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting showcases the even tension of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera shifts to an Over-the-shoulder view, providing a broader look at the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. Hands complete two more identical X stitches directly to the right of the first one, forming a uniform, evenly tensioned row using the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting highlights the neat row on the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera moves into a final Close-up, focusing on the reverse side of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The frame is flipped over to reveal the back side, and the tip is slid horizontally underneath the three vertical thread loops to secure the loose tail of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle. The brightly lit crafting table with a natural oak wood grain surface under soft, diffused overhead studio lighting provides a clear view of the finished back of the stark white Aida cloth, round wooden hoop, bright red floss, and silver needle.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Model weights (never commit)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.onnx
+*.engine
+*.trt
+
+# Model weight directories
+weights/
+models_cache/
+models_cache
+
+# Data and outputs
+*.log
+*.csv
+runs/
+wandb/
+output/
+outputs/*
+!outputs/common_outlines/
+!outputs/common_script/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Model code repositories (users clone manually)
+video_generation_models/

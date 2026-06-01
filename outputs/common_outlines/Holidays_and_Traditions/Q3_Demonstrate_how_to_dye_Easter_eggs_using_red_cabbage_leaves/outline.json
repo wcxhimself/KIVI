@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate the process of creating a natural dye from red cabbage to color white Easter eggs a vibrant blue.",
+    "required_subjects_and_props": "Red cabbage, chef's knife, cutting board, stainless steel pot, water pitcher, stove, metal strainer, glass bowl, white vinegar, tablespoon, white hard-boiled eggs, slotted spoon, wire cooling rack, paper towels",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands place a vibrant head of red cabbage onto a wooden cutting board and slice it directly in half with a chef's knife."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands rapidly chop the red cabbage halves into smaller, jagged 1-inch pieces."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands scoop up the chopped red cabbage pieces and drop them into an empty stainless steel pot."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Clear water is poured from a glass pitcher into the pot, rising until it completely submerges the chopped red cabbage."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 5.0,
+            "camera_angle": "Side angle",
+            "visual_action": "The pot sits on a lit stove burner; the water vigorously bubbles and visibly darkens into a deep purple color."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "A metal strainer is held over a large glass bowl, and the contents of the pot are poured through it, catching the pale, boiled cabbage leaves while the dark purple liquid fills the bowl."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "A tablespoon of clear white vinegar is poured into the steaming dark purple liquid in the glass bowl, and a metal spoon stirs the mixture in a circular motion."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers place a plain white, hard-boiled egg onto the center of a metal slotted spoon."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Side angle",
+            "visual_action": "The slotted spoon slowly lowers the white egg completely beneath the surface of the dark purple cabbage dye."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 4.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands gently drop three more white eggs into the bowl, where they settle at the bottom of the opaque purple liquid."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Overhead view",
+            "visual_action": "The surface of the purple liquid becomes completely still, and shadows shift rapidly across the bowl to visually indicate the passage of several hours."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 5.0,
+            "camera_angle": "Close-up",
+            "visual_action": "The slotted spoon dips into the bowl and lifts an egg out of the liquid; the egg shell is now a vibrant, pastel blue color."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "The spoon tilts, gently rolling the wet blue egg onto a wire cooling rack lined with white paper towels."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 5.0,
+            "camera_angle": "Macro close-up",
+            "visual_action": "The camera slowly pans across a finished row of four dry, naturally dyed Easter eggs, highlighting their speckled blue and teal surfaces."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "video_goal": "Demonstrate the visual steps to securely install a Diono Radian 3R car seat using SuperLATCH in a tight 3-across vehicle back seat configuration.",
+    "required_subjects_and_props": "Diono Radian 3R car seat, SuperLATCH connectors, vehicle back seat with lower anchors and top tether, two additional pre-installed car seats.",
+    "total_steps": 13,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "Camera pans across a vehicle back seat showing two installed car seats with a narrow empty space in the middle."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 4.5,
+            "camera_angle": "Medium shot",
+            "visual_action": "Hands unfold the bottom base of the Diono Radian 3R car seat until it clicks into its rigid L-shape."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 5.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands lower the narrow Diono Radian 3R car seat directly into the tight middle space between the two existing car seats."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers unclip the SuperLATCH connectors with red release buttons from the storage slots on the back of the Diono seat."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.5,
+            "camera_angle": "Medium close-up",
+            "visual_action": "Hands thread the SuperLATCH strap through the side opening of the forward-facing belt path on the car seat."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "A hand pushes the metal SuperLATCH connector directly onto the vehicle's lower anchor bar deep in the seat bight."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.0,
+            "camera_angle": "Extreme close-up",
+            "visual_action": "The opposite hand pushes the second SuperLATCH connector onto the other lower anchor bar in the seat bight."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 5.0,
+            "camera_angle": "Medium shot",
+            "visual_action": "A hand pushes down heavily on the Diono seat pan while the other hand pulls the SuperLATCH tightening strap straight up."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands grip the side of the Diono seat at the belt path and push it left and right, showing minimal movement."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands toss the top tether strap with a metal hook over the top of the vehicle seat headrest."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers snap the top tether hook onto the metal anchor bracket located on the back of the vehicle seat."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "A hand pulls the loose tail of the top tether strap downwards until the strap becomes completely taut."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "Wide shot",
+            "visual_action": "Camera slowly zooms out to show the Diono Radian 3R sitting flush and secure in a complete 3-across car seat setup."
+        }
+    ]
+}

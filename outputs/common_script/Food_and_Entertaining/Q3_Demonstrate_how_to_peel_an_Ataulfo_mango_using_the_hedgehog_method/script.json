@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "bright golden-yellow oblong Ataulfo mango and small paring knife",
+    "continuity_anchors": "resting on a rustic wooden cutting board under bright, natural kitchen lighting",
+    "video_goal": "Demonstrate how to cut and invert an Ataulfo mango into a hedgehog shape for easy cubing.",
+    "total_steps": 12,
+    "single_prompt": "A close-up shot shows hands placing a bright golden-yellow oblong Ataulfo mango and small paring knife side-by-side on a rustic wooden cutting board under bright, natural kitchen lighting. The camera shifts to a first-person view as the left hand holds the mango upright, while the right hand positions the knife slightly off-center at the top stem. The camera moves to a close-up as the knife slices smoothly down the length of the mango, separating one thick, fleshy cheek from the flat central pit. Transitioning to an over-the-shoulder view, the right hand lifts the cut mango cheek off the board, turning the bright orange inner flesh toward the camera. The camera returns to a first-person view as the left hand cradles the mango cheek skin-side down in the palm, bringing the tip of the paring knife to the top edge of the flesh. In an extreme close-up, the knife tip scores three parallel vertical lines down through the flesh, stopping just before piercing the bottom skin. The camera pulls back slightly to a close-up as the left hand rotates the cradled mango cheek 90 degrees. Moving back to an extreme close-up, the knife scores horizontal lines across the previous cuts, creating a distinct crosshatch grid pattern in the bright orange flesh. The camera shifts to a first-person view as the right hand sets down the knife, and both hands grip the outer edges of the scored mango cheek, placing thumbs against the center of the skin underneath. In a close-up, the thumbs push firmly upward, inverting the skin and forcing the crosshatched mango cubes to fan outward into a spiky hedgehog shape. Transitioning to an over-the-shoulder view, the left hand holds the inverted hedgehog mango over a glass bowl, while the right hand uses the paring knife to scrape along the base of the cubes. Finally, in a close-up, the perfectly square Ataulfo mango cubes detach from the skin and tumble down into the glass bowl.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up shot reveals hands placing the bright golden-yellow oblong Ataulfo mango and small paring knife side-by-side in their starting position. The hands carefully arrange the fruit and the tool so they are perfectly aligned for the upcoming preparation. The scene is beautifully illuminated, resting on a rustic wooden cutting board under bright, natural kitchen lighting to highlight the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view, looking down at the bright golden-yellow oblong Ataulfo mango and small paring knife. The left hand holds the fruit upright, while the right hand positions the bright golden-yellow oblong Ataulfo mango and small paring knife so the blade rests slightly off-center at the top stem. The entire action unfolds resting on a rustic wooden cutting board under bright, natural kitchen lighting, perfectly framing the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up, focusing tightly on the bright golden-yellow oblong Ataulfo mango and small paring knife. The blade slices smoothly down the length of the fruit, separating one thick, fleshy cheek from the flat central pit using the bright golden-yellow oblong Ataulfo mango and small paring knife. This precise cut is showcased resting on a rustic wooden cutting board under bright, natural kitchen lighting, emphasizing the vibrant colors of the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view, capturing the bright golden-yellow oblong Ataulfo mango and small paring knife from behind the chef. The right hand lifts the cut cheek of the bright golden-yellow oblong Ataulfo mango and small paring knife is set aside, turning the bright orange inner flesh toward the camera. The vibrant orange flesh glows while resting on a rustic wooden cutting board under bright, natural kitchen lighting, maintaining focus on the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder angle to a first-person view, looking directly down at the bright golden-yellow oblong Ataulfo mango and small paring knife. The left hand cradles the fruit cheek skin-side down in the palm, while the right hand brings the bright golden-yellow oblong Ataulfo mango and small paring knife together, touching the blade tip to the top edge of the flesh. The hands work carefully resting on a rustic wooden cutting board under bright, natural kitchen lighting, illuminating the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to an extreme close-up, zooming in on the bright golden-yellow oblong Ataulfo mango and small paring knife. The blade tip scores three parallel vertical lines down through the flesh of the bright golden-yellow oblong Ataulfo mango and small paring knife is stopped just before piercing the bottom skin. The juicy details are visible resting on a rustic wooden cutting board under bright, natural kitchen lighting, highlighting the textures of the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a standard close-up, reframing the bright golden-yellow oblong Ataulfo mango and small paring knife. The left hand rotates the cradled cheek of the bright golden-yellow oblong Ataulfo mango and small paring knife waits nearby, turning the fruit 90 degrees to prepare for the next set of cuts. The preparation continues resting on a rustic wooden cutting board under bright, natural kitchen lighting, keeping the bright golden-yellow oblong Ataulfo mango and small paring knife in clear view.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up back to an extreme close-up, focusing intensely on the bright golden-yellow oblong Ataulfo mango and small paring knife. The blade scores horizontal lines across the previous cuts on the bright golden-yellow oblong Ataulfo mango and small paring knife to create a distinct crosshatch grid pattern in the bright orange flesh. The freshly cut grid glistens resting on a rustic wooden cutting board under bright, natural kitchen lighting, showcasing the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an extreme close-up to a first-person view, observing the bright golden-yellow oblong Ataulfo mango and small paring knife from the chef's perspective. The right hand sets down the tool, and both hands grip the outer edges of the scored bright golden-yellow oblong Ataulfo mango and small paring knife rests nearby, placing thumbs against the center of the skin underneath. The hands prepare to invert the fruit resting on a rustic wooden cutting board under bright, natural kitchen lighting, with the bright golden-yellow oblong Ataulfo mango and small paring knife clearly visible.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a first-person view to a close-up, capturing the transformation of the bright golden-yellow oblong Ataulfo mango and small paring knife. The thumbs push firmly upward, inverting the skin of the bright golden-yellow oblong Ataulfo mango and small paring knife stays out of the way, forcing the crosshatched cubes to fan outward into a spiky hedgehog shape. The beautiful hedgehog shape is displayed resting on a rustic wooden cutting board under bright, natural kitchen lighting, alongside the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to an over-the-shoulder view, looking past the chef at the bright golden-yellow oblong Ataulfo mango and small paring knife. The left hand holds the inverted fruit over a glass bowl, while the right hand uses the bright golden-yellow oblong Ataulfo mango and small paring knife together, scraping the blade along the base of the cubes. The scraping action happens above the surface resting on a rustic wooden cutting board under bright, natural kitchen lighting, featuring the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder view to a final close-up, focusing on the glass bowl below the bright golden-yellow oblong Ataulfo mango and small paring knife. The perfectly square cubes detach from the skin of the bright golden-yellow oblong Ataulfo mango and small paring knife finishes the job, allowing the fruit pieces to tumble down into the glass bowl. The finished dish sits perfectly resting on a rustic wooden cutting board under bright, natural kitchen lighting, completing the process with the bright golden-yellow oblong Ataulfo mango and small paring knife.",
+            "duration_seconds": 3.5
+        }
+    ]
+}

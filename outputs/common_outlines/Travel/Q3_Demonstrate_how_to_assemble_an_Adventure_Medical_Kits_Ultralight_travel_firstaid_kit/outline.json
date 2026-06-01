@@ -1,0 +1,91 @@
+{
+    "video_goal": "Demonstrate the step-by-step packing of essential medical supplies into an Adventure Medical Kits Ultralight pouch.",
+    "required_subjects_and_props": "Empty Adventure Medical Kits Ultralight yellow pouch, adhesive bandages, pre-cut moleskin, blister dressings, rolled gauze, medical tape, travel-size medication packets, mini metal tweezers, antibiotic ointment tube, wooden table.",
+    "total_steps": 14,
+    "outline_steps": [
+        {
+            "step_index": 1,
+            "duration_seconds": 4.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands place the empty, bright yellow Adventure Medical Kits Ultralight silnylon pouch flat on a wooden table."
+        },
+        {
+            "step_index": 2,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers pinch the water-resistant zipper pull of the yellow pouch, slide it open, and pull the fabric apart to reveal the empty inner compartments."
+        },
+        {
+            "step_index": 3,
+            "duration_seconds": 4.0,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands gather a neat stack of standard fabric adhesive bandages and slide them vertically into the back inner pocket of the pouch."
+        },
+        {
+            "step_index": 4,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers pick up a sheet of pre-cut moleskin and two oval blister dressings, holding them up to the camera to show the textured surface."
+        },
+        {
+            "step_index": 5,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands tuck the moleskin and blister dressings neatly directly in front of the adhesive bandages inside the main compartment."
+        },
+        {
+            "step_index": 6,
+            "duration_seconds": 3.5,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands place a small roll of white medical tape and a compact, sealed roll of sterile gauze on the table next to the open pouch."
+        },
+        {
+            "step_index": 7,
+            "duration_seconds": 4.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers press the rolled gauze firmly into the bottom left corner of the pouch, followed by wedging the medical tape right next to it."
+        },
+        {
+            "step_index": 8,
+            "duration_seconds": 3.5,
+            "camera_angle": "Over-the-shoulder view",
+            "visual_action": "Hands pick up three small, foil travel-size medication packets and fan them out to display the labels."
+        },
+        {
+            "step_index": 9,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "Hands slide the fanned foil medication packets into a small, transparent mesh divider on the front inner wall of the pouch."
+        },
+        {
+            "step_index": 10,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Fingers pick up a pair of mini metal tweezers and a tiny, travel-sized tube of antibiotic ointment."
+        },
+        {
+            "step_index": 11,
+            "duration_seconds": 4.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands slot the metal tweezers and the ointment tube horizontally into the remaining empty space at the very top of the packed supplies."
+        },
+        {
+            "step_index": 12,
+            "duration_seconds": 3.5,
+            "camera_angle": "Close-up",
+            "visual_action": "Hands squeeze the sides of the yellow pouch together, compressing the internal contents and aligning the zipper tracks."
+        },
+        {
+            "step_index": 13,
+            "duration_seconds": 4.0,
+            "camera_angle": "First-person view",
+            "visual_action": "Fingers pull the zipper smoothly across the top, sealing the Adventure Medical Kits Ultralight pouch completely shut."
+        },
+        {
+            "step_index": 14,
+            "duration_seconds": 3.0,
+            "camera_angle": "Top-down view",
+            "visual_action": "Hands pat the fully assembled, bulging but compact yellow kit flat against the wooden table."
+        }
+    ]
+}

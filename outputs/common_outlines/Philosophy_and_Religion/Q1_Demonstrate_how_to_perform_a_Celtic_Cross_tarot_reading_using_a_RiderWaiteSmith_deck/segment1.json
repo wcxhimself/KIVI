@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "rectangular classic Rider-Waite-Smith tarot deck with blue and white patterned backs",
+    "continuity_anchors": "dark velvet cloth surface illuminated by soft ambient lighting",
+    "segments": [
+        {
+            "prompt": "An overhead view establishes the initial setup of the divination space. A pair of hands gently places a rectangular classic Rider-Waite-Smith tarot deck with blue and white patterned backs squarely into the frame. The scene is set against a dark velvet cloth surface illuminated by soft ambient lighting.",
+            "num_frames": 85
+        }
+    ]
+}

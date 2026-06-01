@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff",
+    "continuity_anchors": "in a brightly lit room with a smooth wooden table and a neutral gray background",
+    "video_goal": "Demonstrate the proper setup and execution of a blood pressure measurement using the Omron Platinum BP5450 monitor.",
+    "total_steps": 14,
+    "single_prompt": "A medium shot shows the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff placed on a smooth wooden table in front of a seated person with a bare left arm in a brightly lit room with a neutral gray background. The camera moves to a close-up as a hand pushes the plastic air tube plug firmly into the air jack on the left side of the monitor. Transitioning to an over-the-shoulder view, the person slides their bare left arm through the cylindrical opening of the pre-formed cuff. In a close-up, the cuff is adjusted vertically so the bottom edge rests exactly half an inch above the inside elbow crease. A medium close-up shows the fabric end of the cuff being pulled outward to tighten the cylinder snugly against the skin. The camera cuts to a close-up as the velcro strip is pressed down flat to secure the cuff, aligning the air tube straight down the inside of the arm. From a side profile view, the left forearm rests flat on the table with the palm facing up, aligning the cuff horizontally with the chest. A close-up captures a finger pressing the large, circular START/STOP button on the front panel of the monitor. In a medium close-up, the fabric of the cuff visibly expands and tightens around the bicep as the internal pump inflates it. The camera zooms into a close-up as the black-and-white digital dual display screen lights up, showing large numbers rapidly counting upward. Remaining in a close-up, a small heart icon flashes on the digital screen while the large numbers slowly count downward. A medium close-up shows the fabric of the cuff visibly softening and loosening around the arm as the air rapidly releases. An extreme close-up reveals the final systolic and diastolic blood pressure numbers locking onto the digital display alongside the pulse rate. Finally, from an over-the-shoulder view, the velcro strap is peeled back and the deflated cuff is slid off the left arm.",
+    "interactive_prompts": [
+        {
+            "prompt": "A medium shot captures the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff resting on a flat table in front of a seated person. The unrolled cuff and base unit are carefully positioned for use by the seated human subject with a bare left arm. This setup takes place in a brightly lit room with a smooth wooden table and a neutral gray background, highlighting the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a medium shot to a close-up on the side of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. A hand pushes the plastic air tube plug firmly into the air jack located on the left side of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The action is clearly visible in a brightly lit room with a smooth wooden table and a neutral gray background, keeping the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff in sharp focus.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera shifts smoothly from a close-up to an over-the-shoulder view, looking past the subject toward the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The person slides their bare left arm through the cylindrical opening of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. This movement occurs in a brightly lit room with a smooth wooden table and a neutral gray background, maintaining focus on the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera glides from an over-the-shoulder view into a tight close-up on the arm wearing the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The person adjusts the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff vertically so the bottom edge rests exactly half an inch above the inside elbow crease. The precise adjustment is illuminated in a brightly lit room with a smooth wooden table and a neutral gray background, emphasizing the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pulls back slightly from a close-up to a medium close-up, framing the arm and the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. A hand pulls the fabric end outward to tighten the cylinder of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff snugly against the skin of the arm. The tightening process is captured in a brightly lit room with a smooth wooden table and a neutral gray background, showcasing the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera moves smoothly from a medium close-up to a detailed close-up on the fastening mechanism of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The person presses the velcro strip down flat to secure the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff, aligning the air tube straight down the inside of the arm. The secured strap is displayed in a brightly lit room with a smooth wooden table and a neutral gray background, featuring the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera transitions from a close-up to a side profile view, showing the seated subject alongside the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The subject rests their left forearm flat on the table with the palm facing up, aligning the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff horizontally with their chest. The proper posture is maintained in a brightly lit room with a smooth wooden table and a neutral gray background, anchoring the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff in the scene.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera sweeps from a side profile view into a close-up on the front panel of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. A finger presses the large, circular START/STOP button on the base unit of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The button press happens in a brightly lit room with a smooth wooden table and a neutral gray background, highlighting the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera shifts from a close-up to a medium close-up on the arm wrapped in the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The fabric of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff visibly expands and tightens around the bicep as the internal pump inflates it. The inflation is clearly visible in a brightly lit room with a smooth wooden table and a neutral gray background, focusing on the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera moves from a medium close-up to a tight close-up on the screen of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The black-and-white digital screen of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff lights up, showing large numbers rapidly counting upward. The glowing screen stands out in a brightly lit room with a smooth wooden table and a neutral gray background, drawing attention to the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera remains in a steady close-up on the digital interface of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. A small heart icon flashes on the screen of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff while the large numbers slowly count downward. The measurement progresses in a brightly lit room with a smooth wooden table and a neutral gray background, keeping the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff centered.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera pulls back from a close-up to a medium close-up on the arm wearing the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The fabric of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff visibly softens and loosens around the arm as the air rapidly releases. The deflation occurs in a brightly lit room with a smooth wooden table and a neutral gray background, showing the relaxed state of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pushes in from a medium close-up to an extreme close-up on the screen of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The final systolic and diastolic blood pressure numbers lock onto the display of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff alongside the pulse rate. The final reading is crisp and clear in a brightly lit room with a smooth wooden table and a neutral gray background, finalizing the use of the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly from an extreme close-up to an over-the-shoulder view, looking down at the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff. The person peels back the velcro strap and slides the deflated black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff off their left arm. The removal is completed in a brightly lit room with a smooth wooden table and a neutral gray background, leaving the black and silver Omron Platinum BP5450 monitor with a dual digital display and a black fabric D-ring cuff resting on the surface.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

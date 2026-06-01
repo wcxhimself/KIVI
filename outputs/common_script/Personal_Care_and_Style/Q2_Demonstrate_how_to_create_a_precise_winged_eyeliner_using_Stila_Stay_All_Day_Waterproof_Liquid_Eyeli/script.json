@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye",
+    "continuity_anchors": "in a well-lit makeup environment with soft, even studio lighting",
+    "video_goal": "Demonstrate the step-by-step application of a sharp, precise winged eyeliner using the Stila Stay All Day Waterproof Liquid Eyeliner.",
+    "total_steps": 12,
+    "single_prompt": "An extreme close-up focuses on a hand holding the black tube of Stila Stay All Day Waterproof Liquid Eyeliner, rotating it slightly to catch the light on the gold brand lettering. The hand pulls the cap off the tube, exposing the sharp, ink-saturated black felt tip. A bare eye looks slightly downward, with the Stila felt tip hovering just millimeters from the outer corner of the lash line. The felt tip presses against the skin and draws a thin, 45-degree diagonal line extending upward toward the tail of the eyebrow. The pen lifts off the skin and the tip is repositioned to the midpoint of the newly drawn diagonal line. The pen draws a straight line from the midpoint of the tail down to the center of the upper lash line, forming an empty triangle shape. The felt tip colors inside the empty triangle using short, overlapping strokes until the space is completely filled with opaque black ink. The pen moves to the inner corner of the eye, angling the side of the felt tip so it lays flat against the root of the lashes. The pen glides smoothly along the upper lash line from the inner corner, depositing a thin black line that connects seamlessly to the filled-in wing. The very tip of the pen lightly drags outward at the extreme end of the wing, pulling the ink to create a razor-sharp point. The eye blinks slowly, showcasing the matte black finish, smooth lash line connection, and precise shape of the completed winged eyeliner. Finally, the person's face looks directly into the lens, holding the capped Stila eyeliner pen next to their cheek to display the final symmetrical makeup look.",
+    "interactive_prompts": [
+        {
+            "prompt": "An extreme close-up focuses on the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye in a starting position. A hand holds the eyeliner, rotating it slightly to catch the light on the gold brand lettering. The scene is set in a well-lit makeup environment with soft, even studio lighting, highlighting the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up angle. A hand pulls the cap off the tube, exposing the sharp, ink-saturated black felt tip next to the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The action unfolds in a well-lit makeup environment with soft, even studio lighting, perfectly illuminating the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an extreme close-up angle. The bare eye looks slightly downward, with the felt tip hovering just millimeters from the outer corner of the lash line, framing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. This precise moment is captured in a well-lit makeup environment with soft, even studio lighting, showcasing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera maintains a smooth extreme close-up angle. The felt tip presses against the skin to draw a thin, 45-degree diagonal line extending upward toward the tail of the eyebrow, utilizing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The application continues in a well-lit makeup environment with soft, even studio lighting, keeping the focus on the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up angle. The pen lifts off the skin and the tip is repositioned to the midpoint of the newly drawn diagonal line, featuring the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The scene remains in a well-lit makeup environment with soft, even studio lighting, clearly displaying the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions back to an extreme close-up angle. The pen draws a straight line from the midpoint of the tail down to the center of the upper lash line to form an empty triangle shape, using the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The detailed work is visible in a well-lit makeup environment with soft, even studio lighting, highlighting the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera holds a steady, smooth extreme close-up angle. The felt tip colors inside the empty triangle using short, overlapping strokes until the space is completely filled with opaque black ink, showing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The filling process happens in a well-lit makeup environment with soft, even studio lighting, emphasizing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up angle. The pen moves to the inner corner, angling the side of the felt tip so it lays flat against the root of the lashes, framing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The setup is captured in a well-lit makeup environment with soft, even studio lighting, illuminating the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to an extreme close-up angle. The pen glides smoothly along the upper lash line from the inner corner, depositing a thin black line that connects seamlessly to the filled-in wing, guided by the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The seamless connection is filmed in a well-lit makeup environment with soft, even studio lighting, focusing on the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera maintains a smooth extreme close-up angle. The very tip of the pen lightly drags outward at the extreme end of the wing, pulling the ink to create a razor-sharp point, utilizing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. This finishing touch occurs in a well-lit makeup environment with soft, even studio lighting, perfectly detailing the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions to a close-up angle. A slow blink showcases the matte black finish, smooth lash line connection, and precise shape of the completed winged eyeliner, featuring the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The final result is displayed in a well-lit makeup environment with soft, even studio lighting, beautifully presenting the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a medium close-up angle. The person's face looks directly into the lens, holding the capped pen next to their cheek to display the final symmetrical makeup look alongside the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye. The completed look shines in a well-lit makeup environment with soft, even studio lighting, concluding the demonstration of the Stila Stay All Day Waterproof Liquid Eyeliner black tube with gold lettering and the model's eye.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

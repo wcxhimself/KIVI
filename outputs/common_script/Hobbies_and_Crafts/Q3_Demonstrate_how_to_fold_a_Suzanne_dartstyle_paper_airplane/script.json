@@ -1,0 +1,62 @@
+{
+    "seed": 42,
+    "identity_marker": "crisp white standard A4 sheet of paper and bare human hands",
+    "continuity_anchors": "flat natural wood grain table under bright, even overhead studio lighting",
+    "video_goal": "Demonstrate the precise folding sequence to create a Suzanne dart-style paper airplane.",
+    "total_steps": 13,
+    "single_prompt": "A top-down view shows bare human hands placing a crisp white standard A4 sheet of paper flat on a natural wood grain table under bright, even overhead studio lighting. The camera shifts to an over-the-shoulder view as the hands fold the paper in half lengthwise, pressing firmly along the left edge. A close-up reveals the hands unfolding the paper flat to show the center crease. From a top-down view, the right hand folds the top-right corner down to the center crease, followed by the left hand folding the top-left corner to form a sharp triangular peak. In a close-up, the hands fold the newly formed right diagonal edge inward flush against the center crease, then repeat on the left side to create a narrow dart shape. A side angle captures the index finger and thumb folding the sharp top point down about one inch for a blunt nose. From an over-the-shoulder view, the hands fold the entire paper in half along the original center crease. A close-up shows the right hand folding the top flap down to create the first wing, leaving a half-inch fuselage gap. The camera moves to a top-down view as the hands flip the plane over and fold the second wing down to align perfectly with the first. In a close-up, thumbs pinch the outer trailing edges of both wings, folding them up slightly to form half-inch vertical winglets. Finally, from a first-person view, the hands open the wings outward to a slight upward 'V' angle, holding the finished Suzanne dart-style plane toward the camera over the flat natural wood grain table under bright, even overhead studio lighting.",
+    "interactive_prompts": [
+        {
+            "prompt": "A top-down view captures a crisp white standard A4 sheet of paper and bare human hands resting in their starting position. The two hands place the paper flat on the surface, orienting it vertically. The scene is set on a flat natural wood grain table under bright, even overhead studio lighting, perfectly illuminating the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a top-down angle to an over-the-shoulder view of the crisp white standard A4 sheet of paper and bare human hands. The hands fold the material in half lengthwise, pressing a thumb firmly along the left edge to create a sharp center crease using the crisp white standard A4 sheet of paper and bare human hands. The action unfolds on a flat natural wood grain table under bright, even overhead studio lighting, highlighting the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera glides smoothly from an over-the-shoulder perspective into a tight close-up on the crisp white standard A4 sheet of paper and bare human hands. The hands unfold the material flat against the table, revealing the vertical center crease running down the middle, showcasing the crisp white standard A4 sheet of paper and bare human hands. This step is clearly visible on the flat natural wood grain table under bright, even overhead studio lighting, emphasizing the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera pulls back smoothly from a close-up to a top-down view of the crisp white standard A4 sheet of paper and bare human hands. The right hand folds the top-right corner down so its inner edge aligns perfectly with the center crease of the crisp white standard A4 sheet of paper and bare human hands. The environment remains a flat natural wood grain table under bright, even overhead studio lighting, framing the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a steady top-down view, continuing to focus on the crisp white standard A4 sheet of paper and bare human hands. The left hand folds the top-left corner down to meet the right edge, forming a sharp triangular peak at the top of the crisp white standard A4 sheet of paper and bare human hands. The workspace consists of a flat natural wood grain table under bright, even overhead studio lighting, providing clarity for the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly pushes in from a top-down angle to a detailed close-up of the crisp white standard A4 sheet of paper and bare human hands. The hands take the newly formed diagonal edge on the right and fold it inward so it lies flush against the center crease of the crisp white standard A4 sheet of paper and bare human hands. Shadows are minimized by the flat natural wood grain table under bright, even overhead studio lighting, keeping the focus on the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera holds its tight close-up perspective on the crisp white standard A4 sheet of paper and bare human hands. The hands repeat the diagonal fold on the left side, pressing down to create a narrow, elongated dart shape out of the crisp white standard A4 sheet of paper and bare human hands. The background is consistently a flat natural wood grain table under bright, even overhead studio lighting, anchoring the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly arcs from a close-up to a side angle, capturing the profile of the crisp white standard A4 sheet of paper and bare human hands. The index finger and thumb fold the sharp top point down about one inch, creating the signature blunt nose of the Suzanne style using the crisp white standard A4 sheet of paper and bare human hands. The setting is a flat natural wood grain table under bright, even overhead studio lighting, illuminating the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera sweeps smoothly from a side angle to an over-the-shoulder view, looking down at the crisp white standard A4 sheet of paper and bare human hands. The hands fold the entire structure in half along the original center crease, enclosing the blunt nose fold inside the two halves of the crisp white standard A4 sheet of paper and bare human hands. The folding occurs on a flat natural wood grain table under bright, even overhead studio lighting, perfectly exposing the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in smoothly from an over-the-shoulder view to a close-up on the crisp white standard A4 sheet of paper and bare human hands. The right hand folds the top flap down to create the first wing, leaving a half-inch gap at the bottom fold to form the fuselage with the crisp white standard A4 sheet of paper and bare human hands. The scene is grounded by a flat natural wood grain table under bright, even overhead studio lighting, highlighting the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera pulls up smoothly from a close-up to a top-down view, revealing the crisp white standard A4 sheet of paper and bare human hands. The hands flip the plane over and fold the second wing down, perfectly aligning its outer edge with the first wing on the crisp white standard A4 sheet of paper and bare human hands. The environment remains a flat natural wood grain table under bright, even overhead studio lighting, showcasing the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera glides smoothly down from a top-down view into a tight close-up of the crisp white standard A4 sheet of paper and bare human hands. Thumbs pinch the outer trailing edges of both wings, folding them up slightly to form half-inch vertical winglets on the crisp white standard A4 sheet of paper and bare human hands. The details are sharp against the flat natural wood grain table under bright, even overhead studio lighting, emphasizing the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera shifts smoothly from a close-up to a first-person view, looking past the crisp white standard A4 sheet of paper and bare human hands. The hands open the wings outward, adjusting them to a slight upward 'V' angle, and hold the finished Suzanne dart-style plane toward the camera, featuring the crisp white standard A4 sheet of paper and bare human hands. The final presentation rests above a flat natural wood grain table under bright, even overhead studio lighting, beautifully displaying the crisp white standard A4 sheet of paper and bare human hands.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+# Role
+Video Helpfulness evaluator.
+
+# Input
+QUESTION: {QUESTION}
+VIDEO: {VIDEO}
+
+# Core Definition
+helpfulness: Can the target user, relying on this video, understand and complete the task requested by the QUESTION comprehensively and with minimal trial-and-error?
+
+# Hard Rules
+- Score based on the demonstrations (actions, item states, camera framing, audio/text if present). Do not use external/common knowledge to fill missing steps.
+- If evidence for a required step is not clearly presented in the video, treat it as NOT PRESENT for Completeness.
+- The scoring target is "helpfulness for the QUESTION", not aesthetics.
+- If the VIDEO is inaccessible, unplayable, or completely blank, set all subscores to 0 and final_score to 0.
+- Timestamp policy: whenever you cite evidence, provide an approximate timestamp range "HH:MM:SS-HH:MM:SS". If truly not available, use "unknown".
+
+# Scoring Procedure
+- Identify the chosen approach and extract key requirements:
+   - Recognize that the QUESTION may have multiple valid solutions. First, identify which specific valid method/approach the VIDEO is attempting to demonstrate to achieve the goal.
+   - Given the QUESTION's ultimate goal AND the VIDEO's chosen approach, create a comprehensive checklist of core requirements that are indispensable to successfully complete *that specific method*.
+   - Determine the exact number of requirements dynamically based strictly on the actual logical steps of the identified method. Do not arbitrarily limit, merge, or pad the list.
+   - Include: required tools/materials for this method, critical procedural steps, key physical states (e.g. changes in shape/color).
+- For each requirement:
+   - Decide whether it is PRESENT in the video.
+   - Provide a timestamp_range where it is shown.
+- Score A–C (0–10) using the rubric and anchors below.
+- Compute final_score as the simple average of the 3 dimensions and round to 1 decimal.
+
+# Scoring Dimensions
+Each dimension is scored 0-10. The final total is also 0-10.
+| Dimension | Description |
+|-----------|-------------|
+| A. Relevance | Does the video content directly address the QUESTION task and match explicit constraints? Do NOT score step coverage here. |
+| B. Completeness | Does the video demonstrate the key steps/tools needed to complete the task using its chosen valid method? Only assess WHETHER PRESENT (coverage) based on your dynamically generated checklist for this specific approach. |
+| C. Clarity | Is the procedure easy to interpret and follow? Includes: logical action sequence, clear pacing (not rushed), and observable state changes (e.g. clearly showing 'before' and 'after' of an action). |
+
+# Dimension Anchors (for calibration)
+A. Relevance
+   - 0: Depicts an unrelated task/object; clearly violates constraints.
+   - 5: Mostly related but partially mismatched or misses explicit constraints.
+   - 10: Directly addresses the task and satisfies explicit constraints.
+B. Completeness
+   - 0: Almost none of the essential requirements are present.
+   - 5: About half are present; at least one critical step/tool is missing.
+   - 10: All key requirements from the checklist are clearly demonstrated.
+C. Clarity
+   - 0: Actions are chaotic, erratic, or lack logical sequence; user cannot infer what to do.
+   - 5: Actions are somewhat followable, but transitions are abrupt or some actions lack clear context/pacing.
+   - 10: Actions are demonstrated step-by-step intuitively; pace and state changes are perfectly clear.
+
+# Total Score Calculation
+1. Provide subscores for A-C (each 0-10).
+2. Compute: final_score = (A + B + C) / 3
+3. Round final_score to 1 decimal place.
+
+# Output Format
+Output strictly in valid JSON format without markdown code blocks.
+{
+  "key_requirements": [
+    {
+     "requirement": "string",
+     "present": true,
+     "timestamp_range": "HH:MM:SS-HH:MM:SS",
+     "notes": "string"
+    }
+  ],
+  "evidence": {
+    "notes": [
+      {
+       "timestamp_range": "HH:MM:SS-HH:MM:SS",
+       "observation": "string",
+       "why_it_matters_for_helpfulness": "string"
+      }
+    ]
+  },
+  "main_issues": [
+    "string"
+  ],
+  "subscores": {
+    "relevance": <0-10>,
+    "completeness": <0-10>,
+    "clarity": <0-10>
+  },
+  "score_calculation": "(A+B+C)/3",
+  "helpfulness_score": <number>
+}
+
+# Task
+Given a user QUESTION and a generated VIDEO, evaluate how helpful the video is for the user in achieving the QUESTION's goal, and output a score of 0-10.

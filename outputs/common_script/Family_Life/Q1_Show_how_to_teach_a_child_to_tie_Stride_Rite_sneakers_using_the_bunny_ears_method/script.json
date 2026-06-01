@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "colorful Stride Rite sneaker with standard white laces and a visible logo",
+    "continuity_anchors": "brightly lit indoor playroom with a soft wooden floor and warm natural sunlight",
+    "video_goal": "Demonstrate how to guide a child in tying their Stride Rite sneakers using the visual 'bunny ears' two-loop method.",
+    "total_steps": 12,
+    "single_prompt": "In a brightly lit indoor playroom with a soft wooden floor and warm natural sunlight, an adult places a colorful Stride Rite sneaker with standard white laces and a visible logo on a child's foot, pulling the laces straight out. The adult gently guides the child's hands to grip one lace in each fist. From the child's perspective, they cross the left lace over the right to form an 'X', then tuck the top lace under and pull outward to tighten the base knot. The child pinches the left lace to form a 'bunny ear' loop, then does the same with the right lace. Holding both loops upright side-by-side, the child crosses the right loop over the left to form a new 'X'. An adult finger taps the small triangular gap at the bottom of the crossed loops, prompting the child to push the top loop through the gap. The child grasps both loops and pulls them outward simultaneously to tighten the knot. Finally, from a high angle, the child proudly pats the finished double-loop knot resting securely on the sneaker.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an over-the-shoulder view, adult hands hold a colorful Stride Rite sneaker with standard white laces and a visible logo, positioning it on a child's foot. The adult hands pull the two loose shoelaces straight out to the sides to prepare for tying. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight illuminates the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the over-the-shoulder view to a close-up on the child's hands. Adult hands gently guide the child's small hands to grip one shoelace end in each fist above the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight surrounds the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from a close-up to a first-person view from the child's perspective. The child's hands cross the left shoelace over the right shoelace, laying them flat against the colorful Stride Rite sneaker with standard white laces and a visible logo to form an 'X'. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight highlights the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the first-person view to a close-up on the crossed laces. The child's fingers tuck the top lace under the 'X' and pull both ends outward to tighten the base knot against the tongue of the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight provides a clear view of the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to an over-the-shoulder view behind the child. The child's left hand pinches the middle of the left lace and folds it in half, creating the first 'bunny ear' loop above the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight casts a gentle glow on the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the over-the-shoulder view to a close-up on the child's hands. The child's right hand pinches the middle of the right lace and folds it in half, creating the second 'bunny ear' loop over the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight reflects off the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to an extreme close-up on the newly formed loops. The child holds both loops upright side-by-side, with the logo visible on the tongue of the colorful Stride Rite sneaker with standard white laces and a visible logo just below the hands. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight keeps the focus on the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the extreme close-up to a first-person view from the child's perspective. The child's hands cross the right loop over the left loop, forming a new 'X' shape with the folded laces above the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight bathes the colorful Stride Rite sneaker with standard white laces and a visible logo in a warm glow.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the first-person view to a close-up on the crossed loops. An adult index finger enters the frame and taps the small triangular gap formed at the bottom of the crossed loops on the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight illuminates the details of the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to an extreme close-up on the triangular gap. The child's thumb and forefinger push the tip of the top loop down and completely through the triangular gap of the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight highlights the knot forming on the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the extreme close-up to a close-up on the child's hands holding the loops. The child's hands grasp the tops of both loops and pull them outward in opposite directions simultaneously to tighten the knot on the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight surrounds the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to a high-angle shot looking down at the finished shoe. The child pats the finished, tightened double-loop knot resting securely on the colorful Stride Rite sneaker with standard white laces and a visible logo. The brightly lit indoor playroom with a soft wooden floor and warm natural sunlight provides a cheerful setting for the colorful Stride Rite sneaker with standard white laces and a visible logo.",
+            "duration_seconds": 4.5
+        }
+    ]
+}

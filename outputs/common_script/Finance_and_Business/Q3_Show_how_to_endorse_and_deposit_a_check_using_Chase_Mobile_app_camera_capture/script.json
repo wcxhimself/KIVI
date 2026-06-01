@@ -1,0 +1,66 @@
+{
+    "seed": 42,
+    "identity_marker": "black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen",
+    "continuity_anchors": "resting on a dark, flat wooden surface under bright, even overhead indoor lighting",
+    "video_goal": "Demonstrate how to endorse a paper check and deposit it using the Chase Mobile app's camera capture feature.",
+    "total_steps": 14,
+    "single_prompt": "An over-the-shoulder view shows a hand tapping the blue Chase Mobile app icon on a black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The camera transitions to a screen capture as the dashboard loads, and a finger taps 'Pay & Transfer' then 'Deposit checks'. The view shifts to a close-up as a hand places the physical paper check face-down on a dark, flat wooden surface under bright, even overhead indoor lighting. A blue ink pen writes a signature on the endorsement line on the back of the check. Transitioning back to a screen capture, a finger taps the 'Amount' field and types in the check's numerical value using the on-screen keypad. The finger then taps the 'Front' camera icon button. The camera moves to a first-person view as the smartphone is held over the front of the check, aligning the paper within the green rectangular guide. A screen capture shows the camera interface flashing white as it auto-captures the front of the check, displaying a cropped preview. In a first-person view, the hand flips the physical check over to reveal the newly signed back. A screen capture shows the finger tapping the 'Back' camera icon button. In a first-person view, the smartphone is held over the back of the check, aligning the signature within the on-screen green rectangular guide. A screen capture reveals the camera auto-capturing the back of the check, showing the cropped preview image next to the front image. A finger scrolls down the review screen and taps the solid blue 'Deposit' button at the bottom. Finally, a green checkmark appears on the screen with the text 'Deposit received'.",
+    "interactive_prompts": [
+        {
+            "prompt": "An over-the-shoulder view reveals a black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen in their starting positions. A hand reaches out and taps the blue Chase Mobile app icon on the smartphone's home screen. The entire setup remains resting on a dark, flat wooden surface under bright, even overhead indoor lighting, highlighting the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from an over-the-shoulder angle to a direct screen capture of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen nearby. As the Chase app dashboard loads, a finger taps the 'Pay & Transfer' tab at the bottom of the screen, then selects 'Deposit checks' on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The digital interface is clearly visible while the physical device continues resting on a dark, flat wooden surface under bright, even overhead indoor lighting, framing the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a tight close-up focusing on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. A hand carefully places the standard physical paper check face-down next to the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The items are perfectly still, resting on a dark, flat wooden surface under bright, even overhead indoor lighting, illuminating the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up angle on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The blue ink pen is used by a hand to write a cursive signature on the endorsement line on the back of the check, right beside the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The writing process occurs while resting on a dark, flat wooden surface under bright, even overhead indoor lighting, casting soft shadows around the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up back to a direct screen capture of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. A finger taps the 'Amount' field in the app and types in the check's numerical value using the on-screen keypad of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The digital action takes place with the phone resting on a dark, flat wooden surface under bright, even overhead indoor lighting, alongside the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera holds the smooth screen capture angle on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The finger taps the 'Front' camera icon button on the deposit screen of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The interface updates while the device remains resting on a dark, flat wooden surface under bright, even overhead indoor lighting, keeping focus on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a first-person view looking down at the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The smartphone is held over the front of the check, aligning the paper within the green rectangular guide on the screen of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The alignment happens above the area resting on a dark, flat wooden surface under bright, even overhead indoor lighting, clearly showing the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the first-person view back to a screen capture of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The Chase app camera interface flashes white as it auto-captures the front of the check, displaying a cropped preview on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The digital flash illuminates the screen while resting on a dark, flat wooden surface under bright, even overhead indoor lighting, reflecting off the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a first-person view of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The hand flips the physical check over to reveal the newly signed back, positioning it near the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The paper is turned while resting on a dark, flat wooden surface under bright, even overhead indoor lighting, alongside the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the first-person view to a screen capture of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The finger taps the 'Back' camera icon button on the app interface of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The app responds instantly while the device is resting on a dark, flat wooden surface under bright, even overhead indoor lighting, featuring the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a first-person view overlooking the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The smartphone is held over the back of the check, aligning the signature within the on-screen green rectangular guide on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The hovering phone is positioned over the setup resting on a dark, flat wooden surface under bright, even overhead indoor lighting, capturing the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the first-person view to a screen capture of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The camera auto-captures the back of the check, showing the cropped preview image next to the front image on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The dual previews are displayed while the phone is resting on a dark, flat wooden surface under bright, even overhead indoor lighting, alongside the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera maintains the smooth screen capture angle on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. A finger scrolls down the review screen and taps the solid blue 'Deposit' button at the bottom of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The scrolling action occurs while the device is resting on a dark, flat wooden surface under bright, even overhead indoor lighting, grounding the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera holds the final smooth screen capture angle on the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. A green checkmark appears on the screen with the text 'Deposit received' on the display of the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen. The successful transaction screen glows while resting on a dark, flat wooden surface under bright, even overhead indoor lighting, concluding the task with the black smartphone displaying the Chase Mobile app, a standard physical paper check, and a blue ink pen.",
+            "duration_seconds": 4.0
+        }
+    ]
+}

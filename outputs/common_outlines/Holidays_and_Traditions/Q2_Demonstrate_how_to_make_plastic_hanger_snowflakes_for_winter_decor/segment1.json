@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "white plastic tubular clothing hangers",
+    "continuity_anchors": "flat wooden table under bright, even indoor lighting",
+    "segments": [
+        {
+            "prompt": "A top-down view captures the initial setup of the crafting materials. A pair of hands places a stack of sixteen white plastic tubular clothing hangers and a bag of clear zip ties onto the surface. The workspace features a flat wooden table under bright, even indoor lighting.",
+            "num_frames": 121
+        }
+    ]
+}

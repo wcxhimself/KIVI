@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "colorful Stride Rite sneaker, long white shoelaces",
+    "continuity_anchors": "brightly lit living room with a soft beige carpet",
+    "segments": [
+        {
+            "prompt": "An over-the-shoulder view looks down at a child's foot resting on the floor. Adult hands place a colorful Stride Rite sneaker with long white shoelaces onto the child's foot, pulling the two loose shoelaces straight out to the sides. The scene is set in a brightly lit living room with a soft beige carpet.",
+            "num_frames": 109
+        }
+    ]
+}

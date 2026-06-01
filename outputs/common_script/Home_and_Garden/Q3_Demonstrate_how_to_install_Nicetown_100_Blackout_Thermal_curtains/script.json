@@ -1,0 +1,54 @@
+{
+    "seed": 42,
+    "identity_marker": "heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing",
+    "continuity_anchors": "in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame",
+    "video_goal": "Demonstrate the step-by-step installation of Nicetown 100% Blackout Thermal curtains to achieve a fully darkened room.",
+    "total_steps": 11,
+    "single_prompt": "A Close-up shot shows hands pulling the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing out of clear plastic packaging, briefly exposing the brand label. The camera transitions to an Extreme close-up as hands flip the edge of the fabric over to reveal the distinct, solid black thermal backing layer. Pulling back to a Medium shot, hands reach up and unscrew the decorative finial from a metal curtain rod that is already mounted above a brightly lit window. In a Close-up, hands lift the curtain and push the first silver metal grommet onto the bare end of the curtain rod. From an Over-the-shoulder view, hands fold the heavy fabric back and forth in an accordion style, sliding the next three grommets onto the rod to create deep, even pleats. A Medium shot shows hands pushing the gathered bundle of grommets further down the rod toward the center of the window to make room for the rest of the panel. In a Close-up, hands position the final grommet on the outside of the wall bracket, trapping the fabric between the bracket and the rod's end to lock the outer edge in place. Remaining in a Close-up, hands twist the decorative finial back onto the threaded end of the curtain rod until it is completely tight. A Wide shot captures hands pulling and adjusting the folds of the heavy thermal fabric from top to bottom so they hang evenly across the left side of the window. Moving to a Medium shot, hands grab the leading edge of the curtain and pull it firmly across the bright glass toward the center. Finally, in a Wide shot from inside the room, hands pull the two curtain panels together in the middle, instantly blocking out the sunlight and plunging the room into total darkness.",
+    "interactive_prompts": [
+        {
+            "prompt": "A Close-up shot shows hands holding the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing inside clear plastic packaging. The hands pull the thick fabric out of the plastic, briefly exposing the brand label to the camera. This takes place in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, preparing the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing for installation.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an Extreme close-up on the edge of the fabric. Hands flip the edge of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing over to reveal the distinct, solid black thermal layer. The setting remains in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, highlighting the light-blocking features of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back smoothly into a Medium shot of the upper window area. Hands reach up and unscrew the decorative finial end cap from the rod, preparing to hang the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing. The action occurs in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, ready to support the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera moves in for a Close-up on the bare end of the metal rod. Hands lift the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing and push the first silver metal grommet onto the bare end of the curtain rod. The installation continues in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, securely holding the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera shifts smoothly to an Over-the-shoulder view looking up at the rod. Hands fold the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing back and forth in an accordion style, sliding the next three grommets onto the rod to create deep, even pleats. The folding happens in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, shaping the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera transitions smoothly back to a Medium shot of the window top. Hands push the gathered bundle of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing further down the rod toward the center of the window to make room for the rest of the panel. The adjustment takes place in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, accommodating the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera pushes in for a Close-up on the outer wall bracket. Hands position the final grommet of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing on the outside of the wall bracket, trapping the fabric between the bracket and the rod's end to lock the outer edge in place. This locking step is performed in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, securing the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera remains in a Close-up, slightly shifting focus to the threaded end of the rod. Hands twist the decorative finial back onto the threaded end of the curtain rod until it is completely tight, locking the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing onto the fixture. The hardware is secured in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, finalizing the mounting of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera pulls back smoothly into a Wide shot capturing the entire left side of the window. Hands pull and adjust the folds of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing from top to bottom so they hang evenly across the left side of the window. The draping is perfected in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, displaying the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera moves smoothly into a Medium shot focused on the center of the window. Hands grab the leading edge of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing and pull it firmly across the bright glass toward the center. The fabric glides in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, as the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing begin to block the light.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera transitions smoothly to a Wide shot from inside the room, showing the full window. Hands pull the two panels of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing together in the middle, instantly blocking out the sunlight and plunging the room into total darkness. The transformation concludes in a brightly lit room with a pre-installed metal curtain rod mounted above a standard window frame, proving the effectiveness of the heavy Nicetown 100% Blackout Thermal curtains with silver metal grommets and a solid black thermal backing.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

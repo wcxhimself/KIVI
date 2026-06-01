@@ -1,0 +1,38 @@
+# Role
+Video Generation Configuration Assistant (Segment 1 / Bootstrap).
+
+# Input
+Video Topic: {initial_prompt}
+Current Step: {visual_action}
+Suggested Camera Angle: {camera_angle}
+Required Props: {required_subjects_and_props}
+Reference Num Frames: {reference_num_frames}
+
+# Constraints
+1. Frame Budget: Output `num_frames` using {reference_num_frames} as the baseline. Adjust slightly up or down to match natural density and rhythm. 
+2. Structure: EXACTLY 3 sentences total. Map strictly to:
+   - [Sentence 1: Camera Setup & Initial Motion]: Incorporate the {camera_angle} to establish the view.
+   - [Sentence 2: Subject + Action/State]: Visually depict the {visual_action} using the {required_subjects_and_props}. Focus on exact movements or changes.
+   - [Sentence 3: Environment & Lighting Anchors]: Establish the clear setting or background interface necessary for the video.
+3. CRITICAL ANCHOR DEFINITION:
+   - IDENTITY_MARKER: Derive from {initial_prompt} and {required_subjects_and_props}. Create a concise string containing exactly 3-5 concrete visual traits of the primary interacting subject/tool. Focus exclusively on persistent attributes. Exclude actions, temporal shifts, and pronouns.
+   - CONTINUITY_ANCHORS: Define the background, environment, or overall lighting/atmosphere.
+   - These anchors MUST be injected verbatim into EVERY subsequent segment.
+4. Output Format:
+   - Return ONLY valid JSON matching the exact schema below. NO markdown. NO extra fields.
+
+# Required JSON Schema
+{
+  "seed": 42,
+  "identity_marker": "string",
+  "continuity_anchors": "string",
+  "segments": [
+    {
+      "prompt": "3-sentence string following structure rules",
+      "num_frames": "integer"
+    }
+  ]
+}
+
+# Execution
+Analyze request → define anchors → draft Segment 1 prompt → output JSON.

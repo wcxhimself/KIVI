@@ -1,0 +1,58 @@
+{
+    "seed": 42,
+    "identity_marker": "green Raspberry Pi 4 Model B circuit board with silver ports",
+    "continuity_anchors": "on a clean wooden desk under bright, even studio lighting",
+    "video_goal": "Visually guide the user through flashing an SD card and physically connecting the components to boot up a Raspberry Pi 4.",
+    "total_steps": 12,
+    "single_prompt": "From an overhead view, hands place a green Raspberry Pi 4 Model B circuit board with silver ports, a MicroSD card, and a black USB-C power supply side-by-side on a clean wooden desk under bright, even studio lighting. The camera moves to a close-up as fingers slide the MicroSD card into a USB SD card reader, then push the reader into the USB port of a laptop. Transitioning to a screen capture, the mouse cursor clicks the white 'CHOOSE OS' button within the pink and white Raspberry Pi Imager UI, scrolls down the pop-up list, and clicks on the 'Raspberry Pi OS (32-bit)' option. The cursor then clicks 'CHOOSE STORAGE', selects the mounted SD card drive, and clicks the 'WRITE' button, showing a progress bar filling up. Back to a close-up, fingers pull the USB SD card reader out of the laptop and extract the MicroSD card. Hands flip the green Raspberry Pi 4 Model B circuit board with silver ports upside down and slide the MicroSD card into the metal slot on the bottom edge until it is flush. From an over-the-shoulder view, hands plug a micro-HDMI cable into the first small port labeled 'HDMI0'. In a close-up, hands plug a USB mouse cable and a USB keyboard cable into the two silver USB 2.0 ports, then fingers push the USB-C power cable firmly into the USB-C port. A macro shot reveals a solid red LED and a rapidly blinking green LED illuminating on the corner of the board. Finally, the camera shows a monitor view as the connected screen transitions from black to the Raspberry Pi OS desktop, displaying a sunset wallpaper and a 'Welcome to Raspberry Pi' dialog box.",
+    "interactive_prompts": [
+        {
+            "prompt": "From an overhead view, hands position the green Raspberry Pi 4 Model B circuit board with silver ports, a MicroSD card, and a black USB-C power supply side-by-side. The hands carefully arrange the components so they are clearly visible and ready for assembly. The setup rests on a clean wooden desk under bright, even studio lighting, highlighting the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the overhead view to a close-up shot of the components next to the green Raspberry Pi 4 Model B circuit board with silver ports. Fingers slide the MicroSD card into a USB SD card reader, then push the reader into the USB port of a laptop. This action takes place on a clean wooden desk under bright, even studio lighting, keeping the green Raspberry Pi 4 Model B circuit board with silver ports in the periphery.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to a screen capture of the laptop sitting near the green Raspberry Pi 4 Model B circuit board with silver ports. On the laptop screen, the mouse cursor clicks the white 'CHOOSE OS' button within the pink and white Raspberry Pi Imager UI. The laptop remains on a clean wooden desk under bright, even studio lighting, alongside the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera maintains the screen capture angle, focusing on the software interface while the green Raspberry Pi 4 Model B circuit board with silver ports waits nearby. The mouse cursor scrolls down the pop-up list and clicks on the 'Raspberry Pi OS (32-bit)' option. The workspace continues to be on a clean wooden desk under bright, even studio lighting, illuminating the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly continues the screen capture perspective, showing the next step for preparing the green Raspberry Pi 4 Model B circuit board with silver ports. The cursor clicks 'CHOOSE STORAGE', selects the mounted SD card drive, and then clicks the 'WRITE' button, showing a progress bar filling up. The laptop and the green Raspberry Pi 4 Model B circuit board with silver ports sit on a clean wooden desk under bright, even studio lighting.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the screen capture to a close-up shot beside the green Raspberry Pi 4 Model B circuit board with silver ports. Fingers pull the USB SD card reader out of the laptop and extract the MicroSD card from the reader. The hardware is handled on a clean wooden desk under bright, even studio lighting, right next to the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to a new close-up angle focusing directly on the green Raspberry Pi 4 Model B circuit board with silver ports. Hands flip the board upside down and slide the MicroSD card into the metal slot on the bottom edge until it is flush. This assembly happens on a clean wooden desk under bright, even studio lighting, showcasing the underside of the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to an over-the-shoulder view looking down at the green Raspberry Pi 4 Model B circuit board with silver ports. Hands plug a micro-HDMI cable into the first small port labeled 'HDMI0' located next to the USB-C port on the board. The connections are made on a clean wooden desk under bright, even studio lighting, clearly displaying the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions from the over-the-shoulder view to a tight close-up on the edge of the green Raspberry Pi 4 Model B circuit board with silver ports. Hands plug a USB mouse cable and a USB keyboard cable into the two silver USB 2.0 ports on the edge of the board. The peripherals are attached on a clean wooden desk under bright, even studio lighting, completing the inputs for the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly shifts its close-up focus to the power input corner of the green Raspberry Pi 4 Model B circuit board with silver ports. Fingers push the USB-C power cable firmly into the USB-C port on the corner of the board. Power is introduced on a clean wooden desk under bright, even studio lighting, bringing life to the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the close-up to an extreme macro shot of the indicator lights on the green Raspberry Pi 4 Model B circuit board with silver ports. A solid red LED and a rapidly blinking green LED illuminate on the corner of the board. The glowing lights stand out on a clean wooden desk under bright, even studio lighting, confirming the successful boot of the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly transitions from the macro shot to a full monitor view, with the green Raspberry Pi 4 Model B circuit board with silver ports resting below the screen. The connected monitor transitions from black to the Raspberry Pi OS desktop, displaying a sunset wallpaper and a 'Welcome to Raspberry Pi' dialog box. The final setup sits on a clean wooden desk under bright, even studio lighting, successfully powered by the green Raspberry Pi 4 Model B circuit board with silver ports.",
+            "duration_seconds": 5.0
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "seed": 42,
+    "identity_marker": "black electric pencil sharpener with a silver Bostitch logo and clear shaving tray",
+    "continuity_anchors": "flat wooden desk surface under bright, even indoor lighting",
+    "segments": [
+        {
+            "prompt": "A close-up shot begins with a slight panning motion across the workspace. A black electric pencil sharpener with a silver Bostitch logo and clear shaving tray sits stationary on the desk as the camera movement highlights the branding on its front. The scene is set on a flat wooden desk surface under bright, even indoor lighting.",
+            "num_frames": 96
+        }
+    ]
+}

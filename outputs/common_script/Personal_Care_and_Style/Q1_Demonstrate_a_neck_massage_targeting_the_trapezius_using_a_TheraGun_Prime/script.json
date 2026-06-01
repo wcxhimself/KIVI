@@ -1,0 +1,62 @@
+{
+    "seed": 8472,
+    "identity_marker": "a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt",
+    "continuity_anchors": "in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains",
+    "video_goal": "Demonstrate how to properly set up and use a TheraGun Prime to massage the trapezius muscle.",
+    "total_steps": 13,
+    "single_prompt": "A close-up shot shows a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, resting on a table. The person pushes the stem of the Dampener attachment firmly into the front nozzle of the TheraGun Prime until it sits flush. The camera moves to an extreme close-up as the person presses and holds the center power button on the keypad until the white LED speed indicators illuminate and the device vibrates. They press the down arrow button to drop the vibration speed to the lowest LED indicator. The camera pulls back to a medium shot as the person wraps a hand around the top section of the triangular handle using an overhand grip. Transitioning to an over-the-shoulder view, they lift the vibrating device and hover the Dampener attachment just above the right trapezius muscle at the base of the neck. In a close-up, they gently lower the flat surface of the Dampener attachment so it makes contact with the skin. They slowly glide the vibrating head outward along the ridge of the right trapezius muscle toward the shoulder joint, then slowly glide it back inward along the same path. Holding the Dampener attachment completely still on the midpoint of the right trapezius, they allow the vibration to pulse in one spot without applying extra pressure. The camera shifts to a medium shot as they lower the device, switch hands on the triangular handle, and lift it toward the left side of the neck. From an over-the-shoulder view, they glide the Dampener attachment slowly outward along the left trapezius muscle from the neck base to the left shoulder. Finally, in a close-up, they pull the device away from the body and press the center power button to turn off the LED lights and stop the motor, all set in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains.",
+    "interactive_prompts": [
+        {
+            "prompt": "A close-up shot reveals a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, resting on a wooden table. The person places the device down next to the round attachment to prepare for assembly. This takes place in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, illuminating a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a smooth close-up angle on the table setup. The person pushes the stem of the attachment firmly into the front nozzle of a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, until it sits flush. The assembly happens in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, highlighting a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 3.5
+        },
+        {
+            "prompt": "The camera smoothly pushes in to an extreme close-up on the device's control panel. The person presses and holds the center power button on the keypad of a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, until the white LED speed indicators illuminate and the motor vibrates. The glowing lights shine in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, reflecting off a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera remains in a steady extreme close-up on the illuminated keypad. The person presses the down arrow button on the keypad of a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, dropping the vibration speed to the lowest LED indicator. The speed adjustment occurs in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, surrounding a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 3.0
+        },
+        {
+            "prompt": "The camera smoothly pulls back to a medium shot showing the person's upper body. The person wraps a hand around the top section of a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt, using a firm overhand grip. The grip is established in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, framing a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view behind the person. The person lifts the vibrating unit and hovers the attachment just above the right trapezius muscle at the base of the neck, maneuvering a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The hovering action is captured in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, showcasing a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly pushes in to a close-up on the right side of the neck. The person gently lowers the flat surface of the attachment so it makes contact with the skin at the base of the right neck, applying a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The contact is made in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, illuminating a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera maintains a steady close-up on the right shoulder area. The person slowly glides the vibrating head outward along the ridge of the right trapezius muscle toward the shoulder joint, guiding a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The massage stroke continues in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, featuring a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera holds its close-up angle on the right trapezius muscle. The person slowly glides the vibrating head back inward along the same muscle path from the shoulder joint to the neck base, moving a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The inward stroke happens in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, highlighting a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera remains in a tight close-up on the midpoint of the right trapezius. The person holds the attachment completely still, allowing the vibration to pulse in one spot without applying extra pressure, utilizing a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The static pulsing occurs in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, focusing on a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.5
+        },
+        {
+            "prompt": "The camera smoothly pulls back to a medium shot of the person's torso and head. The person lowers the unit, switches hands on the grip, and lifts it toward the left side of the neck, repositioning a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The hand switch takes place in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, framing a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        },
+        {
+            "prompt": "The camera smoothly transitions to an over-the-shoulder view behind the person's left side. The person glides the attachment slowly outward along the left trapezius muscle from the neck base to the left shoulder, operating a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The left-side massage is captured in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, showing a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 5.0
+        },
+        {
+            "prompt": "The camera smoothly pushes in to a close-up on the device's control panel. The person pulls the unit away from the body and presses the center power button to turn off the LED lights and stop the motor of a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt. The device powers down in a brightly lit modern living room with soft natural sunlight filtering through sheer white curtains, resting a black TheraGun Prime massage device with a distinctive triangular handle and a round foam Dampener attachment, held by a person wearing a grey athletic shirt.",
+            "duration_seconds": 4.0
+        }
+    ]
+}
