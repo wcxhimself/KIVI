@@ -1,6 +1,6 @@
 import os
 import json
-from kivi.llm_client import LLMClient
+from kivi.utils.llm_client import LLMClient
 
 class DynamicScriptGenerator:
     def __init__(self, model_name="google/gemini-3.1-pro-preview"):

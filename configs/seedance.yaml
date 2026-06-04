@@ -14,6 +14,7 @@ api:
 
   t2v:
     url: "/contents/generations/tasks"
+    async_header: ""
     body:
       model: "doubao-seedance-2-0-260128"
       content:
@@ -29,6 +30,7 @@ api:
 
   i2v:
     url: "/contents/generations/tasks"
+    async_header: ""
     body:
       model: "doubao-seedance-2-0-260128"
       content:

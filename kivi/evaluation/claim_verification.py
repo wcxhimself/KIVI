@@ -1,6 +1,6 @@
 import os
 import json
-from kivi.llm_client import LLMClient
+from kivi.utils.llm_client import LLMClient
 
 class VerifyClaims:
     def __init__(self, mllm_model="google/gemini-3.1-pro-preview"):

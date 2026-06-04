@@ -2,7 +2,7 @@
 
 name: your-model-name              # lowercase, hyphens, e.g. my-model
 description: "A brief description" # shown in --list-models
-mode: api                          
+mode: api
 fps: 24                            # output frame rate of the model
 max_num_frames: 360                # maximum frames per generation call
 
@@ -17,10 +17,10 @@ api:
   t2v:                             # text-to-video submit
     url: "/video/generation"       # appended to base_url
     async_header: ""               # optional, e.g. "X-Async: enable"
-    body:                          # JSON request body; placeholders supported
-      prompt: "{prompt}"           #   {prompt}: current segment prompt text
-      duration: "{duration}"       #   {duration}: computed duration in seconds
-      seed: "{seed}"               #   {seed}: base_seed + segment_counter
+    body:
+      prompt: "{prompt}"
+      duration: "{duration}"
+      seed: "{seed}"
     task_id_path: "output.task_id" # dot-path to task_id in submit response
 
   i2v:                             # image-to-video submit (uses same poll as t2v)
@@ -29,7 +29,7 @@ api:
       prompt: "{prompt}"
       duration: "{duration}"
       seed: "{seed}"
-      first_frame: "{data_uri}"    #   {data_uri}: "data:image/png;base64,..."
+      first_frame: "{data_uri}"
     task_id_path: "output.task_id"
 
   poll:                            # task polling

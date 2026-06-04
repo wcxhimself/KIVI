@@ -10,16 +10,29 @@ from openai import OpenAI
 class LLMClient:
     def __init__(self, model="google/gemini-3.1-pro-preview", api_key=None, base_url=None):
         self.model = model
-        
-        self.base_url = base_url or os.environ.get("OPENROUTER_BASE_URL", "https://openrouter.ai/api/v1")
-        self.api_key = api_key or os.environ.get("OPENROUTER_API_KEY") or os.environ.get("OPENAI_API_KEY")
+
+        self.base_url = (
+            base_url
+            or os.environ.get("LLM_BASE_URL")
+        )
+        self.api_key = (
+            api_key
+            or os.environ.get("LLM_API_KEY")
+        )
+
+        headers = {}
+        if "openrouter" in (self.base_url or ""):
+            referer = os.environ.get("LLM_HTTP_REFERER", "")
+            title = os.environ.get("LLM_HTTP_TITLE", "")
+            if referer:
+                headers["HTTP-Referer"] = referer
+            if title:
+                headers["X-Title"] = title
+
         self.client = OpenAI(
-            api_key=self.api_key, 
+            api_key=self.api_key,
             base_url=self.base_url,
-            default_headers={
-                "HTTP-Referer": os.environ.get("OPENROUTER_REFERER", "https://github.com/KIVI"),
-                "X-Title": os.environ.get("OPENROUTER_TITLE", "KIVI")
-            }
+            default_headers=headers or None,
         )
 
     def call_text(self, prompt, system_prompt=None, response_format="text", **kwargs):

@@ -4,7 +4,7 @@ import sys
 import csv
 from collections import defaultdict
 
-EVAL_DIR = os.environ.get("KIVI_OUTPUT_ROOT", os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs"))
+EVAL_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "outputs")
 
 REQUIRED_FIELDS = [
     "factual_precision",
@@ -206,7 +206,7 @@ def print_comparison(records):
         line += f"{avg:>{20}.2f}"
     print(line)
 
-    csv_dir = os.path.dirname(os.path.abspath(__file__))
+    csv_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     fp_csv = os.path.join(csv_dir, "factuality_by_category.csv")
     with open(fp_csv, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
@@ -426,7 +426,7 @@ def main():
         print("No score.json files found.")
         sys.exit(1)
 
-    current_dir = os.path.dirname(os.path.abspath(__file__))
+    current_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     output_path = os.path.join(current_dir, "compare_eval_results.txt")
     with open(output_path, "w", encoding="utf-8") as log:
         old_stdout = sys.stdout

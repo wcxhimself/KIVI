@@ -102,8 +102,7 @@ def _get_import(module_path, name):
         LAZY_IMPORTS[name] = __import__(module_path, fromlist=[name])
     return LAZY_IMPORTS[name]
 
-OUTPUT_ROOT = os.environ.get("KIVI_OUTPUT_ROOT",
-                             os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs"))
+OUTPUT_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "outputs")
 
 
 def sanitize_name(name):

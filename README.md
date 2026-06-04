@@ -1,6 +1,6 @@
 # KIVI: Knowledge-Intensive Video Generation
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2606.01285)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 KIVI evaluates text-to-video models on **factuality** and **helpfulness** — shifting the question from *"Does the video look good?"* to *"Does the video communicate correct and useful information?"*
@@ -23,13 +23,14 @@ pip install -r requirements.txt
 conda install ffmpeg
 ```
 
-**API keys.** Set your LLM API key for script generation and evaluation:
+**API keys.** Set the following to enable LLM-based script generation and evaluation:
 
 ```bash
-export OPENAI_API_KEY={your_key}
+export LLM_API_KEY={your_key}
+export LLM_BASE_URL={your_endpoint}
 ```
 
-The pipeline uses the OpenAI-compatible API format. By default it calls Gemini 3.1 Pro, but any provider that supports this format is supported (OpenAI, Gemini API, etc.).
+The pipeline uses the OpenAI-compatible API format and defaults to Google Gemini 3.1 Pro via OpenRouter. To switch providers, change `LLM_BASE_URL` and update the model name in the code.
 
 For API-based video generation models, set the provider-specific key:
 
@@ -42,27 +43,17 @@ For API-based video generation models, set the provider-specific key:
 
 ## Model Repositories
 
-Each open-source video generation model requires its own code repository and conda environment. **Clone only the model(s) you need** into `video_generation_models/`. API-based models (Seedance 2.0, HappyHorse 1.0) do **not** require local code.
+Clone the code for the model(s) you need into `video_generation_models/`, then download their weights to `models_cache/` following each model's official documentation.
 
-| Model | Clone Command |
-|---|---|
-| Wan 2.2 | `git clone https://github.com/Wan-Video/Wan2.2 video_generation_models/Wan2.2` |
-| HunyuanVideo 1.5 | `git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5 video_generation_models/HunyuanVideo-1.5` |
-| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` |
-| Helios | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` |
-| LongLive | `git clone https://github.com/NVlabs/LongLive video_generation_models/LongLive` |
+| Model | Code Repository | Checkpoint (HuggingFace) |
+|---|---|---|
+| Wan 2.2 | `git clone https://github.com/Wan-Video/Wan2.2 video_generation_models/Wan2.2` | `Wan-AI/Wan2.2-T2V-A14B`, `Wan-AI/Wan2.2-I2V-A14B` |
+| HunyuanVideo 1.5 | `git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5 video_generation_models/HunyuanVideo-1.5` | `Tencent-Hunyuan/HunyuanVideo-1.5` |
+| Helios-Base | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` | `PKU-YuanGroup/Helios-Base` |
+| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `meituan-longcat/LongCat-Video` (foundational) |
+| LongLive 1.0 | `git clone https://github.com/NVlabs/LongLive video_generation_models/LongLive` | `NVlabs/LongLive` (base model + LoRA) |
 
-Install model dependencies and download weights following each model's official documentation. For example, setting up Wan 2.2:
-
-```bash
-conda create -n {model_env} python=3.10 -y && conda activate {model_env}
-pip install -r video_generation_models/Wan2.2/requirements.txt
-
-# Download weights
-huggingface-cli login
-huggingface-cli download Wan-AI/Wan2.2-T2V-A14B --local-dir models_cache/Wan2.2_models/Wan2.2-T2V-A14B
-huggingface-cli download Wan-AI/Wan2.2-I2V-A14B --local-dir models_cache/Wan2.2_models/Wan2.2-I2V-A14B
-```
+> Seedance 2.0 and HappyHorse 1.0 are API-based and require neither code repositories nor local weights.
 
 ---
 
@@ -100,7 +91,7 @@ This runs all five stages in order: outline + script → video generation → cl
 Each stage reads/writes cached intermediates on disk and can be resumed independently:
 
 ```bash
-python run_evaluation.py --model {model} --step script              # outline + script (LLM only)
+python run_evaluation.py --model {model} --step script              # outline + script
 python run_evaluation.py --model {model} --step generate --gpu 0     # video generation
 python run_evaluation.py --model {model} --step extract             # claim extraction
 python run_evaluation.py --model {model} --step verify              # claim verification
@@ -130,17 +121,6 @@ outputs/{model}/{category}/Q{idx}_{prompt}/
     ├── helpfulness_score.json
     └── score.json
 ```
----
-### Cross-Model Comparison
-
-After evaluating multiple models, compare results:
-
-```bash
-python compare_scores.py
-```
-
-This prints per-prompt, per-category, and pairwise comparison tables, and exports CSVs.
-
 ---
 
 ## Prompt Sets
@@ -205,7 +185,7 @@ Four generation modes are supported: `segment` (T2V+I2V), `interactive` (prompt 
 ```bash
 cp configs/_template_segment.yaml configs/{my-model}.yaml
 # edit the YAML — fill in name, mode, code_dir, model_path, and generation commands
-python run_evaluation.py --model {my-model} --gpu 0
+python run_evaluation.py --model {my-model}
 ```
 
 ---
@@ -214,16 +194,15 @@ python run_evaluation.py --model {my-model} --gpu 0
 
 ```
 ├── run_evaluation.py            # Main entry point
-├── compare_scores.py            # Cross-model score comparison
 ├── kivi/                        # Core framework
-│   ├── llm_client.py            # LLM API client
+│   ├── utils/                   # Utilities (LLM client, score comparison, model wrappers)
 │   ├── generation/              # Video generation (outline, script, models)
 │   └── evaluation/              # Claim extraction, verification, helpfulness
 ├── configs/                     # Per-model YAML configurations
 ├── prompts/                     # LLM prompt templates
 ├── video_generation_models/     # Model code (clone manually)
 ├── outputs/                     # Evaluation outputs
-└── models_cache/                # Downloaded model weights (gitignored)
+└── models_cache/                # Downloaded model weights
 ```
 
 ---

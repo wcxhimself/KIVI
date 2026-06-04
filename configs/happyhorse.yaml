@@ -9,6 +9,8 @@ api:
   env_key: "DASHSCOPE_API_KEY"
   base_url: "https://dashscope.aliyuncs.com"
   auth_header: "Bearer {api_key}"
+  min_duration: 2
+  max_duration: 15
 
   t2v:
     url: "/api/v1/services/aigc/video-generation/video-synthesis"

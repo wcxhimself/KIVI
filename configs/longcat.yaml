@@ -12,7 +12,7 @@ model_path:
 generation:
   command: |
     {torchrun} --nproc_per_node={num_gpus}
-      kivi/generation/longcat_wrapper.py
+      kivi/utils/longcat_wrapper.py
       --checkpoint_dir {model_path}
       --prompt_file "{prompt_file}"
       --output_dir "{output_dir}"
