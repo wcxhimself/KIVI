@@ -69,19 +69,17 @@ python run_evaluation.py --list-models
 
 | Argument | Description | Default |
 |---|---|---|
-| `--model {model}` | Model name to evaluate (see `--list-models`) | *required* |
+| `--model {model}` | Model name to evaluate | *required* |
 | `--step {stage}` | Pipeline stage: `all`, `script`, `generate`, `extract`, `verify`, `score` | `all` |
-| `--gpu {ids}` | GPU device IDs (e.g., `0` or `0,1` for multi-GPU) | `0` |
-| `--category {name}` | Filter by category (e.g., `"Cars_Other_Vehicles"`). Runs all if omitted. | `None` |
+| `--gpu {ids}` | GPU device IDs (e.g. `0` or `0,1` for multi-GPU) | `0` |
+| `--category {name}` | Filter by category (e.g. `"Cars_Other_Vehicles"`). Runs all if omitted. | `None` |
 | `--prompt-index {n}` | Filter to a specific prompt within a category (1-based). Requires `--category`. | `None` |
 | `--prompts-json {path}` | Path to prompts JSON file | `experiment_prompts.json` |
-| `--video-path {path}` | Evaluate a user-provided video. Requires `--prompt`. Skips script/generate. | `None` |
-| `--prompt {text}` | Prompt text when using `--video-path` | `None` |
 
 ### Full Pipeline
 
 ```bash
-python run_evaluation.py --model {model} --gpu 0
+python run_evaluation.py --model {model}
 ```
 
 This runs all five stages in order: outline + script → video generation → claim extraction → claim verification → scoring.
@@ -92,7 +90,7 @@ Each stage reads/writes cached intermediates on disk and can be resumed independ
 
 ```bash
 python run_evaluation.py --model {model} --step script              # outline + script
-python run_evaluation.py --model {model} --step generate --gpu 0     # video generation
+python run_evaluation.py --model {model} --step generate            # video generation
 python run_evaluation.py --model {model} --step extract             # claim extraction
 python run_evaluation.py --model {model} --step verify              # claim verification
 python run_evaluation.py --model {model} --step score               # compute final scores
@@ -121,6 +119,17 @@ outputs/{model}/{category}/Q{idx}_{prompt}/
     ├── helpfulness_score.json
     └── score.json
 ```
+
+### Adding a New Video Generation Model
+
+Four generation modes are supported: `segment` (T2V+I2V), `interactive` (prompt switching), `single_prompt`, and `api` (REST).
+
+```bash
+cp configs/_template_segment.yaml configs/{my-model}.yaml
+# edit the YAML — fill in name, mode, code_dir, model_path, and generation commands
+python run_evaluation.py --model {my-model}
+```
+
 ---
 
 ## Prompt Sets
@@ -178,18 +187,6 @@ Results on the 54-prompt subset using Gemini 3.1 Pro Preview as the evaluator:
 
 ---
 
-## Adding a New Video Generation Model
-
-Four generation modes are supported: `segment` (T2V+I2V), `interactive` (prompt switching), `single_prompt`, and `api` (REST).
-
-```bash
-cp configs/_template_segment.yaml configs/{my-model}.yaml
-# edit the YAML — fill in name, mode, code_dir, model_path, and generation commands
-python run_evaluation.py --model {my-model}
-```
-
----
-
 ## Repository Structure
 
 ```
@@ -210,10 +207,13 @@ python run_evaluation.py --model {my-model}
 ## Citation
 
 ```bibtex
-@article{wang2026kivi,
-  title={KIVI: Knowledge-Intensive Video Generation},
-  author={Wang, Chenxu and Chen, Mingda},
-  journal={arXiv preprint},
-  year={2026}
+@misc{wang2026knowledgeintensivevideogeneration,
+      title={Knowledge-Intensive Video Generation}, 
+      author={Chenxu Wang and Mingda Chen},
+      year={2026},
+      eprint={2606.01285},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.01285}, 
 }
 ```
