@@ -45,14 +45,15 @@ For API-based video generation models, set the provider-specific key:
 
 Clone the code for the model(s) you need into `video_generation_models/`, then download their weights to `models_cache/` following each model's official documentation.
 
+You can override the repository's default model-weight locations by setting environment variables or by specifying absolute paths in the model config files.
+
 | Model | Code Repository | Checkpoint (HuggingFace) |
 |---|---|---|
-| Wan 2.2 | `git clone https://github.com/Wan-Video/Wan2.2 video_generation_models/Wan2.2` | `Wan-AI/Wan2.2-T2V-A14B`, `Wan-AI/Wan2.2-I2V-A14B` |
-| HunyuanVideo 1.5 | `git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5 video_generation_models/HunyuanVideo-1.5` | `Tencent-Hunyuan/HunyuanVideo-1.5` |
-| Helios-Base | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` | `PKU-YuanGroup/Helios-Base` |
-| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `meituan-longcat/LongCat-Video` (foundational) |
-| LongLive 1.0 | `git clone https://github.com/NVlabs/LongLive video_generation_models/LongLive` | `NVlabs/LongLive` (base model + LoRA) |
-
+| Wan 2.2 | `git clone https://github.com/Wan-Video/Wan2.2 video_generation_models/Wan2.2` | `https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B`, `https://huggingface.co/Wan-AI/Wan2.2-I2V-A14B` |
+| HunyuanVideo 1.5 | `git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5 video_generation_models/HunyuanVideo-1.5` | `https://huggingface.co/tencent/HunyuanVideo-1.5` |
+| Helios-Base | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` | `https://huggingface.co/BestWishYsh/Helios-Base` |
+| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `https://huggingface.co/meituan-longcat/LongCat-Video` (foundational) |
+| LongLive 1.0 | `git clone https://github.com/NVlabs/LongLive/tree/v1.0 video_generation_models/LongLive` | `https://huggingface.co/Efficient-Large-Model/LongLive-1.3B` |
 > Seedance 2.0 and HappyHorse 1.0 are API-based and require neither code repositories nor local weights.
 
 ---
@@ -123,6 +124,8 @@ outputs/{model}/{category}/Q{idx}_{prompt}/
 ### Adding a New Video Generation Model
 
 Four generation modes are supported: `segment` (T2V+I2V), `interactive` (prompt switching), `single_prompt`, and `api` (REST).
+
+Treat the YAML templates in `configs/` as examples only — different models may require model-specific settings; consult the model's upstream documentation and adjust the config accordingly.
 
 ```bash
 cp configs/_template_segment.yaml configs/{my-model}.yaml
