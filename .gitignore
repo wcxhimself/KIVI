@@ -47,3 +47,6 @@ Thumbs.db
 
 # Model code repositories (users clone manually)
 video_generation_models/
+
+# Model weights / symlink directories
+wan_models/

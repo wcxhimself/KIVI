@@ -4,7 +4,9 @@ import sys
 import csv
 from collections import defaultdict
 
-EVAL_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "outputs")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+EVAL_DIR = os.path.join(os.path.dirname(os.path.dirname(SCRIPT_DIR)), "outputs")
+RESULTS_DIR = os.path.join(SCRIPT_DIR, "results")
 
 REQUIRED_FIELDS = [
     "factual_precision",
@@ -206,7 +208,8 @@ def print_comparison(records):
         line += f"{avg:>{20}.2f}"
     print(line)
 
-    csv_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    csv_dir = RESULTS_DIR
+    os.makedirs(csv_dir, exist_ok=True)
     fp_csv = os.path.join(csv_dir, "factuality_by_category.csv")
     with open(fp_csv, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.writer(csvfile)
@@ -426,8 +429,8 @@ def main():
         print("No score.json files found.")
         sys.exit(1)
 
-    current_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-    output_path = os.path.join(current_dir, "compare_eval_results.txt")
+    os.makedirs(RESULTS_DIR, exist_ok=True)
+    output_path = os.path.join(RESULTS_DIR, "compare_eval_results.txt")
     with open(output_path, "w", encoding="utf-8") as log:
         old_stdout = sys.stdout
         sys.stdout = Tee(sys.stdout, log)

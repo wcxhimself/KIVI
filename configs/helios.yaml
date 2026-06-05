@@ -2,8 +2,8 @@ name: helios
 description: "Helios Base — single-prompt generation (open-source)"
 mode: single_prompt
 fps: 24
-max_num_frames: 360
-frame_snapping: "4n+1"
+max_num_frames: 2904
+frame_snapping: "3n"
 code_dir: "video_generation_models/Helios"
 
 model_path:

@@ -20,18 +20,18 @@ segment:
         --aspect_ratio 16:9
         --seed {seed}
         --output_path "{output_path}"
-        --offloading true
-        --group_offloading true
-        --overlap_group_offloading true
+        --offloading false
+        --group_offloading false
+        --overlap_group_offloading false
         --dtype bf16
         --sr false
         --rewrite false
-        --enable_cache true
+        --enable_cache false
         --cache_type deepcache
-        {frame_num_arg}
+        --video_length {frame_num}
   i2v:
     command: |
-      {torchrun} --nproc_per_node={num_gpus}
+      CUDNN_ENABLED=0 TORCH_CUDNN_V8_API_ENABLED=0 {torchrun} --nproc_per_node={num_gpus}
         {code_dir}/generate.py
         --prompt "{prompt}"
         --resolution 720p
@@ -39,13 +39,13 @@ segment:
         --aspect_ratio 16:9
         --seed {seed}
         --output_path "{output_path}"
-        --offloading true
-        --group_offloading true
-        --overlap_group_offloading true
+        --offloading false
+        --group_offloading false
+        --overlap_group_offloading false
         --dtype bf16
         --sr false
         --rewrite false
-        --enable_cache true
+        --enable_cache false
         --cache_type deepcache
         --image_path "{ref_image_path}"
-        {frame_num_arg}
+        --video_length {frame_num}

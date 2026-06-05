@@ -104,6 +104,7 @@ class ConfigBasedGenerator(BaseVideoGenerator):
         computed_seed = seed + self.segment_counter if seed is not None else -1
 
         frame_num_arg = f"--frame_num {snapped}" if snapped is not None else ""
+        frame_num_value = str(snapped) if snapped is not None else ""
         model_path_key = "i2v" if is_i2v else "t2v"
         model_path = self.model_paths.get(model_path_key, "") or next(iter(self.model_paths.values()), "")
 
@@ -125,6 +126,7 @@ class ConfigBasedGenerator(BaseVideoGenerator):
             output_path=output_path,
             ref_image_path=ref_image_path,
             frame_num_arg=frame_num_arg,
+            frame_num=frame_num_value,
             num_gpus=str(self.num_gpus),
             torchrun=torchrun_prefix,
         )
@@ -200,6 +202,36 @@ class ConfigBasedGenerator(BaseVideoGenerator):
         print(f"[{self.config.name}] WARNING: No output video found in {output_dir}")
         return None
 
+    @staticmethod
+    def _render_runtime_config(config: dict, vars: dict) -> dict:
+        """Recursively substitute {var} placeholders in a config dict."""
+
+        def _cast(value):
+            if value.lower() in ("true", "false"):
+                return value.lower() == "true"
+            try:
+                return int(value)
+            except ValueError:
+                pass
+            try:
+                return float(value)
+            except ValueError:
+                pass
+            return value
+
+        def _render(value):
+            if isinstance(value, str):
+                for k, v in vars.items():
+                    value = value.replace("{" + k + "}", str(v))
+                return _cast(value)
+            if isinstance(value, dict):
+                return {k: _render(v) for k, v in value.items()}
+            if isinstance(value, list):
+                return [_render(v) for v in value]
+            return value
+
+        return _render(config)
+
     def _run_non_segment_generation(self, output_dir: str, **template_vars) -> None:
         torchrun_prefix = f"{sys.executable} -m torch.distributed.run --rdzv_backend c10d --rdzv_endpoint localhost:0"
 
@@ -265,76 +297,7 @@ class ConfigBasedGenerator(BaseVideoGenerator):
             print(f"[{self.config.name}] Final video already exists. Skipping generation...")
             return final_video_path
 
-        model_name = self.config.name
-
-        if model_name == "longlive":
-            prompt_file = self._write_interactive_prompts(script, output_dir)
-            num_frames = self._compute_total_frames(script)
-            jsonl_path = os.path.join(output_dir, "interactive_prompts.jsonl")
-            with open(prompt_file, "r", encoding="utf-8") as f:
-                prompts_data = json.load(f)
-            with open(jsonl_path, "w", encoding="utf-8") as f:
-                json.dump({"prompts": [p["prompt"] for p in prompts_data]}, f)
-                f.write("\n")
-
-            switch_indices = []
-            cumsum = 0
-            for seg in prompts_data[:-1]:
-                cumsum += seg["num_frames"]
-                switch_indices.append(cumsum)
-
-            config_dict = {
-                "denoising_step_list": [1000, 750, 500, 250],
-                "warp_denoising_step": True,
-                "num_frame_per_block": 3,
-                "model_name": "Wan2.1-T2V-1.3B",
-                "model_kwargs": {
-                    "local_attn_size": 12,
-                    "timestep_shift": 5.0,
-                    "sink_size": 3,
-                    "use_infinite_attention": True,
-                },
-                "data_path": jsonl_path,
-                "output_folder": output_dir,
-                "inference_iter": -1,
-                "num_output_frames": num_frames,
-                "use_ema": False,
-                "seed": 42,
-                "num_samples": 1,
-                "save_with_index": True,
-                "switch_frame_indices": ",".join(str(x) for x in switch_indices),
-                "global_sink": True,
-                "context_noise": 0,
-                "generator_ckpt": self.model_paths.get("default", ""),
-                "lora_ckpt": self.model_paths.get("lora", ""),
-                "adapter": {
-                    "type": "lora",
-                    "rank": 256,
-                    "alpha": 256,
-                    "dropout": 0.0,
-                    "dtype": "bfloat16",
-                    "verbose": False,
-                },
-            }
-            tmp_config = tempfile.NamedTemporaryFile(
-                mode="w", suffix=".yaml", delete=False
-            )
-            yaml.dump(config_dict, tmp_config, default_flow_style=False)
-            config_path = tmp_config.name
-            tmp_config.close()
-
-            try:
-                self._run_non_segment_generation(
-                    output_dir,
-                    config_path=config_path,
-                    prompt_file=prompt_file,
-                    num_frames=str(num_frames),
-                )
-            finally:
-                if os.path.exists(config_path):
-                    os.remove(config_path)
-
-        elif model_name == "helios":
+        if mode == "single_prompt":
             prompt_file = self._write_single_prompt(script, output_dir)
             num_frames = self._compute_total_frames(script)
             self._run_non_segment_generation(
@@ -342,13 +305,58 @@ class ConfigBasedGenerator(BaseVideoGenerator):
                 prompt_file=prompt_file,
                 num_frames=str(num_frames),
             )
-
         else:
             prompt_file = self._write_interactive_prompts(script, output_dir)
-            self._run_non_segment_generation(
-                output_dir,
-                prompt_file=prompt_file,
-                num_frames=str(self._compute_total_frames(script)),
-            )
+            num_frames = self._compute_total_frames(script)
+
+            has_runtime_config = bool(self.config.runtime_config)
+
+            if has_runtime_config:
+                jsonl_path = os.path.join(output_dir, "interactive_prompts.jsonl")
+                with open(prompt_file, "r", encoding="utf-8") as f:
+                    prompts_data = json.load(f)
+                with open(jsonl_path, "w", encoding="utf-8") as f:
+                    json.dump({"prompts": [p["prompt"] for p in prompts_data]}, f)
+                    f.write("\n")
+
+                switch_indices = []
+                cumsum = 0
+                for seg in prompts_data[:-1]:
+                    cumsum += seg["num_frames"]
+                    switch_indices.append(cumsum)
+
+                template_vars = {
+                    "data_path": jsonl_path,
+                    "output_dir": output_dir,
+                    "num_frames": str(num_frames),
+                    "switch_frame_indices": ",".join(str(x) for x in switch_indices),
+                    "generator_ckpt": self.model_paths.get("default", ""),
+                    "lora_ckpt": self.model_paths.get("lora", ""),
+                }
+
+                rendered = self._render_runtime_config(self.config.runtime_config, template_vars)
+                tmp_config = tempfile.NamedTemporaryFile(
+                    mode="w", suffix=".yaml", delete=False
+                )
+                yaml.dump(rendered, tmp_config, default_flow_style=False)
+                config_path = tmp_config.name
+                tmp_config.close()
+
+                try:
+                    self._run_non_segment_generation(
+                        output_dir,
+                        config_path=config_path,
+                        prompt_file=prompt_file,
+                        num_frames=str(num_frames),
+                    )
+                finally:
+                    if os.path.exists(config_path):
+                        os.remove(config_path)
+            else:
+                self._run_non_segment_generation(
+                    output_dir,
+                    prompt_file=prompt_file,
+                    num_frames=str(num_frames),
+                )
 
         return self._collect_output(output_dir, final_video_path)

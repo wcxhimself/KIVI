@@ -78,6 +78,7 @@ class ModelConfig:
         self.generation: dict = data.get("generation", {})
         self.output_patterns: List[str] = data.get("output_patterns", [])
         self.api: dict = data.get("api", {})
+        self.runtime_config: dict = data.get("runtime_config", {}) or {}
 
     @classmethod
     def from_yaml(cls, path: str) -> "ModelConfig":

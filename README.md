@@ -52,7 +52,7 @@ You can override the repository's default model-weight locations by setting envi
 | Wan 2.2 | `git clone https://github.com/Wan-Video/Wan2.2 video_generation_models/Wan2.2` | `https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B`, `https://huggingface.co/Wan-AI/Wan2.2-I2V-A14B` |
 | HunyuanVideo 1.5 | `git clone https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5 video_generation_models/HunyuanVideo-1.5` | `https://huggingface.co/tencent/HunyuanVideo-1.5` |
 | Helios-Base | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` | `https://huggingface.co/BestWishYsh/Helios-Base` |
-| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `https://huggingface.co/meituan-longcat/LongCat-Video` (foundational) |
+| LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `https://huggingface.co/meituan-longcat/LongCat-Video` |
 | LongLive 1.0 | `git clone https://github.com/NVlabs/LongLive/tree/v1.0 video_generation_models/LongLive` | `https://huggingface.co/Efficient-Large-Model/LongLive-1.3B` |
 > Seedance 2.0 and HappyHorse 1.0 are API-based and require neither code repositories nor local weights.
 

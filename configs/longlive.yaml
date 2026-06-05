@@ -16,5 +16,29 @@ generation:
       {code_dir}/interactive_inference.py
       --config_path "{config_path}"
 
+runtime_config:
+  denoising_step_list: [1000, 750, 500, 250]
+  warp_denoising_step: true
+  num_frame_per_block: 3
+  model_kwargs:
+    local_attn_size: 12
+  data_path: "{data_path}"
+  output_folder: "{output_dir}"
+  inference_iter: -1
+  num_output_frames: "{num_frames}"
+  use_ema: false
+  seed: 42
+  num_samples: 1
+  save_with_index: true
+  switch_frame_indices: "{switch_frame_indices}"
+  context_noise: 0
+  generator_ckpt: "{generator_ckpt}"
+  lora_ckpt: "{lora_ckpt}"
+  adapter:
+    type: lora
+    rank: 256
+    alpha: 256
+    dropout: 0.0
+
 output_patterns:
   - "rank*-*-*_*.mp4"
