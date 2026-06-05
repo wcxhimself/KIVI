@@ -16,7 +16,7 @@ Given a short instructional prompt (e.g., *"How to set up cellular service on a 
 ## Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/wcxhimself/KIVI
 cd KIVI
 conda create -n kivi python=3.10 -y && conda activate kivi
 pip install -r requirements.txt
