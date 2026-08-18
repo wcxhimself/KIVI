@@ -1,0 +1,52 @@
+name: minimax-h3
+description: "MiniMax H3 — segment-based T2V+I2V via MiniMax Open Platform API"
+mode: api
+fps: 24
+max_num_frames: 360
+
+api:
+  provider: "generic"
+  env_key: "MINIMAX_API_KEY"
+  base_url: "https://api.minimaxi.com"
+  auth_header: "Bearer {api_key}"
+  min_duration: 4
+  max_duration: 15
+
+  t2v:
+    url: "/v2/video_generation"
+    async_header: ""
+    body:
+      model: "MiniMax-H3"
+      content:
+        - type: text
+          text: "{prompt}"
+      resolution: "768P"
+      duration: "{duration}"
+      ratio: "16:9"
+    task_id_path: "task_id"
+
+  i2v:
+    url: "/v2/video_generation"
+    async_header: ""
+    body:
+      model: "MiniMax-H3"
+      content:
+        - type: text
+          text: "{prompt}"
+        - type: image_url
+          image_url:
+            url: "{data_uri}"
+          role: "first_frame"
+      resolution: "768P"
+      duration: "{duration}"
+      ratio: "adaptive"
+    task_id_path: "task_id"
+
+  poll:
+    url: "/v2/query/video_generation/{task_id}"
+    interval: 10
+    timeout: 3600
+    status_path: "task.status"
+    success_values: ["succeeded"]
+    failed_values: ["failed", "cancelled"]
+    video_url_path: "task.content.url"
