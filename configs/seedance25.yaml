@@ -1,0 +1,56 @@
+name: seedance-2.5
+description: "Seedance 2.5 — segment-based T2V+I2V via ByteDance ARK API"
+mode: api
+fps: 24
+max_num_frames: 360
+
+api:
+  provider: "generic"
+  env_key: "ARK_API_KEY"
+  base_url: "https://ark.cn-beijing.volces.com/api/v3"
+  auth_header: "Bearer {api_key}"
+  min_duration: 4
+  max_duration: 15
+
+  t2v:
+    url: "/contents/generations/tasks"
+    async_header: ""
+    body:
+      model: "doubao-seedance-2-5-260628"
+      content:
+        - type: text
+          text: "{prompt}"
+      duration: "{duration}"
+      ratio: "16:9"
+      resolution: "480p"
+      seed: "{seed}"
+      generate_audio: false
+      watermark: false
+    task_id_path: "id"
+
+  i2v:
+    url: "/contents/generations/tasks"
+    async_header: ""
+    body:
+      model: "doubao-seedance-2-5-260628"
+      content:
+        - type: text
+          text: "{prompt}"
+        - type: image_url
+          image_url:
+            url: "{data_uri}"
+      duration: "{duration}"
+      resolution: "480p"
+      seed: "{seed}"
+      generate_audio: false
+      watermark: false
+    task_id_path: "id"
+
+  poll:
+    url: "/contents/generations/tasks/{task_id}"
+    interval: 10
+    timeout: 3600
+    status_path: "status"
+    success_values: ["succeeded"]
+    failed_values: ["failed", "expired", "canceled"]
+    video_url_path: "content.video_url"
