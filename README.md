@@ -182,10 +182,10 @@ Results reported in the paper on the 54-prompt subset (three prompts per categor
 
 | Model | FactP (%) | HelpS (%) |
 |---|---:|---:|
-| Seedance 2.5 | 82.3 | 69.9 |
-| Seedance 2.0 | 81.6 | 66.6 |
-| HappyHorse 1.0 | 83.2 | 61.6 |
 | MiniMax H3 | **86.8** | **76.2** |
+| Seedance 2.5 | 82.3 | 69.9 |
+| HappyHorse 1.0 | 83.2 | 61.6 |
+| Seedance 2.0 | 81.6 | 66.6 |
 | Wan 2.2 | 73.1 | 48.4 |
 | HunyuanVideo 1.5 | 63.2 | 32.9 |
 | Helios-Base | 64.2 | 27.0 |
