@@ -5,7 +5,7 @@
 
 KIVI evaluates text-to-video models on **factuality** and **helpfulness** — shifting the question from *"Does the video look good?"* to *"Does the video communicate correct and useful information?"*
 
-Given a short instructional prompt (e.g., *"How to set up cellular service on a Google Pixel 10"*), models must generate videos that are factually accurate and practically useful. KIVI-Bench includes 1,080 prompts across 18 knowledge-intensive categories, with automatic metrics that achieve ~70% agreement with human evaluation.
+Given a short information-seeking prompt (e.g., *"How to set up cellular service on a Google Pixel 10"*), models must generate videos that convey factually accurate and practically useful information. KIVI-Bench contains 1,080 prompts across 18 categories. Our automatic factuality and helpfulness metrics achieve 70.8% and 69.0% agreement with human preferences, respectively.
 
 <p align="center">
   <img src="assets/overall_pipeline.png" alt="KIVI Pipeline" width="800">
@@ -30,14 +30,15 @@ export LLM_API_KEY={your_key}
 export LLM_BASE_URL={your_endpoint}
 ```
 
-The pipeline uses the OpenAI-compatible API format and defaults to Google Gemini 3.1 Pro via OpenRouter. To switch providers, change `LLM_BASE_URL` and update the model name in the code.
+The pipeline uses `google/gemini-3.1-pro-preview` through an OpenAI-compatible API. Set `LLM_API_KEY` and `LLM_BASE_URL` explicitly. The endpoint must support the video input format used by the evaluation code.
 
 For API-based video generation models, set the provider-specific key:
 
 | Model | Variable |
 |---|---|
-| Seedance 2.0 | `ARK_API_KEY` |
+| Seedance 2.0 / Seedance 2.5 | `ARK_API_KEY` |
 | HappyHorse 1.0 | `DASHSCOPE_API_KEY` |
+| MiniMax H3 | `MINIMAX_API_KEY` |
 
 ---
 
@@ -54,7 +55,7 @@ You can override the repository's default model-weight locations by setting envi
 | Helios-Base | `git clone https://github.com/PKU-YuanGroup/Helios video_generation_models/Helios` | `https://huggingface.co/BestWishYsh/Helios-Base` |
 | LongCat-Video | `git clone https://github.com/meituan-longcat/LongCat-Video video_generation_models/LongCat-Video` | `https://huggingface.co/meituan-longcat/LongCat-Video` |
 | LongLive 1.0 | `git clone https://github.com/NVlabs/LongLive/tree/v1.0 video_generation_models/LongLive` | `https://huggingface.co/Efficient-Large-Model/LongLive-1.3B` |
-> Seedance 2.0 and HappyHorse 1.0 are API-based and require neither code repositories nor local weights.
+> Seedance 2.5, Seedance 2.0, HappyHorse 1.0, and MiniMax H3 use API-based adapters in this repository and do not require local model weights.
 
 ---
 
@@ -73,7 +74,7 @@ python run_evaluation.py --list-models
 | `--model {model}` | Model name to evaluate | *required* |
 | `--step {stage}` | Pipeline stage: `all`, `script`, `generate`, `extract`, `verify`, `score` | `all` |
 | `--gpu {ids}` | GPU device IDs (e.g. `0` or `0,1` for multi-GPU) | `0` |
-| `--category {name}` | Filter by category (e.g. `"Cars_Other_Vehicles"`). Runs all if omitted. | `None` |
+| `--category {name}` | Filter by category (e.g. `"Cars & Other Vehicles"`). Runs all if omitted. | `None` |
 | `--prompt-index {n}` | Filter to a specific prompt within a category (1-based). Requires `--category`. | `None` |
 | `--prompts-json {path}` | Path to prompts JSON file | `experiment_prompts.json` |
 
@@ -83,7 +84,7 @@ python run_evaluation.py --list-models
 python run_evaluation.py --model {model}
 ```
 
-This runs all five stages in order: outline + script → video generation → claim extraction → claim verification → scoring.
+The full pipeline generates an outline and video, extracts and verifies factual claims, evaluates helpfulness independently, and computes the final scores.
 
 ### Individual Stages
 
@@ -102,7 +103,9 @@ python run_evaluation.py --model {model} --step score               # compute fi
 Evaluate your own video without running model generation:
 
 ```bash
-python run_evaluation.py --video-path {path/to/video.mp4} --prompt {your_video_prompt}
+python run_evaluation.py \
+  --video-path "/path/to/video.mp4" \
+  --prompt "Explain how to complete the task."
 ```
 
 Results are saved to `evaluation/` next to the video file.
@@ -175,13 +178,14 @@ HelpS = (Relevance + Completeness + Clarity) / 3 × 100%
 
 ## Results
 
-Results on the 54-prompt subset using Gemini 3.1 Pro Preview as the evaluator:
+Results reported in the paper on the 54-prompt subset (three prompts per category), using Gemini 3.1 Pro Preview for automatic evaluation. Scores are averaged over videos.
 
 | Model | FactP (%) | HelpS (%) |
-|---|---|---|
-| *Human (reference)* | 97.8 | 81.9 |
+|---|---:|---:|
+| Seedance 2.5 | 82.3 | 69.9 |
 | Seedance 2.0 | 81.6 | 66.6 |
 | HappyHorse 1.0 | 83.2 | 61.6 |
+| MiniMax H3 | **86.8** | **76.2** |
 | Wan 2.2 | 73.1 | 48.4 |
 | HunyuanVideo 1.5 | 63.2 | 32.9 |
 | Helios-Base | 64.2 | 27.0 |
