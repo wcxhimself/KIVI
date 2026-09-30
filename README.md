@@ -1,6 +1,7 @@
 # KIVI: Knowledge-Intensive Video Generation
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/pdf/2606.01285v2)
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-ffd21e)](https://huggingface.co/datasets/wcxhimself/KIVI-Generated-Videos)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 KIVI evaluates text-to-video models on **factuality** and **helpfulness** — shifting the question from *"Does the video look good?"* to *"Does the video communicate correct and useful information?"*
@@ -10,6 +11,24 @@ Given a short information-seeking prompt (e.g., *"How to set up cellular service
 <p align="center">
   <img src="assets/overall_pipeline.png" alt="KIVI Pipeline" width="800">
 </p>
+
+---
+
+## Generated Videos
+
+Preserved generation outputs for **MiniMax H3** and **Seedance 2.5** are available on [Hugging Face](https://huggingface.co/datasets/wcxhimself/KIVI-Generated-Videos).
+
+- [Browse MiniMax H3 videos](https://huggingface.co/datasets/wcxhimself/KIVI-Generated-Videos/tree/main/videos/minimax-h3)
+- [Browse Seedance 2.5 videos](https://huggingface.co/datasets/wcxhimself/KIVI-Generated-Videos/tree/main/videos/seedance-2.5)
+- [Download complete archives](https://huggingface.co/datasets/wcxhimself/KIVI-Generated-Videos/tree/main/archives)
+
+Each model includes outputs for the 54 prompts used in the paper experiments.
+
+> Outputs for HappyHorse 1.0, Seedance 2.0, Wan 2.2, HunyuanVideo 1.5,
+> Helios-Base, LongCat-Video, and LongLive 1.0 were not retained because an
+> unexpected server restart occurred before backup.
+
+The repository's MIT license applies to the code. See the dataset card for video and data usage terms.
 
 ---
 
