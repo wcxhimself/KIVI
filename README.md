@@ -1,6 +1,6 @@
 # KIVI: Knowledge-Intensive Video Generation
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/abs/2606.01285)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b)](https://arxiv.org/pdf/2606.01285v2)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 KIVI evaluates text-to-video models on **factuality** and **helpfulness** — shifting the question from *"Does the video look good?"* to *"Does the video communicate correct and useful information?"*
